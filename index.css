@@ -1,0 +1,118 @@
+@charset "UTF-8";
+
+body
+{ width: 36rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 2rem 8rem 2rem;
+  font-family: serif; }
+
+h1
+{ font-weight: 600;
+  margin-top: 3rem;
+  margin-bottom: 8rem;
+  font-size: 2rem;
+  line-height: 1; }
+
+h1.title
+{ text-transform: uppercase;
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 10rem; }
+
+h2
+{ font-weight: 400;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  line-height: 1;
+  text-align: center;
+  text-indent: 0; }
+
+h2.authors
+{ font-variant: small-caps;
+  font-weight: 600;
+  font-style: italic; }
+
+h2.contents-title
+{ font-style: italic;
+  font-size: 2rem;
+  margin-bottom: 3rem; }
+
+h2.dedication
+{ text-align: right;
+  margin-bottom: 30rem; }
+
+p
+{ font-size: 1.2rem;
+  line-height: 1.4rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  text-indent: 1rem; }
+
+p.translation, p.original-title, p.copyright, p.redaction,
+p.digitised, p.cover, p.credits, p.isbn, p.dedication
+{ font-weight: 400;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  line-height: 1;
+  text-align: center;
+  text-indent: 0; }
+
+p.digitised { margin-bottom: 10rem; }
+
+blockquote
+{ margin: 3rem 0;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  line-height: 1.4rem;
+  font-size: 1.2rem; }
+
+blockquote footer
+{ text-align: right; }
+
+ol, ul
+{ padding-left: 1rem;
+  text-align: left; }
+
+ul
+{ list-style: none; }
+
+li
+{ margin: 1rem 0; }
+
+a:link, a:visited
+{ color: inherit; }
+
+a:link
+{ text-decoration: none; }
+
+img
+{ margin: 2rem auto;
+  display: block; }
+
+p.signature
+{ text-align: right;
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  margin: 2rem 0; }
+
+p.date
+{ text-indent: 0;
+  font-style: italic;
+  margin: 2rem 0; }
+
+span.smallcaps
+{ font-weight: 600; }
+
+span.normal
+{ text-transform: none; }
+
+section
+{ margin-bottom: 20rem; }
+
+.footnote-ref
+{ font-size: small;
+  vertical-align: text-top; }
