@@ -116,3 +116,6 @@ section
 .footnote-ref
 { font-size: small;
   vertical-align: text-top; }
+
+li > p
+{ text-indent: 0; }
