@@ -13,11 +13,11 @@ a może wręcz ją zakłada; rozbija hierarchiczny porządek społeczny
 przez egzoteryczne przedstawienie, nawet i właśnie wówczas, gdy
 apologetyzuje ten porządek; wyśpiewać gniew Achillesa i błądzenia Odyseusza to wszak nostalgiczna stylizacja tego, czego wyśpiewać już nie można, a bohater przygód okazuje się prototypem
 mieszczańskiego indywiduum, którego pojęcie rodzi się z owej
-jednolitej samowiedzy, jakiej pradawnym wzorem jest wędrowiec-Odyseusz. Epopeja, historiozoficzne *pendant* powiesci, ujawnia wreszcie cechy zbliżone do powieściowych, a dostojny kosmos
+jednolitej samowiedzy, jakiej pradawnym wzorem jest wędrowiec-Odyseusz. Epopeja, historiozoficzne *pendant* powieści, ujawnia wreszcie cechy zbliżone do powieściowych, a dostojny kosmos
 wypełnionego sensem świata homeryckiego jawi się jako dzieło
 porządkującego rozumu, który rozbija mit właśnie przez odzwierciedlenie go w racjonalnym porządku.
 
-Mieszczańsko-oświeceniowy pierwiastek u Homera podkreślano w późnoromonatycznych niemieckich interpretacjach antyku,
+Mieszczańsko-oświeceniowy pierwiastek u Homera podkreślano w późnoromantycznych niemieckich interpretacjach antyku,
 których śladem podążał Nietzsche w swoich wczesnych pismach.
 Nietzsche — jak niewielu od czasów Hegla — umiał rozpoznać
 dialektykę oświecenia. Sformułował jego dwoisty stosunek do
@@ -57,7 +57,7 @@ sumienia dzisiejszych archaików niebezpieczeństwo, że cały proces
 
 Ale interpretacja Homera w duchu antymitologicznym, oświeconym, w opozycji do mitologii chtonicznej, jest nieprawdziwa,
 gdyż ograniczona. W służbie represywnej ideologii Rudolf Borchardt na przykład, najznamienitszy, a przeto najbardziej bezradny
-wśrod ezoteryków niemieckiego przemysłu ciężkiego, zbyt wcześnie urywa analizę. Nie widzi, że wysławiane moce pierwotne same
+wśród ezoteryków niemieckiego przemysłu ciężkiego, zbyt wcześnie urywa analizę. Nie widzi, że wysławiane moce pierwotne same
 już stanowią pewien etap oświecenia. Nadto bezceremonialnie
 utożsamia epopeję z powieścią, i w rezultacie uchodzi jego uwagi
 to, co jest wspólnym elementem epopei i mitu: panowanie
@@ -108,7 +108,7 @@ niestrudzenie wypróbowuje swe role. „Lecz gdzie niebezpieczeństwo, Tam i wyb
 tożsamość i która umożliwia mu przetrwanie, czerpie swoją
 substancję z doświadczenia rozmaitości, odmiany, dekoncentracji,
 ten zaś, komu wiedza zapewnia przetrwanie, najśmielej też naraża
-się na niebezpieczeństwo śmierci, ono bowiem hartuje go i umacnia do życia. Na tym polega tajemnica procesu toczącego sie
+się na niebezpieczeństwo śmierci, ono bowiem hartuje go i umacnia do życia. Na tym polega tajemnica procesu toczącego się
 między epopeją a mitem: jaźń nie stanowi sztywnej opozycji wobec
 przygody, ale właśnie przez tę opozycję formuje się i przybiera
 stały kształt, jest jednością tylko w wielości tego, co jedności tej
@@ -124,7 +124,7 @@ zginę. Tak przemawiał do serca miłego, a wierne, cierpliwe serce było mu
 posłuszne. Lecz sam się obracał z boku na bok” XX, 13/24 (s. 315).
 Podmiot jeszcze nie okrzepł w sobie, nie uzyskał spójnej tożsamości. Nie
 panuje nad afektami, odwagą i sercem. „Na początku Pieśni XX szczeka
-*kradie* albo też *etor* (słowa te są synonimami 17, 22), i Odyseusz uderza sie
+*kradie* albo też *etor* (słowa te są synonimami 17, 22), i Odyseusz uderza się
 w pierś, a więc w serce i przemawia do niego. Serce trzepocze, część jego
 ciała wzbudza się wbrew jego woli. Toteż jego słowa nie są zwykłą
 formułą, jak u Eurypidesa, gdy mówi się do ręki i nogi, by się poruszyły
@@ -273,7 +273,7 @@ choć już wówczas nieodłączną od żądzy przywileju. Dominująca
 dziś teoria ofiary opiera się na wyobrażeniu kolektywnego ciała,
 plemienia, do którego przelana krew członka plemienia powrócić
 ma jako siła. Choć totemizm już w swoim czasie był ideologią, to
-przecież odpowiada pewnym realnym warunkom, kiedy to panujacy rozum wymagał ofiar. Jest to sytuacja archaicznego niedostatku, gdzie ofiary w ludziach idą w parze z kanibalizmem. Powiększony liczebnie kolektyw może utrzymać się przy życiu tylko przez
+przecież odpowiada pewnym realnym warunkom, kiedy to panujący rozum wymagał ofiar. Jest to sytuacja archaicznego niedostatku, gdzie ofiary w ludziach idą w parze z kanibalizmem. Powiększony liczebnie kolektyw może utrzymać się przy życiu tylko przez
 spożywanie ludzkiego mięsa; niewykluczone, że żądza uciech
 pewnych grup etnicznych albo społecznych związana była jakoś
 z kanibalizmem, o czym świadczy dziś już tylko odraza do
@@ -320,7 +320,7 @@ tylko repryzą najstarszych i sięgają wstecz tym dalej w miarę jak
 rozwój społeczeństwa klasowego demaskuje ideologie uprzednio
 usankcjonowane. Osławiona irracjonalność ofiary świadczy tylko
 o tym, że praktyka ofiar trwała dłużej niż ich nieprawdziwa już,
-mianowicie partykularna, konieczność racjonalna. Ow rozstęp
+mianowicie partykularna, konieczność racjonalna. Ów rozstęp
 między racjonalnością a irracjonalnością ofiary służy fortelom
 chytrości. Wszelka demitologizacja ma formę niepowstrzymanego
 doświadczenia daremności i zbędności ofiary.
@@ -404,10 +404,10 @@ potrzebuje już wyrzeczeń ni panowania: które włada sobą nie po
 to, by sobie i innym zadawać gwałt, ale dla pojednania.
 
 Transformacja ofiary w subiektywność odbywa się pod znakiem
-oej chytrości, która zawsze już miała swój udział w ofierze.
+owej chytrości, która zawsze już miała swój udział w ofierze.
 W nieprawdzie chytrości założone w ofierze oszustwo staje się
 elementem charakteru, okaleczeniem chytrusa, którego twarz
-zniekszałcona zostaje ciosami, jakie zadał sam sobie, aby się
+zniekształcona zostaje ciosami, jakie zadał sam sobie, aby się
 ocalić.^[W oryginale gra słów: w słowie *der Verschlagene* — przebiegły, szczwany
 — wyraźnie czytelna jest cząstka *Schlag* — cios, uderzenie (*przyp*. *tłum*. ).] Wyraża się w tym stosunek ducha i siły fizycznej. Ten,
 który rozkazuje, nosiciel ducha — bo tak niemal zawsze przedstawiany jest chytry Odyseusz — mimo wszystkich opowieści
@@ -454,7 +454,7 @@ samego siebie. Nie może mieć nigdy wszystkiego naraz, musi
 zawsze czekać, zdobywać się na cierpliwość, rezygnować, nie
 wolno mu spożywać lotosu ani raczyć się wołami świętego
 Hyperiona, a gdy żegluje przez cieśninę, musi wziąć w rachubę
-utratę towarzyszy, których porwie Scylla. Przemyka sie, na tym
+utratę towarzyszy, których porwie Scylla. Przemyka się, na tym
 polega jego przetrwanie, a cała sława, jaka przypada mu w udziale, potwierdza jedynie, że godność bohatera zdobywa się tylko za
 cenę zdławienia dążeń do całego, wszechogarniającego, niepodzielonego szczęścia.
 
@@ -479,7 +479,7 @@ podziemnym — w micie Tantala, Syzyfa, Danaid — dzieje się
 z wyroku Olimpu. Są figurami przymusu: okrucieństwa, jakich się
 dopuszczają, to ciążąca na nich klątwa. Mityczne fatum definiuje
 się przez ekwiwalencję między ową klątwą, niegodziwością, która
-ją okupia, oraz wyrastajaca z niej winą, która reprodukuje klątwę.
+ją okupia, oraz wyrastająca z niej winą, która reprodukuje klątwę.
 Wszelkie prawo w dotychczasowej historii nosi ślady tego schematu. W micie każdy moment cyklicznego biegu rzeczy jest odwetem
 za moment poprzedni i w ten sposób pomaga ustanowić kontekst
 winy jako prawo. Otóż temu Odyseusz się sprzeciwia. Jaźń
@@ -503,12 +503,12 @@ to przecież słuchając nadal pozostaje jej podległy. Przestrzega
 umowy, słucha, i jeszcze uwiązany do masztu aż trzęsie się, by paść
 w ramiona uwodzicielek. Ale wytropił w umowie pewną lukę, którą
 — dotrzymując reguł — może się wymknąć. W pradziejowym
-kontrakcie nie zastrzeżono, czy przejeżdzający obok wyspy mają
+kontrakcie nie zastrzeżono, czy przejeżdżający obok wyspy mają
 słuchać śpiewu syren związani czy nie. Więzy należą dopiero do
 stadium, gdy jeńców nie zabijano od razu. Odyseusz uznaje
 archaiczną potęgę pieśni, gdyż — technicznie oświecony — każe się
 skrępować. Skłania się ku pieśni rozkoszy i udaremnia ją jak śmierć.
-Skrepowany słuchacz rwie się do syren jak każdy inny. Ale
+Skrępowany słuchacz rwie się do syren jak każdy inny. Ale
 Odyseusz urządził to tak, by podlegając syrenom zarazem im nie
 ulec. Mimo całej mocy swego pragnienia, która odzwierciedla moc
 syren, nie może się do nich wyrwać, bo wiosłujący towarzysze
@@ -528,7 +528,7 @@ zarazem jest ożywczą siłą wszelkiej sztuki muzycznej.
 Wraz z rozwiązaniem umowy przez jej dosłowne spełnienie
 zmienia się historyczna pozycja języka: język zaczyna oznaczać.
 Mityczny los, fatum, stanowiły jedno z wypowiedzianym słowem.
-Krag wyobrażeń, do którego należą wyroki losu, nieodmiennie
+Krąg wyobrażeń, do którego należą wyroki losu, nieodmiennie
 wykonywane przez mityczne postaci, nie zna jeszcze różnicy
 między: słowem a przedmiotem. Słowo ma mieć bezpośrednią
 władzę nad rzeczą, ekspresja i intencja zbiegają się ze sobą.
@@ -557,7 +557,7 @@ przyznaje się do siebie, gdy zapiera się siebie jako Nikt, ocala życie
 — zanikając. Takie upodobnienie się przez język do tego, co
 martwe, zawiera w sobie schemat nowoczesnej matematyki. a
 
-Chytrość jako srodek wymiany, gdzie wszystko odbywa się jak
+Chytrość jako środek wymiany, gdzie wszystko odbywa się jak
 należy, gdzie umowa zostaje dotrzymana, a partner mimo to jest
 oszukany, przypomina pewien typ gospodarki, występujący — jeśli
 nie w mitycznych praczasach, to w każdym razie we wczesnej
@@ -608,12 +608,12 @@ im tylko zapomnienie i zatrata woli. Zaklęcie skazuje jedynie na
 stan bez pracy i walki pośród „żyznej ziemi”^[Tamże, XXIII, 311 (s. 363).]: „Skoro jednak ktoś
 zje lotosu miodny plon, już ani wracać nie chce, ani dać wieści
 o sobie, tak i ci woleli zostać u Lotofagów, razem z nimi zrywać
-lotos i zapomnieć o powrocie”^[Tamże, IX, 94 i nast. (s. 142).]. Na taką idyllę, przy pominającą
+lotos i zapomnieć o powrocie”^[Tamże, IX, 94 i nast. (s. 142).]. Na taką idyllę, przypominającą
 wszak szczęście narkotyku, dzięki któremu w surowszych ustrojach społecznych warstwy ujarzmione zdolne są znosić nieznośne
 warunki, rozum samozachowania swoim ludziom nie zezwala.
 Idylla ta to w istocie tylko pozór szczęścia, tępa wegetacja, uboga
-jak egzystencja zwierząt. W najlepszym przy padku byłby to brak
-świadomości nieszcześcia. Szczęście jednak zawiera w sobie prawdę. Jest zasadniczo rezultatem czegoś. Rozwija się na gruncie
+jak egzystencja zwierząt. W najlepszym przypadku byłby to brak
+świadomości nieszczęścia. Szczęście jednak zawiera w sobie prawdę. Jest zasadniczo rezultatem czegoś. Rozwija się na gruncie
 zniesionego cierpienia. Toteż cierpliwie wytrzymujący wszystko
 Odyseusz ma słuszność, gdy nie może wytrzymać u Lotofagów.
 Reprezentuje przeciwko nim ich własną sprawę, urzeczywistnienie
@@ -646,7 +646,7 @@ planowego wyżywienia. Wspomnienie o najbardziej odległym
 i najdawniejszym szczęściu, żywe w zmyśle powonienia, splata się
 jeszcze z intymnością cielesnego pochłaniania, inkorporacji. Odsyła w czasy prehistoryczne. Nieważne, ile udręk przyszło wtedy
 znosić — ludzie nie umieją wyobrazić sobie szczęścia, które nie
-zapożyczałoby rysów od owej najdawniejszej epoki: „Płyneliśmy
+zapożyczałoby rysów od owej najdawniejszej epoki: „Płynęliśmy
 dalej ze smutkiem w sercu”^[*Odyseja*, IX, 105 (s. 143).].
 
 Cyklop Polifem, następna postać, ku której zagnany zostaje
@@ -654,12 +654,12 @@ Odyseusz — u Homera „zostać zagnanym” i „być przebiegłym” to
 ekwiwalenty^[Niem. *verschlagen werden* (przypadkiem, mimo woli gdzieś się dostać)
 i *verschlagen sein* (być przebiegłym), por. też gwiazdkowy przypis na s. 73
 (przyp. tłum.).] — obnosi swe jedno oko, wielkości koła, jako relikt
-tych samych praczasow: jedno oko przypomina nos i usta, narzady
+tych samych praczasów: jedno oko przypomina nos i usta, narządy
 prymitywniejsze od symetrii oczu i uszu^[Wg Wilamowitza cyklopi to „właściwie zwierzęta” (*Glaube der Hellenen*, t. I, S. 14).], która w jedności
 pokrywających się postrzeżeń toruje dopiero drogę identyfikacji,
 głębi, przedmiotowości. Mimo to w porównaniu z Lotofagami
 Polifem reprezentuje późniejszą epokę, epokę barbarzyńską w ścisłym sensie, mianowicie czasy myśliwych i pasterzy. Barbarzyństwo
-u Homera to stan, w którym nie prowadzi się jeszcze systematycztej uprawy roli, a przeto: nie doszło jeszcze do systematycznej,
+u Homera to stan, w którym nie prowadzi się jeszcze systematycznej uprawy roli, a przeto: nie doszło jeszcze do systematycznej,
 wyznaczającej rozkład czasu organizacji pracy i społeczeństwa.
 Homer mówi o „nie znających prawa Kiklopach”^[*Odyseja*, IX, 106.], którzy — i tu
 cywilizacja jak gdyby ukradkiem przyznaje się do winy — „zdają się
@@ -680,13 +680,13 @@ Homerowi na zarzut, iż cyklopi nie zważają wzajem na siebie, żyją
 w stanie dzikości. Zresztą pragmatyczna wierność narratora podważa nieco później tę ocenę, dyktowaną kryteriami cywilizacji: na
 okrzyk oślepionego Polifema współplemieńcy mimo wszystko
 przybiegają, i tylko fortel Odyseusza z imieniem powstrzymuje
-głuptasow w ich gotowości do solidarnej pomocy^[Por. tamże, 403 (s. 151).]. Głupota
+głuptasów w ich gotowości do solidarnej pomocy^[Por. tamże, 403 (s. 151).]. Głupota
 i brak praw wydają się tu tym samym: gdy Homer mówi
 o Polifemie „potwór gardzący prawem”^[Tamże, 428 (s. 152).], znaczy to nie tylko, że
 ten w swoim myśleniu nie respektuje praw obyczajności, ale także,
 że samo jego myślenie nie jest podporządkowane prawom, że jest
 niesystematyczne, rapsodyczne: wszak gdy Odyseusz z towarzyszami uczepili się baranom u brzuchów, miast dosiąść ich wierzchem, Polifem nie umie już rozwiązać tej mieszczańskiej łamigłówki i odpowiedzieć sobie na pytanie, jak też nieproszeni goście
-wymkneli sie z jaskini; nie zauważa też sofistycznego dwuznacznika w fałszywym imieniu Odyseusza. Polifem, który zawierza
+wymknęli się z jaskini; nie zauważa też sofistycznego dwuznacznika w fałszywym imieniu Odyseusza. Polifem, który zawierza
 potędze nieśmiertelnych, jest ludożercą, a więc mimo ufności
 odmawia bogom szacunku: „Głupi jesteś, cudzoziemcze, albo
 z daleka przychodzisz” — w późniejszych czasach nie rozróżniano
@@ -717,7 +717,7 @@ rozpoznaje powracającego Odyseusza — mimo odrażającej brutalności, jaką m
 Polifem odpowiada nie po prostu zajadłą nienawiścią, ale wzbraniając się uznać prawo, które jeszcze na dobre go nie obejmuje: nie
 zamierza oszczędzić Odyseusza i jego towarzyszy — „jeśli by mi
 serce nie kazało”^[Tamże, 278 (s. 147).] — natomiast czy rzeczywiście, jak utrzymuje
-w swej relacji Odyseusz, przemawia podstępnie — trudno rozstrzygnąć. Z pyszałkowatym uniesieniem odurzony cyklop obiecuje Odyseuszowi gościniec^[Por. tamze, 355 i nast. (s. 150).], i dopiero gdy Odyseusz przedstawia
+w swej relacji Odyseusz, przemawia podstępnie — trudno rozstrzygnąć. Z pyszałkowatym uniesieniem odurzony cyklop obiecuje Odyseuszowi gościniec^[Por. tamże, 355 i nast. (s. 150).], i dopiero gdy Odyseusz przedstawia
 się jako Nikt, naprowadza go to na złowrogi pomysł, że podarek
 z jego strony będzie polegał na tym, iż dowódcę zje na ostatku
 — może dlatego, że nazwał się on Nikim, a przeto dla nietęgiej
@@ -761,7 +761,7 @@ nad naturą, popada w zuchwalstwo. I tak chytry Odyseusz uciekając, jeszcze w z
 drwi sobie z niego, ale zdradza mu swoje prawdziwe imię i pochodzenie: jak gdyby dawny świat miał nad nim, który właśnie
 szczęśliwie uszedł niebezpieczeństwa, taką jeszcze moc, że Odyseusz, raz nazwawszy się Nikim, musi obawiać się, iż znowu stanie
 się nikim, jeżeli nie odtworzy swej tożsamości za pomocą magii
-słowa: choć właśnie magia ta została dopiero co przez racjnonalną
+słowa: choć właśnie magia ta została dopiero co przez racjonalną
 tożsamość wyparta. Przyjaciele starają się powstrzymać go od
 głupstwa, jakim jest deklaracja własnej przebiegłości, ale bez
 powodzenia, i Odyseuszowi ledwo udaje się ocaleć przed skalnymi
@@ -794,7 +794,7 @@ społeczeństwa burżuazyjnego, ale u jego początku, jako negatywna utopia, ku 
 
 W odróżnieniu od opowieści o wydostaniu się z mitu, jakim jest
 ucieczka od barbarzyństwa ludożercy, czarodziejska historia o Kirke odsyła znowu do stadium magicznego we właściwym sensie.
-Magia dezintegruje jaźn, ktora dostaje się ponownie w jej władzę
+Magia dezintegruje jaźń, która dostaje się ponownie w jej władzę
 i tym samym z powrotem zepchnięta zostaje na poziom gatunku
 starszego biologicznie. Rozbicie jaźni dokonuje się raz jeszcze
 mocą zapomnienia. Wraz z trwałym porządkiem czasu unicestwiona zostaje też silna wola podmiotu, który się tym porządkiem
@@ -805,10 +805,10 @@ wejść do łoża bogini”. Symbolika Kirke jest dwuznaczna
 — w fabule występuje ona na przemian jako ta, która przywodzi do
 zguby, i ta, która pomaga; dwuznaczność też kryje się w jej
 rodowodzie: Kirke jest córką Heliosa i wnuczką Okeanosa.^[Tamże, X, 296/7 (s. 165).]
-Łączy żywioł ognia i wody — które to połączenie — w przeciwienstwie do prymatu jednego określonego aspektu natury, matriarchalnego bądź patriarchalnego, stanowi istotę promiskuityzmu,
+Łączy żywioł ognia i wody — które to połączenie — w przeciwieństwie do prymatu jednego określonego aspektu natury, matriarchalnego bądź patriarchalnego, stanowi istotę promiskuityzmu,
 heteryczności, widoczną jeszcze w spojrzeniu nierządnicy, w którym lśni wilgotny refleks księżyca.^[Por. tamże, 138 i nast. Por. też F. C. Bauer: *Symbolik und Mythologie*.
 T. 1. Stuttgart 1824, S. 47.] Hetera daje szczęście i niszczy
-autonomię uszcześliwionego — na tym polega dwuznaczność tej
+autonomię uszczęśliwionego — na tym polega dwuznaczność tej
 postaci. Ale niekoniecznie niszczy jego samego: zachowuje starszą
 formę życia.^[Por. J. A. K. Thomson: *Studies in the Odyssey*. Oxford 1914, s. 153.] Podobnie jak Lotofagowie Kirke nie czyni swoim
 gościom nic, co groziłoby śmiercią, i nawet ci, których zamieniła
@@ -818,7 +818,7 @@ ludzi, ale łasiły się, wywijając długimi ogonami. Jak psy łaszą się
 koło pana wracającego z uczty, bo im zawsze przynosi smaczne
 kąski, tak uwijały się przy naszych towarzyszach te lwy i wilki
 o mocnych pazurach”^[*Odyseja*, X, 212 i nast. (s. 163).]. Zaczarowani ludzie zachowują się podobnie jak dzikie zwierzęta, które przysłuchiwały się grze Orfeusza.
-Mityczny rozkaz, który ma nad mimi władzę, wyzwala w nich
+Mityczny rozkaz, który ma nad nimi władzę, wyzwala w nich
 zarazem wolność uciśnionej natury. Cofają się do stadium mitycznego, ale tym samym mit zostaje unieważniony. Ujarzmienie
 popędu — to, co daje jaźń i oddziela od zwierząt — było introwersją
 ujarzmienia w beznadziejnie zamkniętym cyklu przyrody, do
@@ -832,7 +832,7 @@ można dopatrzeć się elementu rozkoszy jako takiej. Eliminuje się ją
 tym zacieklej, im bardziej cywilizowane są ofiary.^[Murray pisze o „seksualnej czystce”, jakiej poematy homeryckie
 poddano w trakcie redakcji (por. wyd. cyt., s. 141 i nast.).] Towarzysze
 Odyseusza nie stają się — jak poprzedni goście — świętymi tworami
-dzikiej przyrody, ale nieczystymi zwierzętami domowymi — wieprzami. Moze w opowieść o Kirke wplata się wspomnienie
+dzikiej przyrody, ale nieczystymi zwierzętami domowymi — wieprzami. Może w opowieść o Kirke wplata się wspomnienie
 chtonicznego kultu Demeter, gdzie świnia była zwierzęciem
 świętym.^[„Świnia jest zwierzęciem ofiarnym w kulcie Demeter” (Wilamowitz-Moellendorff: *Der Glaube der Hellenen*, wyd. cyt., t. 2, s. 53).] Może przesłanką motywu jest też anatomiczne podobieństwo wieprza do człowieka i jego nagość: jak gdyby u Jończyków łączenie się z tym, co podobne, obłożone było takim
 samym tabu jak u Żydów. Wreszcie w grę może wchodzić zakaz
@@ -847,7 +847,7 @@ Przeł. J. Prokopiuk. Warszawa 1967, s. 271 i nast., przypis.] Ale juz w wizerun
 między pojęciem węszenia a pojęciem *noos*, autonomicznego rozumu:
 „Schwyzer bardzo przekonywająco łączy *noos* z sapaniem i węszeniem”
 (Wilamowitz-Moellendorf: *Die Heimkehr des Odysseus*, wyd. cyt. 191).
-Wilamowitz kwestionuje jednak, jakoby pokrewienstwo etymologiczne
+Wilamowitz kwestionuje jednak, jakoby pokrewieństwo etymologiczne
 mogło mieć wpływ na znaczenie.] istoty, która ma nos przy ziemi
 i wyrzeka się postawy wyprostowanej. Jest tak, jakby hetera-czarodziejka w rytuale, jakiemu poddaje mężczyzn, powtarzała
 raz jeszcze rytuał, któremu patriarchalne społeczeństwo wciąż na
@@ -867,8 +867,7 @@ przysługuje jej tylko za pośrednictwem mężczyzny. Coś z tego
 rysuje się już w porażce bogini-hetery z *Odysei* — podczas gdy
 dojrzałe małżeństwo z Penelopą, literacko młodsze, reprezentuje
 późniejsze stadium obiektywności patriarchalnych instytucji. Gdy
-Odyseusz pojawia się na Aajai, podwójny sens stosunku mężczyz
-ny do kobiety, tęsknota i nakaz, przybiera formę wymiany
+Odyseusz pojawia się na Aajai, podwójny sens stosunku mężczyzny do kobiety, tęsknota i nakaz, przybiera formę wymiany
 zabezpieczonej umowami. Warunkiem tego jest wyrzeczenie.
 Odyseusz opiera się urokowi Kirke. Dzięki temu przypada mu
 w udziale to właśnie, co jej urok tylko złudnie obiecywał tym,
@@ -915,7 +914,7 @@ rosłymi”^[Tamże, 395 (s. 168).]. Ale, choć tak utwierdzeni i umocnieni w sw
 męskości, nie są szczęśliwi: „Na wszystkich zstąpił tęskny żal i całe
 domostwo rozebrzmiało lamentem”^[Tamże, 398 (s. 168).]. Tak mogła brzmieć najstarsza pieśń weselna, towarzysząca uczcie, jaką odprawia rudymentarne małżeństwo, związane na rok. Ale właściwe małżeństwo
 z Penelopą ma ze związkiem z Kirke więcej wspólnego, niżby się
-wydawało. Nierządnica i małżonka są komplementarnymi formami samowyobcowania kobiet w patriarchalnym świecie: małżonka zdradza rozkosz w imię trwałego porzadku życia i własności, podczas gdy nierządnica — potajemna sojuszniczka — podporządkowuje stosunkowi własności to, co prawa małżonki pomijają, i sprzedaje rozkosz. Obie rozkosznice, Kirke i Kalypso,
+wydawało. Nierządnica i małżonka są komplementarnymi formami samowyobcowania kobiet w patriarchalnym świecie: małżonka zdradza rozkosz w imię trwałego porządku życia i własności, podczas gdy nierządnica — potajemna sojuszniczka — podporządkowuje stosunkowi własności to, co prawa małżonki pomijają, i sprzedaje rozkosz. Obie rozkosznice, Kirke i Kalypso,
 przedstawione są jako pilne prządki — podobne w tym zarówno do
 mitycznych władczyń losu^[Por. F. C. Bauer: *Symbolik und Mythologie*, wyd. cyt., t. 1, s. 47 i 49.], jak do mieszczańskich pań domu
 — podczas gdy Penelopa niczym ladacznica mierzy podejrzliwym
@@ -971,7 +970,7 @@ ogląda przy pierwszej *nekia*, to świat matriarchatu, wyparty przez
 religię solarną: po matce, wobec której Odyseusz zmusza się do
 celowej patriarchalnej twardości^[„Na jej widok serce ścisnęło mi się żalem, płakałem. Lecz i jej, choć
 z wielkim bólem, nie dałem się zbliżyć do krwi, póki nie rozmówię się
-z Tejrezjaszem”. *Odyseja*, XI, 87 i nast. (s. 176).], przychodzą pradawne bahaterki. Ale obraz matki nie ma żadnej mocy oddziaływania, jest ślepy
+z Tejrezjaszem”. *Odyseja*, XI, 87 i nast. (s. 176).], przychodzą pradawne bohaterki. Ale obraz matki nie ma żadnej mocy oddziaływania, jest ślepy
 i niemy^[„Oto widzę duszę mojej zmarłej matki, która w milczeniu stoi blisko
 krwi i nie śmie spojrzeć na własnego syna ani doń przemówić. Powiedz,
 panie, jakby mogła poznać, że tu jestem”. Tamże, 141 i nast. (s. 178).], jest mamidłem, jak epicka narracja w momentach, gdy
@@ -1033,7 +1032,7 @@ może nazwy są tylko zastygłym śmiechem, jak są nim dziś jeszcze
 przezwiska — jedyne, w których przetrwało coś z pierwotnego aktu
 nazywania. Śmiech przyświadcza winie podmiotu, ale — zapowiadając zawieszenie prawa — wykracza jednocześnie poza dany
 zamknięty układ odniesienia. Obiecuje drogę do ojczyzny. Nostalgia rodzi się z przygody, w której podmiotowość — a Odyseja
-przedstawia prehistorię podmiotowości — wymyka sie praczasom.
+przedstawia prehistorię podmiotowości — wymyka się praczasom.
 Centralny paradoks epopei polega na tym, że pojęcie ojczyzny jest
 przeciwieństwem mitu — który faszyści kłamliwie podają za
 ojczyznę. W epopei trwa wspomnienie wydarzeń, w wyniku
@@ -1060,7 +1059,7 @@ relacja o kaźni pasterza Melantiosa. Jeżeli cywilizacja wznosi się
 nad prehistorię, to nie ze względu na treść relacjonowanych
 faktów. Różnica polega na momencie samoopamiętania się, autorefleksji, która w chwili opowiadania unieruchamia przemoc.
 Zasadą, która pozwala wyrwać się z kręgu mitu, jest u Homera
-sama mówa, język w przeciwieństwie do mitycznego śpiewu,
+sama mowa, język w przeciwieństwie do mitycznego śpiewu,
 możliwość utrwalenia nieszczęścia w pamięci. Nie darmo Odyseusz, bohater, który uchodzi władzy mitu, występuje wciąż w roli
 opowiadającego. Chłodny dystans narracji, która przedstawia
 największą grozę jakby i ona przeznaczona była ku rozrywce,
@@ -1083,9 +1082,9 @@ mierze jest to jego własne upodobanie. Prace Wilamowitza należą do
 najdobitniejszych świadectw niemieckiej mieszaniny barbarzyństwa i kultury, leżącej u podstaw nowego filohelenizmu.],
 na sposób powieściowy protokołuje konwulsje ujarzmionych
 i w imię słuszności oraz prawa strąconych do królestwa, z którego
-wytrwał się sędzia Odyseusz. Homer, jak mieszczuch zadumany nad
+wyrwał się sędzia Odyseusz. Homer, jak mieszczuch zadumany nad
 egzekucją, pociesza siebie i słuchaczy — a właściwie czytelników
-— że trwało to niedługo, chwilka i już było po wszystkim^[Na pocieszycielskie intencje wiersza zwarca uwagę Gilbert Murray.
+— że trwało to niedługo, chwilka i już było po wszystkim^[Na pocieszycielskie intencje wiersza zwraca uwagę Gilbert Murray.
 Zgodnie z jego teorią sceny tortur u Homera zostały usunięte przez
 cywilizacyjną cenzurę. Pozostały sceny śmierci Melantiosa i służek (por.
 wyd. cyt., s. 146).]. Ale po
@@ -1105,14 +1104,14 @@ staje się bajką.
 </section>
 
 [^59]:
-   <p>
-    *Odyseja*, XXII, 473 (s. 352; w przekładzie Lucjana Siemieńskiego fragment ten brzmi:
-   </p>
+  <p>
+   *Odyseja*, XXII, 473 (s. 352; w przekładzie Lucjana Siemieńskiego fragment ten brzmi:
+  </p>
   <blockquote class="footnote-quote">
     Takie i z onych niewiast było widowisko,  
     Kiedy jedna przy drugiej i głowa przy głowie  
-    Wisialy tam linie jak owi ptaszkowie,  
+    Wisiały tam linie jak owi ptaszkowie,  
     Każda z sznurkiem na szyi, zduszona cichutko,  
-    Coś nogami zadrgawszy w powietrzu, lecz krótko...
+    Coś nogami zadrgawszy w powietrzu, lecz krótko…
   </blockquote>
   Biblioteka Narodowa, Wrocław—Kraków 1959)
