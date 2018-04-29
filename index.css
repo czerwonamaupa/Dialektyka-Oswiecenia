@@ -44,6 +44,12 @@ h2.dedication
   margin-bottom: 30rem; }
 
 span.subtitle
+{ font-size: 1.2rem;
+  font-weight: 200;
+  display: block;
+  margin-top: 2rem; }
+
+span.overtitle
 { text-transform: uppercase;
   font-size: 1.2rem;
   font-weight: 800;

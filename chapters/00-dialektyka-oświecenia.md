@@ -80,10 +80,10 @@
 * [Przedmowa](#przedmowa)
 * [Pojęcie oświecenia](#pojęcie-oświecenia)
   * [Dygresja I: Odyseusz albo mit oświecenia](#dygresja-i-odyseusz-albo-mit-oświecenia)
-  * [Dygresja II: Julia albo oświecenie i moralność](98)
-* [Przemysł kulturalny. Oświecenie jako masowe oszczerstwo](138)
-* [Żywioły antysemityzmu. Granice oświecenia](189)
-* [Notatki i szkice](232)
-* [*Posłowie do wydania polskiego* (Marek J. Siemek)](283)
+  * [Dygresja II: Julia albo oświecenie i moralność](#dygresja-ii-julia-albo-oświecenie-i-moralność)
+* [Przemysł kulturalny. Oświecenie jako masowe oszustwo](#przemysł-kulturalny-oświecenie-jako-masowe-oszustwo)
+* [Żywioły antysemityzmu. Granice oświecenia](#żywioły-antysemityzmu-granice-oświecenia)
+* [Notatki i szkice](#notatki-i-szkice)
+* [*Posłowie do wydania polskiego* (Marek J. Siemek)](#posłowie-do-wydania-polskiego)
 </h2>
 </section>

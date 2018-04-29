@@ -1,4 +1,4 @@
-# [Dygresja I:]{.subtitle} Odyseusz albo mit oświecenia #
+# [Dygresja I:]{.overtitle} Odyseusz albo mit oświecenia #
 
 Opowieść o syrenach mówi o krzyżowaniu się mitu i racjonalnej
 pracy, natomiast Odyseja w całości przedstawia dialektykę oświecenia. Epopeja, zwłaszcza w swej najstarszej warstwie, związana jest
