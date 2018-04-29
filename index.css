@@ -91,6 +91,15 @@ blockquote.footnote-quote
   margin: 0.3rem 0;
   padding: 0 1rem; }
 
+footer
+{ margin-top: 32rem;
+  line-height: 1.4rem;
+  font-size: 1.2rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 28rem; }
+
 ol, ul
 { padding-left: 1rem;
   text-align: left; }
