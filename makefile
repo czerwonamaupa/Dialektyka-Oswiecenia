@@ -1,15 +1,15 @@
 default : index.html dialektyka-oswiecenia.epub dialektyka-oswiecenia.mobi
 
-index.html : dialektyka-oswiecenia.md index.css template.t
+index.html : chapters/* index.css template.t
 	pandoc \
 			-s \
 			--section-divs \
 			-o index.html \
 			-c index.css \
 			--template template.t \
-			dialektyka-oswiecenia.md
+			chapters/*
 
-dialektyka-oswiecenia.epub : dialektyka-oswiecenia.md index.css template.t cover.png
+dialektyka-oswiecenia.epub : chapters/* index.css template.t cover.png
 	pandoc \
 			-s \
 			--section-divs \
@@ -18,7 +18,7 @@ dialektyka-oswiecenia.epub : dialektyka-oswiecenia.md index.css template.t cover
 			-o dialektyka-oswiecenia.epub \
 			-c index.css \
 			--template template.t \
-			dialektyka-oswiecenia.md
+			chapters/*
 
 dialektyka-oswiecenia.mobi : dialektyka-oswiecenia.epub cover.png
 	ebook-convert dialektyka-oswiecenia.{epub,mobi} --cover cover.png
