@@ -80,6 +80,11 @@ blockquote
 blockquote footer
 { text-align: right; }
 
+blockquote.footnote-quote
+{ font-style: italic;
+  margin: 0.3rem 0;
+  padding: 0 1rem; }
+
 ol, ul
 { padding-left: 1rem;
   text-align: left; }
