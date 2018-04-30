@@ -141,12 +141,5 @@ span.smallcaps
 span.normal
 { text-transform: none; }
 
-section
-{ margin-bottom: 20rem; }
-
-.footnote-ref
-{ font-size: small;
-  vertical-align: text-top; }
-
 li > p
 { text-indent: 0; }
