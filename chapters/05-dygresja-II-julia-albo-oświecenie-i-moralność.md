@@ -9,7 +9,7 @@ polski A. Landmana *Co to jest oświecenie?* W: T. Kroński:
 *Kant*, Warszawa 1966; tu cytuję we własnym przekładzie dla
 zachowania jednolitości w oddawaniu Kantowskich terminów
 *Vernunft* i *Verstand*, zgodnie z terminologią przyjętą przez R.
-Ingardena - *przyp. tłum.*).]. „Intelekt bez obcego kierownictwa”
+Ingardena — *przyp. tłum.*).]. „Intelekt bez obcego kierownictwa”
 to intelekt kierowany przez rozum. Znaczy to tyle, że mocą
 własnej konsekwencji intelekt umie złączyć poszczególne
 osiągnięcia poznawcze w system. „Rozum ma […] za przedmiot […]
@@ -386,7 +386,7 @@ by stawić czoła przemysłowej *ratio*. Jeżeli wielka filozofia — z
 Leibnizem i Heglem — dopatrywała się roszczenia do prawdy również
 w tych subiektywnych i obiektywnych manifestacjach, które same
 nie są jeszcze myślami — w uczuciach, instytucjach, dziełach
-sztuki -to irracjonalizm, pod tym jak i pod innymi względami
+sztuki — to irracjonalizm, pod tym jak i pod innymi względami
 pokrewny ostatniemu odpryskowi oświecenia, nowoczesnemu
 pozytywizmowi, izoluje uczucia, religię i sztukę od wszystkiego,
 co się zowie nauką. Ogranicza wprawdzie chłodny rozum na rzecz
@@ -490,7 +490,7 @@ wbrew jego zapewnieniom już tylko naturalnym faktem
 psychologicznym, tak jak niebo gwiaździste nade mną — faktem
 fizykalnym. „Fakt rozumu” — mówi sam Kant^[I. Kant: *Krytyka
 praktycznego rozumu*, wyd. cyt., s. 54, s. 73, s. 80 i in.],
-„ogólny instynkt społeczny” - powiada Leibniz^[G.W. Leibniz:
+„ogólny instynkt społeczny” — powiada Leibniz^[G.W. Leibniz:
 *Nowe rozważania dotyczące rozumu ludzkiego*. T. 1. Ks. 1, rozdz.
 2, § 9. Przeł. I. Dąbska. Warszawa 1945, s. 78.]. Fakty jednak
 nie liczą się tam, gdzie ich nie ma. Sade nie zaprzecza istnieniu
@@ -522,7 +522,7 @@ racjonalnego myślenia. Gdy chodzi o samoopanowanie się, jej nauki
 mają się niekiedy do nauk Kantowskich jak poszczególny przypadek
 do ogólnego twierdzenia. „Cnota zatem — czytamy u
 Kanta^[*Metaphysische Anfänge der Tugendlehre*, wyd. cyt., s.
-408.] - o ile ugruntowana jest w wewnętrznej wolności, zawiera
+408.] — o ile ugruntowana jest w wewnętrznej wolności, zawiera
 także pewien pozytywny nakaz dla ludzi, mianowicie by poddać
 wszystkie swe zdolności i skłonności jego (rozumu) władzy, czyli
 nakaz panowania nad sobą, który idzie przed zakazem, mianowicie
