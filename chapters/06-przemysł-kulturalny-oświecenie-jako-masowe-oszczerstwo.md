@@ -11,18 +11,18 @@ manifestacje rozbieżności politycznych głoszą na równi pochwałę
 stalowego rytmu. Jeśli chodzi o wystrój administracyjnych i wy-
 stawowych przybytków przemysłu, kraje autorytarne zaledwie
 różnią się od innych. Strzelające wszędzie w górę monumentalne
-_. budowle reprezentują zmysł planowania ponadpaństwowych kon-
-cernów - przedmiot ataków pozostawionych na pastwę losu
+budowle reprezentują zmysł planowania ponadpaństwowych kon-
+cernów — przedmiot ataków pozostawionych na pastwę losu
 przedsiębiorców, których pomnikami są posępne domy mieszkal-
 ne i firmowe smutnych miast. Starsze zabudowania otaczające
 betonowe centra robią już dziś wrażenie slumsów, a nowe
-bungalowy na peryferiach - podobnie jak nietrwałe konstrukcje
-międzynarodowych targów - głoszą chwałę technicznego postępu
+bungalowy na peryferiach — podobnie jak nietrwałe konstrukcje
+międzynarodowych targów — głoszą chwałę technicznego postępu
 i prowokują, by po krótkotrwałym użytkowaniu wyrzucić je jak
 puszkę po konserwie. Urbanistyczne projekty, przewidujące, że
 w higienicznych małych mieszkankach indywiduum ma się per-
 petuować jako poniekąd byt samodzielny, tym gruntowniej pod-
-porządkowują je stronie stronie przeciwnej, totalnej władzy kapi-
+porządkowują je stronie przeciwnej, totalnej władzy kapi-
 tału. Praca i rozrywki wzywają mieszkańców do centrum, jako
 producentów i konsumentów, a zarazem komórki mieszkalne
 krystalizują się w doskonale zorganizowane kompleksy. Uderzają-
@@ -37,9 +37,7 @@ zaczyna się zarysowywać. Władcy nie są nawet specjalnie zaintere-
 sowani osłanianiem tej konstrukcji, im brutalniej ona sama
 się do siebie przyznaje, tym większa jej potęga. Film i radio
 nie muszą się już podawać za sztukę. Prawda, że są jedynie
-
 interesem, służy im jako ideologia, mająca uprawomocniać kicz,
-
 który rozmyślnie produkują. Same nazywają się przemysłem,
 a publikowane informacje o dochodach dyrektorów naczelnych
 nie pozostawiają żadnych wątpliwości co do społecznej nie-
@@ -71,7 +69,6 @@ w dzisiejszej gospodarce. Potrzeby, które mogłyby się ewentualnie
 wymykać centralnej kontroli, są tłumione już przez kontrolę
 indywidualnej świadomości. Przejście od telefonu do radia jasno
 rozdzieliło role. Telefon pozwalał jeszcze liberalnie każdemu
-
 uczestnikowi grać rolę podmiotu. Radio czyni demokratycznie
 
 140 - Dialektyka oswiecenia
@@ -79,7 +76,7 @@ uczestnikowi grać rolę podmiotu. Radio czyni demokratycznie
 wszystkich na równi słuchaczami, aby autorytarnie podporzadko-
 wać ich jednolitym programom stacji. Nie rozwinęła się żadna
 aparatura repliki, a prywatne emisje utrzymywane są w podległoś-
-ci. Ograniczają się do apokryficznej dziedziny „amatorów", któ-
+ci. Ograniczają się do apokryficznej dziedziny „amatorów”, któ-
 rym w dodatku narzuca się odgórnie organizację. Każda spontani-
 czna inicjatywa publiczności w ramach oficjalnego radia podlega
 fachowej selekcji oraz sterowana jest i absorbowana przez łowców
@@ -91,11 +88,11 @@ czności, które rzekomo i faktycznie sprzyja systemowi przemysłu
 kulturalnego, jest częścią systemu, a nie jego usprawiedliwieniem.
 Gdy jakaś gałąź sztuki poczyna sobie wedle tej samej recepty, co
 inna gałąż, odległa zarówno pod względem medium, jak tworzy-
-wa, gdy dramatyczne zawęźlenie radiowej „mydlanej opery" staje
+wa, gdy dramatyczne zawęźlenie radiowej „mydlanej opery” staje
 się pedagogicznym przykładem przezwyciężania technicznych tru-
 dności, z którymi radzi sobie zarówno jazz, jak i wyżyny jazzu, albo
-gdy śmiała „adaptacja" frazy Beethovena odbywa się wedle tej
-samej metody, co filmowa „adaptacja" powieści Tołstoja -- powo-
+gdy śmiała „adaptacja” frazy Beethovena odbywa się wedle tej
+samej metody, co filmowa „adaptacja” powieści Tołstoja — powo-
 ływanie się na spontaniczne życzenia publiczności jest wątłą
 wymówką. Bliższe rzeczywistości jest już wyjaśnienie powołujące
 się na ciężar własny aparatu technicznego i personalnego, który
@@ -110,13 +107,11 @@ w subiektywnych mrocznych zamiarach dyrektorów generalnych,
 to przede wszystkim w najpotężniejszych sektorach przemysłu:
 w przemyśle stalowym, naftowym, elektrycznym, chemicznym.
 Monopole kulturalne są w porównaniu z nimi słabe i zależne.
-Muszą skwapliwie dogadzać prawdziwym potentatoóom, aby ich
+Muszą skwapliwie dogadzać prawdziwym potentatom, aby ich
 sfera w społeczeństwie masowym, której swoisty typ towaru i tak
 wciąż jeszcze zbyt wiele ma wspólnego z niefrasobliwym liberaliz-
 
- 
-
-Przemysł kulturalny A41
+Przemysł kulturalny 141
 
 mem i żydowskimi intelektualistami, nie została dotknięta serią
 czystek. Zależność najpotężniejszego towarzystwa radiowego od
@@ -126,35 +121,35 @@ splecione są między sobą. Wszystko jest tak powiązane, że
 koncentracja ducha osiąga rozmiary, które pozwalają jej pomijać
 linie demarkacyjne firm i technik. Bezwzględna jedność przemysłu
 kulturalnego zapowiada rychłą jedność polityki. Emfatyczne roz-
-różnienia - na przykład między filmami A i B albo między
+różnienia — na przykład między filmami A i B albo między
 historyjkami publikowanymi w magazynach o różnych katego-
-riach cen - nie tyle wynikają z rzeczy samej, ile służą klasyfikacji,
-organizacji i przyciąganiu konsumentów. Dla każdego coś przew!
+riach cen — nie tyle wynikają z rzeczy samej, ile służą klasyfikacji,
+organizacji i przyciąganiu konsumentów. Dla każdego coś przewi-
 dziano, aby nikt nie mógł się wymknąć, różnice zaznacza się
 wyraźnie i propaguje. Dostarczanie publiczności pewnej hierarchii
 seryjnych jakości służy tym pełniejszej kwantyfikacji. Każdy
 powinien zachowywać się niejako spontanicznie zgodnie ze swym
-z góry wyznaczonym przez wskaźniki /eve/ i sięgać po tę kategorię
+z góry wyznaczonym przez wskaźniki *level* i sięgać po tę kategorię
 masowego produktu, która fabrykowana jest dla jego typu.
 Konsumenci, jako statystyczny materiał na mapie placówek bada-
-wczych - nie różniących się już niczym od placówek propagandy
-- podzieleni są na grupy dochodów, na pola czerwone, zielone
+wczych — nie różniących się już niczym od placówek propagandy
+— podzieleni są na grupy dochodów, na pola czerwone, zielone
 i niebieskie.
 
 Schematyzm procedury ujawnia się o tyle, że mechanicznie
 wyróżnione produkty okazują się zawsze tym samym. Że różnica
 między serią Chryslera a serią General Motors jest złudzeniem,
-0 tym wie już każde dziecko, które się tą różnicą entuzjazmuje. To,
+o tym wie już każde dziecko, które się tą różnicą entuzjazmuje. To,
 co znawcy omawiają jako wady i zalety, służy jedynie utrwaleniu
 pozorów konkurencji i możliwości wyboru. Tak samo rzecz się ma
 z produkcjami Warner Brothers i Metro Goldwyn Mayer. Stop-
 nowo zanikają też różnice między droższymi i tańszymi asor-
 tymentami kolekcji wzorcowej danej firmy: w przypadku samo-
 chodów różnice te sprowadzają się do liczby cylindrów, pojemno-
-ści silnika, nowości gadgetów, w przypadku filmów - do liczby
-„gwiazd, nakładu środków technicznych, pracy i wyposażenia, oraz
+ści silnika, nowości gadgetów, w przypadku filmów — do liczby
+gwiazd, nakładu środków technicznych, pracy i wyposażenia, oraz
 wykorzystania najnowszych formułek psychologicznych. Jednoli-
-tość kryteriów polega na dozowaniu conspicaous production, wy-
+tość kryteriów polega na dozowaniu *conspicuous production*, wy-
 
 142 Dialektyka oświecenia
 
@@ -167,51 +162,49 @@ się ostatecznie między sobą, a których nieograniczone możliwości
 zapowiadają jednak tak radykalne zubożenie materiałów estetycz-
 nych, że przejściowo maskowana tożsamość wszystkich produk-
 tów przemysłu kulturalnego jutro może już jawnie triumfować
-- szydercze spełnienie Wagnerowskich marzeń o całościowym
+— szydercze spełnienie Wagnerowskich marzeń o całościowym
 dziele sztuki. Zgodność słowa, obrazu i muzyki udaje się o tyle
 doskonalej niż w Tristanie, że elementy zmysłowe, które w sumie
-gładko protokołują powierzchnię społecznej rzeczywistości, zasad:-
+gładko protokołują powierzchnię społecznej rzeczywistości, zasad-
 niczo produkowane są w tym samym procesie technicznym
 i wyrażają jego jedność jako swoją właściwą treść. Proces pracy
 integruje wszystkie elementy produkcji, od zezującego ku filmowi
 konceptu powieści aż po szczegóły efektów dźwiękowych. Jest to
 triumf inwestowanego kapitału. W sercach wywłaszczonych kan-
 dydatów do zatrudnienia wypisać ognistymi literami wszechmoc
-kapitału, ich pana i władcy - taki jest sens wszystkich filmów,
+kapitału, ich pana i władcy — taki jest sens wszystkich filmów,
 niezależnie od wybranego akurat przez kierownictwo produkcji
-
-plot.
+*plot*.
 
 Konsument w swym czasie wolnym ma się kierować jednością
-produkcji. To, czego kantowski schematyzm oczekiwał jeszcze ód
+produkcji. To, czego kantowski schematyzm oczekiwał jeszcze od
 podmiotów, mianowicie apriorycznego odnoszenia zmysłowej
-różnorodności do fundamentalnych pojęć - zostaje podmiotowi
+różnorodności do fundamentalnych pojęć — zostaje podmiotowi
 odebrane przez przemysł. Schematyzm to główna usługa, jaką
 przemysł świadczy na rzecz klientów. W duszy ma jakoby działać
 tajemny mechanizm, który preparuje bezpośrednie dane tak, że
 pasują one do systemu Czystego Rozumu. Dziś tajemnica ta została
-rozszyfrowana. Jeżeli planowanie mechanizmy przez tych, którzy
+rozszyfrowana. Jeżeli planowanie mechanizmu przez tych, którzy
 dostarczają danych, czyli przez przemysł kulturalny, narzucane jest
 temuż przemysłowi siłą bezwładu społeczeństwa, irracjonalnego
 mimo całej racjonalizacji, to jednak gdy owa fatalna tendencja
-
 przechodzi przez agentury interesu, zmienia się w przebiegły
 
-Przemysł kulturalny | 143
+Przemysł kulturalny 143
 
-. zamysł samego interesu. Konsumenci nie mają już do klasyfikowa-
+zamysł samego interesu. Konsumenci nie mają już do klasyfikowa-
 nia nic, co nie byłoby z góry ujęte w schematyzmie produkcji.
 Sztuka dla ludu, sztuka nie znająca marzeń, jest spełnieniem owego
 marzycielskiego idealizmu, który zdaniem idealizmu krytycznego
 posuwał się za daleko. Wszystko wywodzi się ze świadomości,
-u Malebranche'a i Berkeleya ze świadomości Boga, w sztuce
+u Malebranche’a i Berkeleya ze świadomości Boga, w sztuce
 masowej ze świadomości kierownictwa ziemskiej produkcji. Nie
 tylko typy szlagierów, gwiazd, oper mydlanych utrzymuje się
 cyklicznie jako sztywne niezmienniki, ale z nich wywodzi się też
 swoistą treść gry, pozorną zmienność. Szczegóły ulegają funk-
-Cjonalizacji. Szybkie następstwo interwałów, które sprawdziło się
+cjonalizacji. Szybkie następstwo interwałów, które sprawdziło się
 jako wpadające w uszy w którymś z przebojów, przejściowa
-kompromitacja bohatera, którą tenże umie znieść jako good sport,
+kompromitacja bohatera, którą tenże umie znieść jako *good sport*,
 potężne lanie, jakie ukochana przyjmuje z silnej ręki męskiego
 gwiazdora, jego brutalna szorstkość wobec rozpieszczonej dziedzi-
 czki są jak wszystkie szczegóły gotowymi kliszami, które można
@@ -220,9 +213,9 @@ funkcję, jaka przypada im w schemacie. Motywy te żyją o tyle, o ile
 tworząc schemat zarazem go potwierdzają. Wiadomo, jak skończy
 się film, kto zostanie nagrodzony, ukarany, zapomniany, a w do-
 menie lekkiej muzyki przygotowane ucho po pierwszych taktach
- szlagieru odgaduje ciąg dalszy, i jest szczęśliwe, gdy okaże się, że
-i odpadło trafnie. Przeciętna liczba słów w skor? sfory jest nienarusza-
-/ Ina normą. Nawet gagi, efekty i dowcipy są wykalkulowane tak jak
+szlagieru odgaduje ciąg dalszy, i jest szczęśliwe, gdy okaże się, że
+odgadło trafnie. Przeciętna liczba słów w *short story* jest nienarusza-
+lną normą. Nawet gagi, efekty i dowcipy są wykalkulowane tak jak
 ogólna konstrukcja. Podlegają poszczególnym fachowcom i ich
 skąpa rozmaitość daje się zasadniczo rozdysponować w biurze.
 Przemysł kulturalny rozwinął się pod znakiem dominacji efektu,
@@ -242,12 +235,12 @@ porządkowuje je formułce, zastępującej dzieło. Niszczy na równi
 całość i części. Całość narzuca się szczegółom nieubłaganie i bez
 związku, poniekąd jak kariera człowieka sukcesu, której wszystko
 ma służyć jako ilustracja i dowód rzeczowy, gdy w rzeczywistości
-Ona sama jest tylko sumą owych idiotycznych wydarzeń. Tak
+ona sama jest tylko sumą owych idiotycznych wydarzeń. Tak
 zwana idea naczelna jest katalogiem rejestrowym i ustanawia
-porządek - a nie wewnętrzne powiązanie. Całość i szczegół,
+porządek — a nie wewnętrzne powiązanie. Całość i szczegół,
 niesprzeczne wzajemnie i wzajemnie nie powiązane, noszą te same
 rysy. Ich z góry zagwarantowana harmonia jest szyderstwem
-z osiąganej harmonii wielkich dzieł sztuki burżuazyjnej. W Niem.:
+z osiąganej harmonii wielkich dzieł sztuki burżuazyjnej. W Niem-
 czech nad najpogodniejszymi filmami demokracji rozciągała się już
 cmentarna cisza dyktatury.
 
@@ -262,8 +255,8 @@ z filmu. Odkąd ostatecznie zatriumfował film dźwiękowy, mecha-
 niczne powielanie służy już wyłącznie temu zamiarowi. Życie nie
 powinno się w zasadzie niczym różnić od filmu. Film dźwiękowy,
 daleko przelicytowujący teatr iluzji, nie pozostawia już widzowi
-żadnego pola, gdzie jego wyobraźnia i myśli mogłyby - w ramach
-dzieła, choć poza kontrolą jego danych - swobodnie się toczyć
+żadnego pola, gdzie jego wyobraźnia i myśli mogłyby — w ramach
+dzieła, choć poza kontrolą jego danych — swobodnie się toczyć
 i rozbiegać, nie tracąc wątku: a tym samym szkoli bezbronnych
 odbiorców, aby utożsamiali go bezpośrednio z rzeczywistością.
 Zubożenia wyobraźni i spontaniczności dzisiejszych konsumen-
@@ -288,7 +281,7 @@ kultury, które konsument musi znać, wymagane funkcje uwagi
 zostały już tak przyswojone, że teraz działają automatycznie.
 Władza społeczeństwa przemysłowego działa w ludziach raz na
 zawsze. Produkty kulturalne mogą liczyć na to, że nawet roztarg-
-nienie odbiorcy nie przeszkodzi w zwawym ich konsumowaniu.
+nienie odbiorcy nie przeszkodzi w żwawym ich konsumowaniu.
 Ale każdy produkt jest modelem kolosalnej machiny ekonomicz-
 nej, która bez reszty zaprząta wszystkich, przy pracy i w czasie
 podobnego do niej wypoczynku. W każdym dowolnym filmie,
@@ -298,7 +291,7 @@ w społeczeństwie, ale wszystkim im wspólnie. Każda poszczególna
 manifestacja przemysłu kulturalnego nieuchronnie reprodukuje
 ludzi jako to, czym stali się za sprawą całego przemysłu kultural-
 nego. Nad tym, by reprodukcja prosta ducha nie przeszła w re-
-produkcję rozszerzoną, czuwają wszyscy agenci, od producer'a po
+produkcję rozszerzoną, czuwają wszyscy agenci, od *producer*’a po
 stowarzyszenia kobiece.
 
 Lamenty historyków sztuki i adwokatów kultury, że oto na
@@ -313,18 +306,19 @@ purystycznie, jak czyni to aranżator jazzowy z każdym zwrotem,
 który nie przystaje ściśle do żargonu. Jeśli przerabia na jazz
 Mozarta, to nie tylko zmienia go tam, gdzie Mozart byłby za
 trudny lub za poważny, ale również tam, gdzie Mozart inaczej, ba
-- prościej harmonizuje melodię, niż to jest dziś w zwyczaju. Zaden
+— prościej harmonizuje melodię, niż to jest dziś w zwyczaju. Żaden
 średniowieczny budowniczy nie przyglądałby się tematom witraży
 
-146 | NNN 2 -_ Dialektyka oświecenia
+146 Dialektyka oświecenia
+
 i rzeźb kościelnych z taką podejrzliwością jak hierarchia studia
 bada ten czy ów temat Balzaca albo Victora Hugo, nim udzieli
-swego imprimatur i dopusci rzecz do obiegu. Kapituła deliberująca,
+swego *imprimatur* i dopusci rzecz do obiegu. Kapituła deliberująca,
 jakie miejsce przyznać ma diabelskim gębom i mękom potępionych
-w ordo najwyższej miłości, nie poświęcała temu zagadnieniu tyle
+w *ordo* najwyższej miłości, nie poświęcała temu zagadnieniu tyle
 troskliwej uwagi, co kierownicy produkcji, gdy mają do litanii
 filmu wprowadzić tortury znoszone przez głównego bohatera albo
-podciągniętą spódnicę /eadźmg lady. Stormulowany explicite lub
+podciągniętą spódnicę *leading lady*. Stormułowany *explicite* lub
 funkcjonujący egzoteryczny i ezoteryczny katalog tego, co
 zakazane i co tolerowane, sięga tak daleko, że nie tylko dokładnie
 zakreśla pole swobodnego manweru, ale wkracza na nie i rządzi
@@ -340,7 +334,7 @@ w rezultacie nie może pojawić się nic, co z góry nie nosiłoby
 znamion żargonu, nie mogłoby się na pierwszy rzut oka wylegity-
 mować aprobatą. Matadorami zaś, produkującymi i reprodukują-
 cymi, są ci, którzy tak lekko, swobodnie i radośnie mówią
-żargonem, jak gdyby był to język - choć przecież język od dawna
+żargonem, jak gdyby był to język — choć przecież język od dawna
 został przez żargon zmuszony do milczenia. Na tym polega ideał
 naturalności w tej branży. Ideał ten narzuca się tym bardziej
 zniewalająco, im bardziej doskonała technika zmniejsza napięcie
@@ -356,8 +350,8 @@ czenia specyficznego medium, wyznacza nowy styl, mianowicie
 
 Przemysł kulturalny 147
 
-„jedność stylu«, o tyle mianowicie, o ile ma sens mówić o stylowym
-barbarzyństwie" !.
+»jedność stylu«, o tyle mianowicie, o ile ma sens mówić o stylowym
+barbarzyństwie”^[F. Nietzsche: *Unzeitgemäße Betrachtungen*. W: *Werke* (Großoktavausgabe). T. 1. Lepizig 1917, s. 187.].
 
 Powszechna moc obowiązująca tej stylizacji zapewne przekracza
 już oficjalne przepisy i zakazy; szlagierowi daruje się raczej, że nie
@@ -374,8 +368,8 @@ dzieła, choć te ostatnie, w przeciwieństwie do tych pierwszych,
 służą prawdzie. Rzadka zdolność skrupulatnego przestrzegania
 zobowiązań, narzucanych przez idiom naturalności we wszystkich
 dziedzinach przemysłu kulturalnego, staje się miernikiem umiejęt-
-ności. Co i jak mówią - to powinno podlegać kontroli języka
-potocznego, tak jak w logicznym pozytywizmie. Ekspertami. są
+ności. Co i jak mówią — to powinno podlegać kontroli języka
+potocznego, tak jak w logicznym pozytywizmie. Ekspertami są
 producenci. Idiom wymaga zdumiewających sił produktywnych,
 pochłania je i trwoni. Diabolicznie prześcignął konserwatywne
 w sferze kultury rozróżnienie stylu autentycznego i sztucznego.
@@ -386,27 +380,21 @@ wywodzi się z tej samej aparatury, co żargon, w który materiał ten
 przechodzi. Spory, jakie specjaliści od sztuki toczą ze sponsorami
 i cenzorami o jakieś nazbyt już niewiarygodne kłamstwo, świadczą
 nie tyle o napięciach wewnątrzestetycznych, ile o rozbieżności
-
-_interesów. Renoma specjalisty, gdzie niekiedy znajduje jeszcze
+interesów. Renoma specjalisty, gdzie niekiedy znajduje jeszcze
 przytulisko resztka merytorycznej autonomii, ściera się z polityką
 interesów kościoła albo koncernu, który produkuje towar kul-
 turalny. Ale dzieło jest zgodnie ze swą istotą urzeczowione jako
 przeznaczone do zbytu, zamim jeszcze dojdzie do sporu między
 
-! F. Nietzsche: Unzeitgemäße Betrachtungen. W: Werke (GroBoktavaus-
-gabe). T. 1. Lepizig 1917, s. 187.
+148 Dialektyka oświecenia
 
-em
-
-148 bo Dialektyka oświecenia
-
-instancjami. Święta Bernadetta * jaśniała już w polu widzenia swego
+instancjami. Święta Bernadetta^[Powieść Franza Werfla *Pieśń o Bernadecie* (1941) stała się w Ameryce bestsellerem (*przyp. tłum.*).] jaśniała już w polu widzenia swego
 poety jako reklama dla wszystkich zainteresowanych konsorcjów,
 zanim jeszcze nabył do niej prawa Zanuck. Tyle wynikło z impulsów
 przedstawianej postaci. Dlatego styl przemysłu kulturalnego, który
-nie musi się już mierzyć z żadnym oporem matfefii, jest zarazem
+nie musi się już mierzyć z żadnym oporem materii, jest zarazem
 negacją stylu. Pojednanie tego, co ogólne, z tym, co szczegółowe,
-reguły i specyficznych roszczeń: przedmiotu, w którego trakcie
+reguły i specyficznych roszczeń przedmiotu, w którego trakcie
 kształtuje się styl, sprowadza się do zera, gdyż nie dochodzi w ogóle
 do napięcia między biegunami: skrajności, które się stykają, przeszły
 w stan mętnej identyczności, to, co ogólne, może zastąpić to, co
@@ -422,24 +410,18 @@ każdym razem odmienna struktura społecznej przemocy, a nie
 mroczne doświadczenie podległych panowaniu, doświadczenie,
 w którym zawiera się to, co ogólne. Wielkimi artystami nie byli
 nigdy ci, którzy najdoskonalej i najgładziej ucieleśniali styl, ale ci,
-którzy styl wprowadzali do swego dzieła jako:zaporę przeciwko
+którzy styl wprowadzali do swego dzieła jako zaporę przeciwko
 chaotycznej ekspresji cierpienia, jako prawdę negatywną. W stylu
 dzieł ekspresja zyskiwała siłę, bez której istnienie rozpływa się
-- niewysłuchane. Nawet te dzieła, które zowie się klasycznymi, jak
+— niewysłuchane. Nawet te dzieła, które zowie się klasycznymi, jak
 muzyka Mozarta, zawierają obiektywne tendencje, zmierzające
-w inną stronę niż styl, który ucieleśniały. Aż do Schónberga i Picassa
+w inną stronę niż styl, który ucieleśniały. Aż do Schönberga i Picassa
 wielcy artyści zachowali nieufność wobec stylu i w sprawach
 rozstrzygających trzymali się mniej stylu, a bardziej logiki rzeczy.
 Nieprawda stylu, to, co ekspresjoniści i dadaiści traktowali polemi-
-cznie, triumfuje dziś w piosenkarskim żargonie Croonera **, w aku-
-ratnym wdzięku filmowej gwiazdy, ba - w mistrzowsko strzelonej
-
+cznie, triumfuje dziś w piosenkarskim żargonie Croonera^[Popularny wykonawca sentymentalnych szlagierów (*przyp. tłum.*).], w aku-
+ratnym wdzięku filmowej gwiazdy, ba — w mistrzowsko strzelonej
 przez fotografa chałupie robotnika rolnego. W każdym dziele sztuki
-
-* Powieść Franza Werfla Pieś# o Bernadecie (1941) stała się w Ameryce
-bestsellerem (przyp. tłum.).
-
-** Popularny wykonawca sentymentalnych szlagierów (przyp. tłum.).
 
 Przemysł kulturalny 149
 
@@ -447,7 +429,7 @@ jego styl jest obietnicą. To, co wyrażane, za pośrednictwem stylu
 przechodzi w panujące formy ogólności, w język muzyczny, malarski,
 werbalny, i w ten sposób ma pojednać się z ideą prawdziwej
 ogólności. Dzieło sztuki obiecuje, że przez przedstawienie postaci
-w formach społecznej tradycji ustanowi prawdę - jest to obietnica
+w formach społecznej tradycji ustanowi prawdę — jest to obietnica
 tyleż konieczna, co złudna. Zakłada realne formy istnienia jako
 absolutne, utrzymując, że w ich estetycznych derywatach antycypuje
 spełnienie. W tej mierze roszczenie sztuki zawsze jest ideologią. Ale
@@ -458,23 +440,23 @@ oderwać od stylu; moment ten jednak nie polega na osiągniętej
 harmonii, na problematycznej jedności formy i treści, strony
 wewnętrznej i zewnętrznej, jednostki i społeczeństwa, ale na tym, co
 ukazuje rozdarcie, na nieuchronnej klęsce namiętnych dążeń do
-tożsamości. Zamiast narażać się na tę klęskę - która w przypadku
-wielkiego dzieła sztuki oznaczała zawsze negację stylu - słabe dzieło
+tożsamości. Zamiast narażać się na tę klęskę — która w przypadku
+wielkiego dzieła sztuki oznaczała zawsze negację stylu — słabe dzieło
 trzymało się podobieństwa do innych, surogatu tożsamości. Przemysł
 kulturalny zaś ostatecznie ustanawia absolut imitacji. Będąc stylem
 i niczym więcej, ujawnia tajemnicę stylu: posłuszeństwo wobec
 hierarchii społecznej. Estetyczne barbarzyństwo dopełnia dzisiaj
- grozby, zawisłej nad tworami ducha, odkąd je powiązano i zneutrali-
+groźby, zawisłej nad tworami ducha, odkąd je powiązano i zneutrali-
 zowano jako kulturę. Mówienie o kulturze zawsze godziło w kulturę.
 Wspólny mianownik kultury oznacza wirtualnie ujęcie, skatalogowa-
-nie, klasyfikację - wszystko, co zagarnia kulturę do królestwa
+nie, klasyfikację — wszystko, co zagarnia kulturę do królestwa
 administracji. Takiemu pojęciu kultury odpowiada w całej pełni
-dopiero uprzemysłowiona, konsekwentna subsumpcja. Podporząd:-
+dopiero uprzemysłowiona, konsekwentna subsumpcja. Podporząd-
 kowanie wszystkich gałęzi duchowej produkcji jednemu celowi
-- zamkńięcia ludzkich zmysłówod chwili wyjścia z fabryki wieczorem
+— zamknięcia ludzkich zmysłów od chwili wyjścia z fabryki wieczorem
 do chwili stawienia się pod zegarem kontrolnym następnego ranka
 pieczęciami procesu pracy, który w ciągu dnia sami ci ludzie muszą
-podtrzymywać - szyderczo czyni zadość pojęciu jednolitej kultury,
+podtrzymywać — szyderczo czyni zadość pojęciu jednolitej kultury,
 które filozofowie osobowości przeciwstawiali umasowieniu.
 
 Przemysł kulturalny, najbardziej niezłomny ze wszystkich stylów,
@@ -489,8 +471,8 @@ stanowią to miejsce w ekonomii, gdzie wraz z odpowiednimi
 typami przedsiębiorców żyje jeszcze jakaś cząstka skądinąd właśnie
 likwidowanej sfery cyrkulacji. Ostatecznie temu czy owemu może
 się tam jeszcze poszczęścić, jeśli tylko nie upiera się zanadto przy
-swoim i można się z nim dogadać. Cokolwiek-stawia opór, może
-przeżyć wyłącznie pod warunkiem, że stanie się
+swoim i można się z nim dogadać. Cokolwiek stawia opór, może
+przeżyć wyłącznie pod warunkiem, że stanie się elementem
 systemu. Raz zarejestrowane przez przemysł kulturalny jako coś
 odrębnego, należy do tegoż przemysłu, tak samo jak reformatorzy
 rolni należą do kapitalizmu. Oburzenie, będące słuszną reakcją na
@@ -506,35 +488,35 @@ nym żyje nadal liberalna tendencja pozostawiania swobody działa-
 nia dzielnym jednostkom. Dzisiaj przemysł kulturalny otwarty jest
 dla owych fachowców za sprawą skądinąd w znacznej mierze
 uregulowanego rynku, którego wolność już za czasów świetności
-była - w dziedzinie sztuki, jak i w każdej innej - dla glupich
+była — w dziedzinie sztuki, jak i w każdej innej — dla głupich
 wolnością głodowania. Nie darmo system przemysłu kulturalnego
 wywodzi się z liberalnych krajów uprzemysłowionych, i w tych
 krajach też triumf odnoszą wszystkie charakterystyczne media,
 zwłaszcza kino, radio, jazz i magazyny. Zródłem ich postępu są
-ogólne prawa kapitału. Gaumont i Pathć, Ullstein i Hugenberg
+ogólne prawa kapitału. Gaumont i Pathé, Ullstein i Hugenberg
 przy odrobinie szczęścia zdołali przyłączyć się do międzynarodo-
 wego pochodu; gospodarcza zależność kontynentu od USA po
 wojnie i inflacji zrobiła tu swoje. Wiara, że barbarzyństwo
-przemysłu kulturalnego jest skutkiem cy//#ra/ Zag, faktu, ze amery-
+przemysłu kulturalnego jest skutkiem *cultural lag*, faktu, ze amery-
 kańska świadomość pozostaje w tyle za techniką, jest całkowicie
 złudna. Zacofana w stosunku do tendencji monopolu kulturalnego
 
-Przemysł kulturalny . 151
+Przemysł kulturalny  151
 
 była przedfaszystowska Europa. Ale właśnie temu zacofaniu duch
 zawdzięcza resztki swej samodzielności, a jego ostatni nosiciele
 swą choćby nawet bardzo przygaszoną egzystencję. W Niemczech
 paradoksalnie zadziałała niedostateczna penetracja życia przez
-demokratyczną kontrolę. Wiele dziedzin znalazło się _poza zasie-
+demokratyczną kontrolę. Wiele dziedzin znalazło się poza zasię-
 giem mechanizmów rynkowych, tak rozbuchanych w krajach
 zachodnich. Niemiecki system oświaty wraz z uniwersytetami,
-artystycznie miarodajne teatry, wielkie orkiestry, muzea -- wszyst-
+artystycznie miarodajne teatry, wielkie orkiestry, muzea — wszyst-
 ko to znajdowało się pod opieką. Polityczne siły, państwo i gminy,
 którym instytucje te przypadły jako spadek po absolutyzmie,
 zapewniały im cząstkę tej niezawisłości od deklarowanych na
 rynku stosunków panowania, którą w końcu aż po wiek dziewięt-
 nasty pozostawiali im książęta i panowie feudalni. W ten sposób
-wzmocniony został kręgosłup późnej sztuki - stała się odporna na
+wzmocniony został kręgosłup późnej sztuki — stała się odporna na
 werdykty podaży i popytu, odporna nawet bardziej niż faktyczna
 opieka stwarzała po temu warunki. Danina, spłacana jakościom nie
 dającym się zwaloryzować i nie będącym jeszcze w obiegu, na
@@ -543,21 +525,18 @@ literaccy i muzyczni mogli opiekować się autorami, którzy nie
 przynosili nic poza szacunkiem znawców. Dopiero przymus, pod
 ostatecznym zagrożeniem nakazujący w charakterze estetycznego
 eksperta wchodzić w system interesu, stał się dla artysty wędzid-
-łem. Kiedyś jak Kant 1 Hume kreslili się „najpowolniejszymi
-sługami", a zarazem wstrząsali podstawami tronu i ołtarza. Dziś są
+łem. Kiedyś jak Kant i Hume kreslili się „najpowolniejszymi
+sługami”, a zarazem wstrząsali podstawami tronu i ołtarza. Dziś są
 z szefami rządów po imieniu i w każdym artystycznym odruchu
-podporządkowują się osądowi swych niewyksztalconych pryn-
-cypałów. Analiza, sporządzona sto lat temu przez Tocqueville'a,
+podporządkowują się osądowi swych niewykształconych pryn-
+cypałów. Analiza, sporządzona sto lat temu przez Tocqueville’a,
 potwierdziła się w całości. Przy prywatnym monopolu kultury
 tyrania „pozostawia ciało w spokoju, zmierza prostą drogą do
 zawładnięcia duszą. Władca nie mówi już: »Będziesz myślał tak jak
 ja albo umrzesz«. Powiada: »Jesteś wolny, możesz myśleć inaczej,
 twoje życie i twoje dobra należą do ciebie, ale odtąd będziesz wśród
-nas obcy«2. To, co się nie dostosowuje, porażone zostaje ekonomi-
+nas obcy«”^[A. de Tocqueville: O demokracji w Ameryce*. Przeł. M. Król. Warszawa 1976, S. 195.]. To, co się nie dostosowuje, porażone zostaje ekonomi-
 czną bezsilnością, znajdującą przedłużenie w duchowej bezsilności
-
-2 A. de Tocqueville: O demokracji w Ameryce. Przeł. M. Król. Warszawa
-1976, S. 195.
 
 152 Dialektyka oświecenia
 
@@ -575,87 +554,77 @@ sukcesu zmacznie bardziej niż ci, którzy sukces odnieśli. Masy
 mają pragnienia. Niezawodnie obstają przy ideologii, za której
 pomocą się ich zniewala. Niedobra miłość ludu do krzywd,
 jakie mu się wyrządza, daleko wyprzedza spryt instancji. Prze-
-wyższa rygoryzm Hays Office* - tak jak w wielkich czasach
+wyższa rygoryzm Hays Office^[Właś. Joe Yule, jeden z najpopularniejszych ówcześnie aktorów, grał m. in. główną rolę w cyklu komedii filmowych o rodzinie Hardy (*przyp. tłum.*).] — tak jak w wielkich czasach
 lud zagrzewał daleko silniejsze skierowane przeciwko sobie in-
 stancje, terror trybunałów. Opowiada się za Mickeyem Roo-
-neyem** przeciwko tragicznej Garbo i za Kaczorem Donaldem
-przeciwko Betty Boop. Przemysł dostosowuje się do zołwm,
+neyem^[William Hays (1879-1954), polityk amerykański w latach 1922-1943 prezes Nation Picture Producers & Distributors of America, inicjator kodeksu zasad, jakimi ma kierować się produkcja filmowa, aby unikać skandali obyczajowych (*przyp. tłum.*).] przeciwko tragicznej Garbo i za Kaczorem Donaldem
+przeciwko Betty Boop. Przemysł dostosowuje się do *votum*,
 które sam sprowokował. Co dla firmy, która nie może w pełni
-wyzyskać kontraktu z przygasającą gwiazdą, oznacza famx frais,
+wyzyskać kontraktu z przygasającą gwiazdą, oznacza *faux frais*,
 w skali całego systemu stanowi koszty całkowicie uprawnione.
 System sprytnie sankcjonuje żądania tandety i tym samym in-
 auguruje harmonię totalną. Znawstwo i znajomość rzeczy skazane
 są na banicję jako zuchwalstwo ze strony kogoś, kto chce
 wynosić się nad innych, gdy wszak kultura tak demokratycznie
 wszystkich obdarza swym przywilejem. W obliczu ideologicznego
-rozejmu konformizm odbiorców - na równi z bezwstydem
-produkcji, którą odbiorcy utrzymują w ruchu - ma zapewnione
+rozejmu konformizm odbiorców — na równi z bezwstydem
+produkcji, którą odbiorcy utrzymują w ruchu — ma zapewnione
 
-* Whig. Joe Yule, jeden z najpopularniejszych ówcześnie aktorów, grał
-
-m. in. główną rolę w cyklu komedii filmowych o rodzinie Hardy ( przyp.
-Hum.).
-** William Hays (1879-1954), polityk amerykański w latach 1922-1943
-prezes Nation Picture Producers & Distributors of America, inicjator
-kodeksu zasad, jakimi ma kierować się produkcja filmowa, aby unikać
-skandali obyczajowych (przyp. tłum.).
-
-| Przemysł kulturalny ~ 1 5 3
+Przemysł kulturalny 153
 
 czyste sumienie. Konformizm ten zadowala się reprodukowaniem
 stale tego samego.
+
 Zasada wciąż tego samego reguluje też stosunek do przeszłości.
 Tym, co nowe w fazie kultury masowej w stosunku do fazy
 późnoliberalnej, jest wykluczenie nowości. Maszyna obraca się
 w tym samym miejscu. Skoro określa konsumpcję, to wyklucza
 rzeczy nie sprawdzone jako ryzykowne. Filmowcy podejrzliwie
-"patrzą na każdy manuskrypt, który nie opiera się uspokajająco na
-jakimś bestsellerze. Dlatego właśnie wciąż mówi się 0 idea, nove/ty
-i surprise, o tym, co byłoby zarazem swojskie i niebywałe. Służy
+patrzą na każdy manuskrypt, który nie opiera się uspokajająco na
+jakimś bestsellerze. Dlatego właśnie wciąż mówi się o *idea*, *novelty*
+i *surprise*, o tym, co byłoby zarazem swojskie i niebywałe. Służy
 temu tempo i dynamika. Nic nie może pozostać tak jak było,
 wszystko musi się nieustannie posuwać, być w ruchu. Albowiem
 tylko uniwersalne zwycięstwo rytmu mechanicznej produkcji
 i reprodukcji obiecuje, że nic się nie zmieni, że nie pojawi się coś,
 co nie pasuje. Dodatki do wypróbowanego inwentarza kultury są
 zbyt spekulatywne. Skostniałe typy form, takie jak skecz, nowela,
-film problemowy, szlagier - to normatywnie stosowany, oktro-
+film problemowy, szlagier — to normatywnie stosowany, oktro-
 jowany pod groźbą kary przekrój smaku epoki późnoliberalnej.
 Potentaci agentur kulturalnych, którzy harmonizują ze sobą jak
 menedżer z menedżerem, niezależnie od tego, czy wywodzą się
-z branży konfekcyjnej czy z co//ege' m, dawno już poddali ducha
+z branży konfekcyjnej czy z *college’u*, dawno już poddali ducha
 sanacji i racjonalizacji. Tak jak gdyby jakaś wszechobecna instancja
 dokonała przeglądu materiału i sporządziła miarodajny katalog
 dóbr kulturalnych, zwięźle prezentujący dostępne w sprzedaży
 serie. Idee wypisane są na niebie kultury, w którym już u Platona
-były policzone, ba - były samymi liczbami, uchwalone raz na
+były policzone, ba — były samymi liczbami, uchwalone raz na
 zawsze, niepomnażalne i niezmienne.
+
 Rozrywka, wszystkie elementy przemysłu kulturalnego, istniały
-już na długo przed nim samym. Teraz chwyta się je od góry -
--i wynosi na poziom odpowiadający wymogom epoki. Przemysł
+już na długo przed nim samym. Teraz chwyta się je od góry
+i wynosi na poziom odpowiadający wymogom epoki. Przemysł
 kulturalny może się szczycić, że energicznie uporał się z przedtem
 niekiedy nieporadną transpozycją sztuki w sferę konsumpcji,
 wydźwignął ją do rangi zasady, oczyścił rozrywkę z natrętnych
 naiwności i ulepszył sposób wytwarzania towarów. W miarę jak
 stawał się się coraz bardziej totalny, coraz bezwzględniej każdego
-
-«
-
 outsidera doprowadzał do bankructwa albo zapędzał do syn-
 
-I 5 4 Dialektyka oswiecenia
+154 Dialektyka oswiecenia
 
 dykatu, tym bardziej robił się zarazem wykwintny i wzniosły, aż
 oto kończy na syntezie Beethovena i Casino de Paris. Odnosi
 podwójne zwycięstwo: to, co na zewnątrz tłumi jako prawdę,
-wewnątrz może dowolnie reprodukować jako kłamstwo. „Lekka"
-sztuka jako taka, rozrywka, nie jest formą schylkowa. Kto zarzuca
+wewnątrz może dowolnie reprodukować jako kłamstwo. „Lekka”
+sztuka jako taka, rozrywka, nie jest formą schyłkową. Kto zarzuca
 jej zdradę ideału czystej ekspresji, ten ulega złudzeniom co do
 społeczeństwa. Czystość sztuki burżuazyjnej, która hipostazowała
 się jako królestwo wolności w przeciwieństwie do materialnej
 praktyki, była od początku okupiona wykluczeniem klasy niższej
-- sprawie tej klasy, prawdziwej ogólności, sztuka może być wierna
+— sprawie tej klasy, prawdziwej ogólności, sztuka może być wierna
 tylko pod warunkiem, że wolna jest od celów ogólności fałszy-
-ywej. Poważna sztuka uchylała się przed tymi, którym niedola
+wej. Poważna sztuka uchylała się przed tymi, którym niedola
 i bytowe konieczności powagę zmieniają w szyderstwo i którzy
 muszą się cieszyć, jeśli mogą dowolnie spędzać czas, kiedy nie
 sterczą przy kole napędowym. Lekka sztuka towarzyszyła sztuce
@@ -669,47 +638,37 @@ sprzeczności jest wchłanianie sztuki lekkiej przez poważną lub
 odwrotnie. Tego zaś próbuje właśnie dokonywać przemysł kul-
 turalny. Ekscentryczność cyrku, pantomimy i burdelu w stosunku
 do społeczeństwa jest dlań czymś równie przykrym jak ekscen-
-trycznosé Schönberga i Karla Krausa. Dlatego jazzman Benny
-Goodman musi występować z budapesztenskim kwartetem smycz-
+tryczność Schönberga i Karla Krausa. Dlatego jazzman Benny
+Goodman musi występować z budapeszteńskim kwartetem smycz-
 kowym, i przestrzegać rytmu pedantyczniej niż jakikolwiek klar-
 necista orkiestry filharmonicznej, podczas gdy budapeszteńczycy
-przygrywają gładko wertykalnie i słodko jak Guy Lombardo *.
+przygrywają gładko wertykalnie i słodko jak Guy Lombardo^[Dyrygent, popularny zwłaszcza dzięki corocznym transmitowanym przez radio koncertom noworocznym (*przyp. tłum.*)].
 Charakterystyczny jest tu nie brutalny brak kultury, głupota
 i nieokrzesanie. Przemysł kulturalny zlikwidował dawne partactwo
 przez własną perfekcję, przez zakaz i udomowienie dyletantyzmu,
 choć bezustannie popełnia ciężkie błędy, bez których nie można
 
-* Dyrygent, popularny zwłaszcza dzięki corocznym transmitowanym
-przez radio koncertom noworocznym (przyp.
+Przemysł kulturalny 155
 
-1
-
-Przemysł kulturalny * 155
-
-sobie w ogóle wyobrazić wysokiego poziomu.,
-
-, . Nowością jest
-natomiast, że sprzeczne elementy kultury,
-
-sztuka i rozrywka,
+sobie w ogóle wyobrazić wysokiego poziomu. Nowością jest
+natomiast, że sprzeczne elementy kultury, sztuka i rozrywka,
 podporządkowane celowi, sprowadzone zostają do jednej fał-
 szywej formuły: totalności przemysłu kulturalnego. Polega ona na
 powtarzaniu. Charakterystyczne innowacje polegają wyłącznie na
-ulepszaniu masowej reprodukcji - i nie jest to cecha zewnętrzna
-wobec systemii: Zainteresowanie niezliczonych konsumentów nie
-
+ulepszaniu masowej reprodukcji — i nie jest to cecha zewnętrzna
+wobec systemu. Zainteresowanie niezliczonych konsumentów nie
 bez powodu zwraca się ku technice, nie ku sztywno powtarzanym,
-
 wyjałowionym i na wpół już zarzuconym treściom. Społeczna
 potęga, do której modlą się widzowie, potwierdza się skuteczniej
 w wymuszonej przez technikę wszechobecności stereotypu niż
 w nieświeżych ideologiach, których rzecznikami mają być efeme-
 ryczne treści.
+
 Mimo to przemysł kulturalny pozostaje przedsięwzięciem roz-
-. rywkowym. Dysponuje konsumentami za pośrednictwem rozry-
- wki; nie w trybie dyktatu, ale przez immanentnie zawartą w zasa-
+rywkowym. Dysponuje konsumentami za pośrednictwem rozry-
+wki; nie w trybie dyktatu, ale przez immanentnie zawartą w zasa-
 dzie rozrywki wrogość w stosunku do wszystkiego, co jest czymś
-więcej niż rozrywką. Ponieważ wprowadzenie wszystkich tenden:-
+więcej niż rozrywką. Ponieważ wprowadzenie wszystkich tenden-
 cji przemysłu kulturalnego w krwioobieg publiczności dochodzi do
 skutku za sprawą całego procesu społecznego, to okoliczność, że
 w tej branży trwają nadal mechanizmy rynku, dodatkowo jeszcze
@@ -723,7 +682,7 @@ uwagę. Kapitanowie filmu, którzy co prawda przymierzają wszyst-
 ko do własnego przykładu, do mniej lub bardziej fenomenalnych
 przebojów, a przezornie nigdy do przykładu odwrotnego, do
 prawdy, i dzisiaj tak widzą sytuację. Ich ideologią jest interes.
-C tyle słusznie, że władza przemysłu kulturalnego polega na jego
+O tyle słusznie, że władza przemysłu kulturalnego polega na jego
 jedności z produkowanymi potrzebami, a nie na prostym przeci-
 wieństwie do potrzeb, choćby ono samo było zarazem przeciwień-
 stwem wszechwładzy i bezsilności. Rozrywka to przedłużenie
@@ -745,15 +704,15 @@ Przyjemność zastyga w nudę, gdyż, aby pozostać przyjemnością,
 nie może znów kosztować żadnego wysiłku, toteż porusza się po
 wydeptanych szlakach skojarzeń. Widz powinien obywać się bez
 własnych myśli: produkt szkicuje z góry każdą reakcję, nie przez
-kontekst merytoryczny - ten bowiem rozpada się, jeżeli wymaga
-myślenia - ale przez sygnały. Unika się skrupulatnie wszelkich
+kontekst merytoryczny — ten bowiem rozpada się, jeżeli wymaga
+myślenia — ale przez sygnały. Unika się skrupulatnie wszelkich
 związków logicznych, które zakładają duchowy oddech. Dalszy
-bieg wydarzeń powinien wynikać w miarę możności z bezposred-
+bieg wydarzeń powinien wynikać w miarę możności z bezpośred-
 nio poprzedzającej sytuacji, a nie z idei całości. Nie ma akcji, która
 oparłaby się staraniom współpracowników, dążących do wydoby-
 cia z poszczególnej sceny wszystkiego, co da się z niej wydobyć.
 Wreszcie nawet sam schemat wydaje się niebezpieczny, gdyż
-ustanawia pewien - choćby i nader nędzny - kontekst sensu tam,
+ustanawia pewien — choćby i nader nędzny — kontekst sensu tam,
 gdzie aprobowany jest wyłącznie brak sensu. Często podstępnie
 pozbawia się akcję dalszego ciągu, do którego zmierzałyby charak-
 tery i sytuacje według starego schematu. Zamiast tego jako
@@ -765,48 +724,47 @@ aż po Chaplina i braci Marx, uderza najbardziej w mniej kul-
 tywowanych gatunkach. Podczas gdy filmy z Greer Garson i Bette
 Davis, przedstawiające poszczególny przypadek społeczno-psy-
 chologiczny, mogą jeszcze pretendować do jednolitej akcji, to
-wspomniana tendencja zwycięża całkowie w tekstach zove/ty song *,
-
-* Piosenki ze wstawkami komicznymi (przyp. tłum.).
+wspomniana tendencja zwycięża całkowicie w tekstach *novelty song*^[Piosenki ze wstawkami komicznymi (*przyp. tłum.*).],
 
 Przemysł kulturalny 157
 
 w filmie kryminalnym i w komiksach. Sama myśl, na równi
 z obiektami komizmu i grozy, zostaje zmasakrowana i poćwiar-
-towana. Noze/ty songs żyły zawsze szyderstwem z sensu, który jako
+towana. *Novelty songs* żyły zawsze szyderstwem z sensu, który jako
 przodkowie i potomstwo psychoanalizy redukowały do monotonii
 symboliki seksualnej. W dzisiejszych filmach kryminalnych i przy-
 godowych widzowi nie pozwala się już śledzić procesu uświado-
 mienia. Musi nawet w nieironicznych produktach tego gatunku
 zadowalać się grozą niekoniecznie powiązanych ze sobą sytuacji.
+
 Filmy trickowe były kiedyś eksponentami fantazji przeciwko
 racjonalizmowi. Pozwalały zwierzętom i przedmiotom, zelek-
 tryzowanym przez środki techniki filmowej, zaznać sprawiedliwo-
-ści - użyczały niemym stworzeniom drugiego życia. Dziś potwier-
+ści — użyczały niemym stworzeniom drugiego życia. Dziś potwier-
 dzają już tylko zwycięstwo rozumu technologicznego nad prawdą.
 Przed niewielu laty miały zwartą akcję, która dopiero w ostatnich
 minutach rozwiązywała się w zamęcie gonitwy. Ich metoda
-przypominała dawny obyczaj słapstickowej komedii. Potem relacje
+przypominała dawny obyczaj slapstickowej komedii. Potem relacje
 czasowe przesunęły się. Już w pierwszych sekwencjach podany
 zostaje motyw akcji, aby w toku rozwoju rozpętać nad nim furie
 zniszczenia: pośród wrzawy publiczności główny bohater ponie-
 wiera się w charakterze lumpa. W ten sposób ilość zorganizowanej
-~fożrywki przechodzi w jakość zorganizowanego okrucieństwa.
+rozrywki przechodzi w jakość zorganizowanego okrucieństwa.
 Samozwańczy cenzorzy przemysłu filmowego, jego powinowaci
 z wyboru, czuwają nad długością sekwencji niegodziwości, roz-
 ciągniętej jak polowanie z nagonką. Rozbawienie eliminuje wszel-
 ką rozkosz, jaką mógłby sprawiać widok uścisku, i przesuwa
 zaspokojenie na dzień pogromu. O ile filmy trickowe poza
 pzyzwyczajeniem zmysłów do nowego tempa w ogóle jeszcze coś
-_ mógą osiągnąć, wbijają w mózgi starą prawdę, że nieustające cięgi,
-~ łamanie wszelkiego indywidualnego oporu, jest warunkiem życia
-~w tym społeczeństwie. Kaczor Donald z komiksów i nieszczęśnicy
-' w rzeczywistości dostają baty, aby widzowie przywykli do razów,
+mogą osiągnąć, wbijają w mózgi starą prawdę, że nieustające cięgi,
+łamanie wszelkiego indywidualnego oporu, jest warunkiem życia
+w tym społeczeństwie. Kaczor Donald z komiksów i nieszczęśnicy
+w rzeczywistości dostają baty, aby widzowie przywykli do razów,
 które spadają na nich samych.
+
 Frajda, jaką sprawia przemoc wymierzona w przedstawione
 postaci, przechodzi w przemoc wobec widza, rozrywka przechodzi
 w wysiłek. Zmęczone oko nie może pominąć niczego, co eksperci
-
 wykoncypowali jako efekt stymulujący, wobec sprytnego produk-
 
 158 Dialektyka oświecenia
@@ -829,8 +787,8 @@ niekontrolowana, jak kiedyś, kiedy były jeszcze mieszkania i faj-
 ranty, wyglądała przez okno. W klimatyzowanych lokalach bez-
 robotni wielkich miast znajdują latem chłód, a zimą ciepło. Poza
 tym nawet wedle kryteriów dzisiejszego stanu rzeczy rozbuchana
-aparatura przyjemności nie czyni ludzkiego życia bardziej todnym
-człowieka. Idea „wyczerpania" danych możliwości technicznych,
+aparatura przyjemności nie czyni ludzkiego życia bardziej godnym
+człowieka. Idea „wyczerpania” danych możliwości technicznych,
 pełnego wykorzystania środków masowej konsumpcji estetycznej
 wywodzi się z tego samego systemu ekonomicznego, który nie
 kwapi się z wykorzystaniem danych mu środków wówczas, gdy
@@ -843,13 +801,11 @@ podstępna obietnica, do której właściwie ogranicza się widowisko,
 oznacza, że nie dochodzi do rzeczy samej, że gość ma się zadowolić
 lekturą jadłospisu. Pożądaniu, wywołanemu przez wszystkie świet-
 ne nazwiska i obrazy, serwuje się ostatecznie jedynie pochwałę
-szarego dnia powszedniego - tego, od czego pożądanie chciało
+szarego dnia powszedniego — tego, od czego pożądanie chciało
 uciec. Dzieła sztuki także nie polegały na seksualnym ekshibi-
 cjonizmie. Ale ponieważ przedstawiały odmowę jako coś negatyw-
 nego, tym samym niejako odwoływały upokorzenie popędu i przez
 zapośredniczenie ocałały to, co zostało odmówione. Na tym
-
- 
 
 Przemysł kulturalny 159
 
@@ -861,15 +817,12 @@ tylko niewysublimowaną chętkę, która przywykłszy do zawodów
 od dawna już została porażona masochizmem. Nie zdarza się
 erotyczna sytuacja, która obok aluzji i podniet nie niosłaby
 informacji, że do niczego i nigdy nie może dojść. Hays Office
-potwierdza. tylko rytuał, i tak ustanowiony już przez przemysł
-
-kulturalny: pytual Tantala. Dzieła sztuki są ascetyczne i bezwstyd-
-on R _ - M
-
-ne, przemysł kotraralny j jest pornograficzny i i pruderyjny. Reduku-
-je milosé do romame. A w formie zredukowanej wiele można
-strawić, mawet libertynizm jako pokupną specjalność zakładu,
-w ograniczonych dawkach i ze znakiem fabrycznym „darimg".
+potwierdza tylko rytuał, i tak ustanowiony już przez przemysł
+kulturalny: rytuał Tantala. Dzieła sztuki są ascetyczne i bezwstyd-
+ne, przemysł kulturalny jest pornograficzny i pruderyjny. Reduku-
+je miłość do *romance*. A w formie zredukowanej wiele można
+strawić, nawet libertynizm jako pokupną specjalność zakładu,
+w ograniczonych dawkach i ze znakiem fabrycznym „*daring*”.
 Seryjna produkcja seksu automatycznie prowadzi do wyparcia
 seksu. Gwiazda filmowa, w której należy się zakochać, jest już
 z tytułu swej wszechobecności swoją własną kopią. Każdy tenor
@@ -882,16 +835,15 @@ miejsca na idolatrię nieświadomą, z którą związane było piękno.
 Nad pięknem triumfuje humor, złośliwa radość z każdego udanego
 zawodu. Publiczność śmieje się z tego, że nie ma się z czego śmiać.
 Śmiech, zarówno śmiech pojednania, jak śmiech grozy, pojawia się
-wówczas, ; gdy ustępuje strach. Jest znakiem wyzwolenia, czy to od
+wówczas, gdy ustępuje strach. Jest znakiem wyzwolenia, czy to od
 niebezpieczeństwa fizycznego, czy to z pułapki logicznej. Śmiech
 pojednania rozbrzmiewa jak echo chwili, gdy udało się ujść
 groźnej potędze, niedobry śmiech pokonuje strach, godząc w in-
 stancje, które strach wzbudzają. Śmiech jest echem władzy jako
-czegoś nieuniknionego. F#x to kąpiel w żelazistej wodzie. Prze-
+czegoś nieuniknionego. *Fun* to kąpiel w żelazistej wodzie. Prze-
 mysł rozrywkowy aplikuje ją nieustannie. Śmiech staje się tu
 instrumentem oszukiwania na szczęściu. Chwile szczęścia nie znają
 śmiechu, tylko operetki, a potem filmy przedstawiają seks z grom-
-
 kim śmiechem. Baudelaire tymczasem jest równie pozbawiony
 
 160 Dialektyka oświecenia
@@ -903,12 +855,12 @@ które według Bergsona w ten sposób przełamuje okowy, jest
 naprawdę inwazją barbarzyństwa, samoutwierdzeniem się, które
 przy towarzyskiej okazji nie waha się świętować swych wyzwolin
 od skrupułów. Kolektyw śmieszków to parodia ludzkości. Są
-monadami, z których każda - kosztem każdej innej i mając za sobą
-większość - gotowa jest na wszystko i stąd czerpie uciechę. Ich
+monadami, z których każda — kosztem każdej innej i mając za sobą
+większość — gotowa jest na wszystko i stąd czerpie uciechę. Ich
 harmonia jest karykaturą solidarności. Diabelstwo fałszywego
 śmiechu polega właśnie na tym, że siłą rzeczy parodiuje nawet to,
-co najlepsze, pojednanie. Tymczasem rozkosz jest surowa: res severa
-verum gaudium. Ideologia klasztorów, zgodnie z którą nie asceza, ale
+co najlepsze, pojednanie. Tymczasem rozkosz jest surowa: *res severa
+verum gaudium*. Ideologia klasztorów, zgodnie z którą nie asceza, ale
 akt seksualny świadczy o rezygnacji z osiągalnej błogości, znajduje
 negatywne potwierdzenie w powadze kochanka, który w pełni
 świadomie uzależnia swoje życie od umykającej chwili. Przemysł
@@ -919,7 +871,7 @@ właśnie ze śmiechem powinni się cieszyć. Każdy wykwit przemysłu
 kulturalnego jest dla odbiorcy kolejnym jednoznacznym doświad-
 czeniem i demonstracją permanentnego zawodu, jaki narzuca
 cywilizacja. Cokolwiek oferuje się odbiorcy, zarazem zostaje mu
-odebrane. Dokonuje się to za sprawą gorliwej aktywności erotycz:-
+odebrane. Dokonuje się to za sprawą gorliwej aktywności erotycz-
 nej. Wszystko obraca się wokół spółkowania, właśnie dlatego, że
 nie może do niego dojść. Na przykład nielegalny stosunek
 w filmie, jeżeli winnych nie spotyka kara, obłożony jest tabu
@@ -928,8 +880,8 @@ w ruchu robotniczym. W przeciwieństwie do ery liberalnej kultura
 uprzemysłowiona może sobie tak samo jak kultura ludowa po-
 zwolić na gest oburzenia wobec kapitalizmu; nie może natomiast
 wyrzec się groźby kastracji. Należy to do jej istoty. Kultura ta
-może przetrwać zorganizowane rozluźnienie obyczajów w stosum-
-ku do nosicieli uniformów - w produkowanych dla nich filmach
+może przetrwać zorganizowane rozluźnienie obyczajów w stosun-
+ku do nosicieli uniformów w produkowanych dla nich filmach
 i ostatecznie także w rzeczywistości. Dziś rozstrzygający jest już
 nie purytanizm, choć ten ostatni nadal dochodzi do głosu w or-
 
@@ -942,14 +894,14 @@ się przekonanie, że przemysł kulturalny może zaspokoić wszystkie
 potrzeby, ale z drugiej strony potrzeby te mają być z góry tak
 ułożone, by sam konsument widział siebie wyłącznie jako wiecz-
 nego konsumenta, jako obiekt przemysłu kulturalnego. Nie tylko
-wmawia mu się, że oszustwo jest zaspokojeniem, ale ponadto - że
-fak czy inaczej musi pogodzić się ze wszystkimi nakazami.
-UCIECZKA od powszedniości, którą obiecuje przemysł kulturalny ze
+wmawia mu się, że oszustwo jest zaspokojeniem, ale ponadto — że
+tak czy inaczej musi pogodzić się ze wszystkimi nakazami.
+Ucieczka od powszedniości, którą obiecuje przemysł kulturalny ze
 wszystkimi swymi gałęziami, to coś takiego jak obrazek przed-
 stawiający uprowadzenie córki w jednym z amerykańskich pism
 satyrycznych: w mroku sam ojciec podtrzymuje drabinę. Przemysł
 kulturalny oferuje w charakterze raju tę samą powszedniość.
-Escape podobnie jak e/opement z założenia prowadzić mają z po-
+*Escape* podobnie jak *elopement* z założenia prowadzić mają z po-
 wrotem do punktu wyjścia. Dobra zabawa sprzyja rezygnacji, bo
 pomaga jej zapomnieć o sobie.
 
@@ -958,28 +910,18 @@ wieństwem sztuki, ale także skrajnością, która się ze sztuką styka.
 Absurdalny humor Marka Twaina, jakim amerykański przemysł
 kulturalny niekiedy kokietuje, mógłby stanowić pewną korektę
 sztuki. Im poważniej traktuje ona sprzeciw wobec istnienia, tym
-bardziej upodobnia się c się do powagi istnienia, będącej j jej przeciwień-
-
-„a mi m m genami take ar
-
-śtwem: im więcej pracy poświęca na to, by rozwijać się według
-własnej zasady formalnej,. tym więcej pracy wymaga z kolei od
-
+bardziej upodobnia się do powagi istnienia, będącej jej przeciwień-
+stwem: im więcej pracy poświęca na to, by rozwijać się według
+własnej zasady formalnej, tym więcej pracy wymaga z kolei od
 rozumienia, choć w zamyśle miała właśnie uciążliwość pracy
-
-negować. w niektórych filmach rewiowych, a przede wszystkim
-"w grotesce i i w funnies * chwilami przeblyskuje mozliwosé same] tej
+negować. W niektórych filmach rewiowych, a przede wszystkim
+w grotesce i w *funnies*^[Strony rozrywkowe w gazetach, wypełnione dowcipami i komiksami (*przyp. tłum.*).] chwilami przebłyskuje mozliwość samej tej
 negacji. Ale możliwość ta ma pozostać niezrealizowana. Czysta,
 konsekwentna rozrywka, luźne oddawanie się barwnym skojarze-
 niom i radosnemu nonsensowi, zostaje skażona rozrywką pokup-
 ną: zakłóca ją surogat spójnego sensu, który przemysł kulturalny
 z uporem przydaje swoim produktom, a zarazem z przymrużeniem
-
-oczu sems tem maltretuje i nadużywa go jako pretekstu do
-
-* Strony rozrywkowe w gazetach, wypełnione dowcipami i komiksami
-
-(przyp. tłum.).
+oczu sens ten maltretuje i nadużywa go jako pretekstu do
 
 162 Dialektyka oświecenia
 
@@ -988,69 +930,61 @@ bzdury w idiotyczną akcję. Słychać dźwięk nie dzwoneczków
 u czapki błazna, ale kluczy kapitalistycznego rozumu, który nawet
 w obrazie zamknąć chce rozkosz awansu. Każdy pocałunek
 w filmie rewiowym ma się przyczyniać do kariery boksera albo
-innych przebojowców, których sukcesy właśnie się podziwia,
+innych przebojowców, których sukcesy właśnie się podziwia.
 Oszustwo polega więc nie na tym, że przemysł kulturalny ob-
 sługuje rozrywkę, ale na tym, że przez solidne uwikłanie w ideo-
 logiczne klisze samolikwidującej się kultury psuje całą frajdę.
-Etyka i smak piętnują nieskrępowaną rozrywkę jako „naiwną"
-- naiwność uchodzi za grzech równie poważny jak intelektualizm
-- i w dodatku ograniczają jeszcze potencjał techniczny. Przemysł
+Etyka i smak piętnują nieskrępowaną rozrywkę jako „naiwną”
+— naiwność uchodzi za grzech równie poważny jak intelektualizm
+— i w dodatku ograniczają jeszcze potencjał techniczny. Przemysł
 kulturalny jest zepsuty nie jako występna wieża Babel, lecz jako
 katedra podniosłej przyjemności. Na wszystkich jej piętrach, od
-Hemingwaya po Emila Ludwiga, od Mrs. Miniver* po Lone'a
-Rangera **, od Toscaniniego po Guya Lombarda duch, przejęty
+Hemingwaya po Emila Ludwiga, od Mrs. Miniver^[Tytułowa postać radiowej powieści w odcinkach, później też sfilmowanej (*przyp. tłum.*).] po Lone'a
+Rangera^[Tytułowa postać radiowego serialu westernowego, później też sfilmowanego (*przyp. tłum.*).], od Toscaniniego po Guya Lombarda duch, przejęty
 w postaci gotowej ze sztuki i nauki, skażony jest nieprawdą. Ślady
 czegoś lepszego zachowały się w tych segmentach przemysłu
 kulturalnego, które zbliżają go do cyrku, w upartej a pozbawionej
 sensu biegłości jeźdźca, akrobaty i clowna, w „obronie i usprawie-
-dliwieniu sztuki fizycznej przeciwko sztuce duchowej" Ale
+dliwieniu sztuki fizycznej przeciwko sztuce duchowej^[F. Wedekind: *Gesammelte Werke*. T. IX. München 1921, s. 426.]”. Ale
 planujący rozum, który chce, by wszystko legitymowało się
 znaczeniem i oddziaływaniem, nieubłaganie tropi azyle bezdusz-
 nego artyzmu, reprezentującego człowieczeństwo wobec mechani-
 zmów społecznych. Rozum ten tępi radykalnie nonsens na nizinach
-- podobnie jak tępi sens na wyżynach dzieł sztuki.
+— podobnie jak tępi sens na wyżynach dzieł sztuki.
 
 Fuzja kultury i rozrywki dokonuje się dziś nie tylko jako
 deprawacja kultury, ale również jako przymusowa intelektualizacja
-rozrywki. Polega ona choćby na tym, że obcuje się z rozrywką juz
+rozrywki. Polega ona choćby na tym, że obcuje się z rozrywką już
 tylko w formie odbitej, ogląda się filmową fotografię, słucha
 radiowego nagrania. W erze liberalnej ekspansji rozrywka żyła
 
-* Tytułowa postać radiowej powieści w odcinkach, później też
-sfilmowanej (przyp. Hum.).
-** Tytułowa postać radiowego serialu westernowego, później też
-sfilmowanego (przyp. Hum.).
-3 F. Wedekind: Gesammelte Werke. T. IX. München 1921, s. 426.
-
-Przemysł kulturalny ' 163
+Przemysł kulturalny 163
 
 niezakłóconą wiarą w przyszłość: wiarą, że wszystko pozostanie
 jak było, a zarazem będzie lepiej. Dziś wiara ta ulega raz jeszcze
 uduchowieniu; staje się tak subtelna, że traci z oczu wszelki cel
 i stanowi już tylko złoty podkład, rzutowany jako tło dla
-rzeczywistości. Składa się z akcentów znaczenionych, jakimi
-w widowisku - z zachowaniem ścisłej paraleli wobec życia
-- Opatrzeni są wspaniały facet, inżynier, dzielna dziewczyna,
+rzeczywistości. Składa się z akcentów znaczeniowych, jakimi
+w widowisku — z zachowaniem ścisłej paraleli wobec życia
+— opatrzeni są wspaniały facet, inżynier, dzielna dziewczyna,
 bezwzględność przedstawiana jako charakter, zainteresowania
 sportowe, a wreszcie auta i papierosy, także wówczas, gdy
 rozrywka nie jest obliczona na reklamę bezpośrednich producen-
 tów, tylko systemu jako całości. Sama rozrywka zalicza się do
 ideałów, zajmuje miejsce wyższych dóbr, które całkowicie zaciera
 w oczach mas, gdyż posługuje się nimi jeszcze bardziej stereo-
-typowo niż pry watnie : opłacane slogany reklamowe. Zycie we-
-
-Podporządkowane - zewnętrznym władcom bardziej, niż samo
-Przemysł kulturalny przerabia je na jawne kłamst-
-
-6. Zaznacza się już tylko jako szarlataneria, którą w religijnych
-bestsellerach, filmach psychologicznych i wowen serials * tolerować
+typowo niż prywatnie opłacane slogany reklamowe. Życie we-
+wnętrzne, subiektywnie ograniczona postać prawdy, zawsze było
+podporządkowane zewnętrznym władcom bardziej, niż samo
+przypuszczało. Przemysł kulturalny przerabia je na jawne kłamst-
+wo. Zaznacza się już tylko jako szarlataneria, którą w religijnych
+bestsellerach, filmach psychologicznych i *women serials*^[Powieści w odcinkach, zamieszczane w czasopismach kobiecych (*przyp. tłum.*)] tolerować
 można jako gorzko-słodką domieszkę, po to, by w życiu tym
 pewniej panować nad własnymi odruchami człowieczeństwa.
 W tym przypadku rozrywka zapewnia oczyszczenie afektów, co
 już Arystoteles przypisywał tragedii, a Mortimer Adler aktualnie
-
 przypisuje filmowi. Przemysł kulturalny odsłania prawdę o kathar-
-sis - podobnie jak prawdę o stylu.
+sis — podobnie jak prawdę o stylu.
 
 Im silniejsza pozycja przemysłu kulturalnego, tym bardziej
 sumarycznie może on traktować potrzeby konsumentów, produ-
@@ -1061,31 +995,25 @@ zasadzie mieszczańskiego oświecenia. Potrzeba rozrywki została
 wyłoniona w znacznej mierze przez przemysł, który zalecał masom
 dzieło przez temat, oleodruk przez wyobrażone smakołyki, i od-
 
-* Powieści w odcinkach, zamieszczane w czasopismach kobiecych
-
-(przyp. tłum.)
-
 164 Dialektyka oświecenia
 
-wrotnie: budyń w proszku przez obrazek budyniu - a z kolei
-w samej rozrywce zawsze pobrzmiewa coś z gorliwej animacji, sa/es
-talk, glos jarmarcznego zachwalacza. Pierwotne powinowactwo
+wrotnie: budyń w proszku przez obrazek budyniu — a z kolei
+w samej rozrywce zawsze pobrzmiewa coś z gorliwej animacji, *sales
+talk*, głos jarmarcznego zachwalacza. Pierwotne powinowactwo
 interesu i rozrywki ujawnia się zaś w tym, co stanowi właściwy
 sens rozrywki: w apologii społeczeństwa. Dobra zabawa oznacza
 zgodę. Rozrywka jest możliwa tylko, gdy oddziela się szczelnie od
 całości społecznego procesu, ogłupia i od początku krnąbrnie
 ignoruje roszczenie, jakie wysuwa nieuchronnie każde dzieło,
 nawet najlichsze: roszczenie, by w swym ograniczonym kształcie
+odzwierciedlić całość. Dobrze się bawić znaczy zawsze: nie musieć
 o tym myśleć, zapomnieć o cierpieniu, nawet jeżeli jest pokazywa-
 ne. U podstaw dobrej zabawy leży bezsilność. Jest to faktycznie
-
- 
-
-ucieczka, ca, ale nie - jak sama twierdzi - ucieczka od złej rzeczywisto-
+ucieczka, ale nie — jak sama twierdzi — ucieczka od złej rzeczywisto-
 ści, lecz ucieczka przed ostatnią myślą o oporze, jaką rzeczywistość
 dopuszcza. Wyzwolenie, jakie obiecuje rozrywka, jest
 wyzwoleniem od myślenia jako od negacji. Bezwstyd retorycznego
-pytania „czego chcą ludzie" polega na tym, że powołuje się ono na
+pytania „czego chcą ludzie” polega na tym, że powołuje się ono na
 ludzi jako na myślące podmioty, choć specyficznym zadaniem
 rozrywki jest właśnie tychże samych ludzi odzwyczaić od pod-
 miotowości. Nawet tam, gdzie publiczności zdarza się wzdragać na
@@ -1095,16 +1023,15 @@ utrzymać publiczność. Postęp ogłupiania nie może pozostawać
 w tyle za jednoczesnym postępem inteligencji. W erze statystyki
 masy są zbyt sprytne, aby identyfikować się z milionerem na
 ekranie, i zbyt tępe, by choć na włos wyłamywać się spod prawa
-wielkich liczb. Ideologia skrywa się w rachunku prawdopodobień:-
+wielkich liczb. Ideologia skrywa się w rachunku prawdopodobień-
 stwa. Szczęście spotkać może nie każdego, ale tego, kto wyciągnie
-los, albo lepiej - tego, kto jest do szczęścia predestynowany przez
+los, albo lepiej — tego, kto jest do szczęścia predestynowany przez
 jakąś wyższą potęgę, przeważnie przez przemysł rozrywkowy,
 przedstawiany jako instancja bezustannie poszukująca. Postaci,
 wytropione przez łowców talentów i następnie ustawione w świet-
 le reflektorów to idealne typy nowego zależnego stanu średniego.
 Starletka ma symbolizować urzędniczkę, ale tak, że w odróżnieniu
 od rzeczywistej urzędniczki wydaje się od początku przeznaczona
-
 do noszenia wspaniałego wieczorowego płaszcza. W ten sposób
 
 Przemysł kulturalny 165
@@ -1124,44 +1051,26 @@ publiczności, ale w równości tej założony jest nieprzezwyciężalny
 rozdział ludzkich elementów. Całkowite podobieństwo jest ab-
 solutną różnicą. Tożsamość gatunku zakazuje tożsamości losów.
 Przemysł kulturalny podstępnie doprowadził i do realizacji człowie-
-
-ka jako istoty gatunkowej.
-
-0090,
-
- 
-
-jest juz ż tylko tym, ze względu na
-
-mn o zn ne een nei
-
-co może zastąpić każdego innego: jest funkcjonalny; jest -
-
-r e
-
-larzem. On sam, jako indywiduum, jest czymś absolutnie ZA-
-stępow alnym, czystą nicością, i właśnie. to zaczyna odczuwać, gdy
+ka jako istoty gatunkowej. Każdy jest już tylko tym, ze względu na
+co może zastąpić każdego innego: jest funkcjonalny, jest egzemp-
+larzem. On sam, jako indywiduum, jest czymś absolutnie za-
+stępowalnym, czystą nicością, i właśnie to zaczyna odczuwać, gdy
 z czasem zatraca podobieństwo. W ten sposób zmianie ulega
-"wewnętrzny skład religii sukcesu, przy której skądinąd surowo się
-obstaje. Zamiast drogi per aspera ad astra, która zakłada trudy
+wewnętrzny skład religii sukcesu, przy której skądinąd surowo się
+obstaje. Zamiast drogi *per aspera ad astra*, która zakłada trudy
 i wysiłek, coraz ważniejsza staje się premia. Ideologia wielbi
-element ślepoty w rutynowych decyzjach co do tego, jaki song
+element ślepoty w rutynowych decyzjach co do tego, jaki *song*
 nadaje się na szlagier, która statystka na heroinę. Filmy uwydat-
-niają przypadek. Zasadnicza identyczność postaci - z wyjątkiem
-łjdaków - posunięta aż do wykluczania fizjonomii, narzucających
+niają przypadek. Zasadnicza identyczność postaci — z wyjątkiem
+łajdaków — posunięta aż do wykluczania fizjonomii, narzucających
 rezerwę, a więc na przykład jak Garbo nie wygladających na takie,
-które zagadnąć można per „bello sister", czyni poniekąd życie
+które zagadnąć można per „*hello sister*”, czyni poniekąd życie
 lżejszym. Widzów zapewnia się oto, że wcale nie muszą być inni,
-
 niż są, że im również mogłoby się powieść, i nie stawia się im
-wymagań, którym - jak sami wiedzą - nie mogliby sprostać. Ale
+wymagań, którym — jak sami wiedzą — nie mogliby sprostać. Ale
 zarazem daje im się znak, że żadne wysiłki na nic się nie zdadzą,
-
 ponieważ nawet mieszczańskie szczęście nie pozostaje już w żad-
-
-«---
-
-nym związku z obliczalnymi efektami ich pracy. Widzowie rózu-
+nym związku z obliczalnymi efektami ich pracy. Widzowie rozu-
 mieją ten znak. W gruncie rzeczy wszyscy uznają przypadek, za
 
 166 Dialektyka oświecenia
@@ -1172,23 +1081,19 @@ daleko, że każdy może zostać inżynierem albo menedżerem,
 i właśnie dlatego jest sprawą kompletnie irracjonalną, kogo
 społeczeństwo obdarzy wykształceniem albo zaufaniem, by powie-
 rzyć mu tę funkcję. Przypadek i planowanie stają się tym samym
-
-ponieważ wobec równości ludzi. szczęście i i nieszczęście jednostki
-aż po elity traci wszelkie : znaczenie ekonomiczne. Sam przypadek
+ponieważ wobec równości ludzi szczęście i nieszczęście jednostki
+aż po elity traci wszelkie znaczenie ekonomiczne. Sam przypadek
 jest zaplanowany; nie dlatego, że dotyka tę czy ową określoną
 jednostkę, ale dlatego, że wierzy się w jego rządy. Służy jako alibi
-dla planujących i wywołuje wrażenie, że tkanka transakcji i środ:-
+dla planujących i wywołuje wrażenie, że tkanka transakcji i środ-
 ków, w jaką zmieniło się życie, pozostawia miejsce na spontaniczne
 bezpośrednie stosunki między ludźmi. Swobodę tę symbolizuje
 w rozmaitych mediach przemysłu kulturalnego arbitralne wydoby-
-
-» arme mem m
-
-wanie losów przeciętny ch. Zamieszczane w magazynach szczegó-
+wanie losów przeciętnych. Zamieszczane w magazynach szczegó-
 łowe relacje o olśniewających w swej kategorii wycieczkach,
-zorganizowanych przez dany magazyn dla szczęściarza - najlepiej,
+zorganizowanych przez dany magazyn dla szczęściarza — najlepiej,
 by była to stenotypistka, która wygrała konkurs prawdopodobnie
-ze względu na układy z lokalnymi znakomitościami - odzwiercied:-
+ze względu na układy z lokalnymi znakomitościami — odzwiercied-
 lają bezsilność wszystkich innych. Wszyscy inni są mianowicie do
 tego stopnia tylko tworzywem, materiałem, że dysponenci mogą
 każdego wynieść do nieba i znowu strącić na niziny: jego racje
@@ -1200,25 +1105,18 @@ jest akurat miarodajny, w ideologii będzie się podkreślało plano-
 wość albo przypadek, technikę albo życie, cywilizację albo naturę.
 Jako najemnym pracownikom przypomina im się o racjonalnej
 organizacji i oczekuje się, że zdrowy rozsądek każe im się do tej
-organizacji dopasować. Jako klientom demonstruje się im - na
+organizacji dopasować. Jako klientom demonstruje się im — na
 przykładzie prywatnych losów przedstawianych na ekranie lub
-w prasie - swobodę wyboru, urok rzeczy nie zaprogramowanych.
+w prasie — swobodę wyboru, urok rzeczy nie zaprogramowanych.
 W obu przypadkach pozostają obiektami.
 
 Im mniej przemysł kulturalny może obiecać, im gorzej daje
-
-sobie rade z Wwskazywaniem sensu życia, tym bardziej pusta staje się
+sobie rade z wskazywaniem sensu życia, tym bardziej pusta staje się
 
 Przemysł kulturalny 167
 
-z konieczności ideologia, jaką. przemysł ten upowszechnia. Nawet
-
--.- ien sec ane -r
-
+z konieczności ideologia, jaką przemysł ten upowszechnia. Nawet
 abstrakcyjne ideały harmonijnego i dobrego społeczeństwa są
-
- 
-
 w dobie uniwersalnej reklamy zbyt konkretne. Nauczono się
 bowiem właśnie abstrakcje identyfikować jako reklamy. Język,
 który powołuje się wyłącznie na prawdę, każe tym niecierpliwiej
@@ -1241,34 +1139,16 @@ zjawisko ustanowione jako ideał. Ideologia rozszczepia się na
 fotografię drętwego istnienia i gołe kłamstwo tyczące jego sensu,
 kłamstwo, którego się nie wypowiada, lecz sugeruje i wbija do
 głowy. Rzeczywistość jest cynicznie wciąż tylko powtarzana
-- w ten sposób dowodzi się jej boskiego charakteru. Taki
-fotologiczny dowód nie jest wprawdzie ścisły, ale za to obezwlad-
+— w ten sposób dowodzi się jej boskiego charakteru. Taki
+fotologiczny dowód nie jest wprawdzie ścisły, ale za to obezwład-
 niający. Kto w obliczu władzy monopolu żywi jeszcze wątpliwości,
-
-10 moja stepowe
-
 jest głupcem. Przemysł kulturalny dławi wszelki protest skierowa-
-
-nm non
-
-ny przeciwko niemu tak samo jak protest przeciwko rzeczywisto
-
-ści, któr ra . chce dublować. Człowiek ma do wyboru _ jedynie
-
-Kie -o pa ome une | cih sl sl 222. ne m =
-
-"noten 0
-
+ny przeciwko niemu tak samo jak protest przeciwko rzeczywisto-
+ści, którą chce dublować. Człowiek ma do wyboru jedynie
 współpracować albo usunąć się na bok: prowincjusze, ktorzy
 przeciwko kinu i radiu sięgają po wieczne piękno i amatorski teatr,
 politycznie znajdują się już tam, gdzie kultura masowa swoich
-
 odbiorców dopiero chce zapędzić. Kultura masowa jest dostatecz-
-
- 
-
- 
-
 nie zahartowana, by nawet dawne marzenia, ideał ojca na równi
 z absolutnym uczuciem wedle potrzeby wyszydzać lub skutecznie
 
@@ -1280,10 +1160,10 @@ tego, by za sprawą możliwie dokładnego przedstawienia awan-
 sować marne istnienie do królestwa faktów. Wskutek takiej
 transpozycji samo istnienie staje się surogatem sensu i słuszności.
 Wszystko, cokolwiek kamera reprodukuje, jest piękne. Zawiedzio-
-nym widokom na to, że samemu będzie się ta biurową myszą,
+nym widokom na to, że samemu będzie się tą biurową myszą,
 której przypada w udziale premiowa podróż, odpowiadają roz-
 czarowujące widoki dokładnie sfotografowanych okolic, przez
-jakie podróż: wiedzie. Nie oferuje się Włoch, oferuje się pozór, że
+jakie podróż wiedzie. Nie oferuje się Włoch, oferuje się pozór, że
 Włochy istnieją. Film może pozwolić sobie na to, by Paryż,
 w którym młoda Amerykanka próbuje ukoić swoje tęsknoty,
 przedstawić jako rozpaczliwą pustkę i tym bezwzględniej do-
@@ -1291,26 +1171,24 @@ prowadzić panienkę do dziarskiego amerykańskiego chłopca,
 którego poznać mogła nie ruszając się z domu. Okoliczność, że
 rzeczy w ogóle toczą się dalej, że system nawet w swej ostatniej
 fazie reprodukuje życie tych, na których się wspiera, zamiast od
-razu je zlikwidować - i ta okoliczność będzie poczytana za sens
-i zasługę systemu. „Tylko tak dalej"" staje się w ogóle usprawied:-
+razu je zlikwidować — i ta okoliczność będzie poczytana za sens
+i zasługę systemu. „Tylko tak dalej” staje się w ogóle usprawied-
 liwieniem ślepego trwania systemu, a nawet usprawiedliwieniem
 jego nieodwołalności. Zdrowe jest to, co się powtarza, cykl
 przyrody i przemysłu. Z ilustrowanych magazynów wiecznie
-szczerzą zęby te same babies, wiecznie łoskocze machina jazzu.
+szczerzą zęby te same *babies*, wiecznie łoskocze machina jazzu.
 Mimo całego postępu techniki przedstawiania, reguł i specjalności,
 mimo gorączkowych zabiegów chleb, którym przemysł kulturalny
 karmi ludzi, pozostaje kamieniem stereotypu. Przemysł kulturalny
-
 odwołuje się do praw cyklu, do uzasadnionego zdumienia, że
-
-matki mimo wszystko wciąż jeszcze ródzą dzieci, że kółka wciąż
+matki mimo wszystko wciąż jeszcze rodzą dzieci, że kółka wciąż
 jeszcze się kręcą. W ten sposób jeszcze bardziej się uwydatnia
 nieodwołalny charakter stosunków. Falujące łany zbóż na końcu
 filmu Chaplina o Hitlerze dezawuują antyfaszystowską przemowę
 o wolności. Przypominają rozwiane wiatrem jasne włosy niemiec-
 kiej dziewczyny sfotografowanej przez UFA na letnim obozie.
 Społeczny mechanizm panowania ujmuje naturę jako zbawcze
-antidotum wobec społeczeństwa - tym samym natura zostaje
+antidotum wobec społeczeństwa — tym samym natura zostaje
 wciągnięta w nieuleczalne społeczeństwo i sprzedana. Obrazowe
 
 Przemysł kulturalny 169
@@ -1318,8 +1196,7 @@ Przemysł kulturalny 169
 zapewnienie, że drzewa są zielone, niebo niebieskie, a chmury
 przeciągają, sprawia, że drzewa, niebo i chmury stają się krypto-
 gramami kominów fabrycznych i stacji benzynowych. Natomiast
-
-kółka i części maszyn muszą ekspresywnie błyszczeć - zde-
+kółka i części maszyn muszą ekspresywnie błyszczeć — zde-
 gradowane, bo traktuje się je jako substraty duszy drzew i chmur.
 W ten sposób naturę i technikę mobilizuje się przeciwko stęchliź-
 nie, fałszywym wspomnieniom o społeczeństwie liberalnym, kiedy
@@ -1331,43 +1208,23 @@ przemieszczać się stąd, gdzie i tak się jest, tam, gdzie nie jest
 inaczej. Triumf wielkich koncernów nad inicjatywą przedsiębior-
 ców opiewany jest przez przemysł kulturalny jako wieczna inic-
 jatywa przedsiębiorców. Zwalcza się wroga, który jest już pobity
-- myślący podmiot. Rezurekcja antymieszczańskiego Hansa Sonnen-
-stossera * w Niemczech i powodzenie, jakim cieszy sie The Life with
-Father **, świadczą o identycznej ewolucji.
+— myślący podmiot. Rezurekcja antymieszczańskiego *Hansa Sonnen-
+stössera*^[*Hans Sonnenstössers Höllenfahrt* — słuchowisko P. Apla, w 1937 r. na nowo wyreżyserowane przez Gustafa Gründgensa (*przyp. tłum.*).] w Niemczech i powodzenie, jakim cieszy sie *The Life with
+Father*^[Popularny amerykański serial radiowy, według sztuki Clarence'a Daya (*przyp. tłum.*).], świadczą o identycznej ewolucji.
 
 W jednym punkcie co prawda ta wyjałowiona ideologia nie
 toleruje żartów: gdy zarzucać jej brak opiekuńczej troski. „Niko-
 mu nie wolno głodować i marznąć; kto mimo to głoduje i marznie,
-idzie do obozu koncentracyjnego" - dowcip z hitlerowskich
+idzie do obozu koncentracyjnego” — dowcip z hitlerowskich
 Niemiec mógłby widnieć jako maksyma nad portalami wszystkich
 przybytków przemysłu kulturalnego. Z naiwnym sprytem zakłada
 stan charakterystyczny dla społeczeństwa nowych czasów: umie
 ono trafnie dobierać swoich ludzi. Każdemu gwarantuje się
-
- 
-
-=*.
-~......
-
-formalną wolność. Nikt nie może oficjalnie ponosić odpowiedzial:
-
+formalną wolność. Nikt nie może oficjalnie ponosić odpowiedzial-
 ności za to, co myśli. Za to każdy już wcześnie ląduje w systemie
-
-kosciolöw., klubów, zrzeszeń zawodowych i innych układów,
-
+kościołów, klubów, zrzeszeń zawodowych i innych układów,
 stanowiących najczulszy instrument społecznej kontroli. Kto nie
-
-dumm
-
 chce się doprowadzić do ruiny, nie może wedle skali tego
-
- 
-
-* - Hans Sonnenstóssers Hóllenfahrt - słuchowisko P. Apla, w 1937 r. na
-nowo wyreżyserowane przez Gustafa Gründgensa (przyp. Hum.).
-** Popularny amerykański serial radiowy, według sztuki Clarence'a
-
-Daya (prgyp. Hum.).
 
 170 Dialektyka oświecenia
 
@@ -1375,18 +1232,18 @@ instrumentu ważyć zbyt lekko. W przeciwnym razie nie nadąży za
 życiem i w końcu zmarnieje. Jako że w każdej karierze, a przede
 wszystkim w wolnych zawodach fachowe wiadomości z reguły
 powiązane są z przepisowymi poglądami, łatwo może powstać
-pozór, że liczy się tylko fachowość. W rzeczywistości do irsacjanal-
-nego systemu planowania tego społeczeństwa należy to, że-re-
+pozór, że liczy się tylko fachowość. W rzeczywistości do irracjonal-
+nego systemu planowania tego społeczeństwa należy to, że re-
 produkuje on jedynie życie swoich zwolenników. Hierarchia
 standardów życia odpowiada dokładnie wewnętrznym powiąza-
 niom warstw i jednostek z systemem. Na menedżerze można
-polegać, godny zaufania jest jeszcze niski rangą urzędnik - Dag-
-wood* z humorystycznych broszurek i z rzeczywistości. Kto
+polegać, godny zaufania jest jeszcze niski rangą urzędnik — Dag-
+wood^[Postać z komiksu *Blondie* (*przyp. tłum.*).] z humorystycznych broszurek i z rzeczywistości. Kto
 głoduje i marznie, zwłaszcza jeśli kiedyś miał dobre perspektywy,
 jest napiętnowany. Jest outsiderem, a jeśli pominąć zbrodnię
 główną, bycie outsiderem jest największą winą. W filmie ktoś taki
 może być w najlepszym przypadku oryginałem, obiektem niemile
-pobłażliwych żartów; przeważnie bywa he vi//ain, który juz przy
+pobłażliwych żartów; przeważnie bywa *the villain*, który juz przy
 pierwszym pojawieniu się, zamim akcja posunie się dostatecznie
 daleko, zostaje jako taki zidentyfikowany, aby ani na chwilę nie
 dopuścić do błędnego wrażenia, że społeczeństwo zwraca się
@@ -1399,7 +1256,7 @@ pozoru robotnicy, właściwi żywiciele, żywieni są przez liderów
 ekonomicznych. Pozycja jednostki staje się wskutek tego niepew-
 na. W liberalizmie biedak uchodził za leniucha, dziś staje się
 automatycznie podejrzany. Ten, o którego nie dba się z zewnątrz,
-ląduje w obozie koncentracyjnym - a w każdym razie w piekle
+ląduje w obozie koncentracyjnym — a w każdym razie w piekle
 najgorszej pracy i słumsów. Przemysł kulturalny przedstawia
 pozytywną i negatywną opiekę nad tymi, którymi administruje,
 jako bezpośrednią solidarność ludzi w świecie pracowitych i rzetel-
@@ -1407,18 +1264,16 @@ nych. Nikt nie będzie zapomniany, wszędzie znajdą się sąsiedzi,
 społeczni opiekunowie, doktorzy Gillespie i domorośli filozofowie
 z sercem na dłoni, którzy utrwalaną społecznie nędzę za sprawą
 
-* Postać z komiksu Blondie (przyp. Hum.).
-
-Przemysł. kulturalny 171
+Przemysł kulturalny 171
 
 dobrotliwych bezpośrednich interwencji odruchu przerabiają na
-uleczalne przypadki pojedyncze - o ile na przeszkodzie nie stanie
+uleczalne przypadki pojedyncze — o ile na przeszkodzie nie stanie
 osobista degrengolada nieszczęśnika. Specjalistyczne służby za-
 kładowe od kultywowania koleżeństwa, jakie funduje sobie dziś
 dla zwiększenia produkcji każda fabryka, podporządkowują społe-
-cznej kontroli ostatnie prywatne odruchy - właśnie przez to, że
+cznej kontroli ostatnie prywatne odruchy — właśnie przez to, że
 stosunkom w zakładzie produkcyjnym nadają pozory bezposred-
-niości, pozornie je reprywatyzują. Taka duchowa WWzzterbi/fe tzuca
+niości, pozornie je reprywatyzują. Taka duchowa *Winterhilfe* rzuca
 pojednawcze cienie na pasma widzialności i słyszalności przemysłu
 kulturalnego, na długo nim przemysł ten z ram fabryki przeskoczy
 totalitarnie na społeczeństwo. Wielcy pomocnicy i dobroczyńcy
@@ -1431,31 +1286,22 @@ umieją zapobiegać zarazie.
 
 Demonstrowanie złotych serduszek to sposób, w jaki społeczeń-
 stwo przyznaje się do powodowanych przez siebie cierpień:
-wszyscy wi ; -ze - w-tym systemie złote. serca nie mogą pomóc
-
-«---
-
+wszyscy wiedzą że w tym systemie złote serca nie mogą pomóc
 nawet samym sobie, i ideologia musi to uwzględniać. Przemyśl
-
-prez d Wc a p 2 k
-
-kulturalny nie zamierza tędy po prostu ukrywać cierpienia-pod.
-
-osłoną i koleżeństwa, jego firmową ambicją j jest
-
-po _ męsku patrzeć cierpieniu w twarz i znosić je z na siłę
-zachowywanym _ fasonem. Patos determinacji usprawiedliwia
+kulturalny nie zamierza tedy po prostu ukrywać cierpienia pod
+osłoną improwizowanego koleżeństwa, jego firmową ambicją jest
+po męsku patrzeć cierpieniu w twarz i znosić je z na siłę
+zachowywanym fasonem. Patos determinacji usprawiedliwia
 świat, który nie może obyć się bez determinacji. Takie jest życie,
 życie jest ciężkie, ale właśnie dlatego jest tak wspaniałe i zdrowe.
-Klamstwo nie cofa s się przed tragizmem. Społeczeństwo totalne nie
-likwiduje cierpień, ale rejestruje je i planuje -- i podobnie postępuje
+Klamstwo nie cofa się przed tragizmem. Społeczeństwo totalne nie
+likwiduje cierpień, ale rejestruje je i planuje — i podobnie postępuje
 kultura masowa z tragizmem. Stąd uporczywe zapożyczanie się
 u sztuki. Sztuka dostarcza tragicznej substancji, której rozrywka
 w czystej postaci sama z siebie nie może zapewnić, a której
 potrzebuje, by poniekąd wiernie wypełniać naczelną zasadę, na-
 kazującą dokładnie dublować świat zjawisk. Tragizm, przerobiony
 na wkalkulowany i zaaprobowany moment świata, jest dla niej
-
 błogosławieństwem. Chroni przed zarzutem rozmijania się z praw-
 
 172 Dialektyka oświecenia
@@ -1465,16 +1311,11 @@ zawłaszczana. Tragizm sprawia, że mdłe ocenzurowane szczęście
 nabiera interesującego smaczku, a ów interesujący smaczek wygo-
 dny jest w użyciu. Tragizm oferuje tym konsumentom, którzy
 znali lepsze czasy w kulturze, surogat dawno zlikwidowanej głębi,
-a stałym gościom odpady wykształcenia, niezbędne dla utrzymańia
+a stałym gościom odpady wykształcenia, niezbędne dla utrzymania
 prestiżu. Wszystkim udziela pociechy, że i dziś możliwe są mocne,
-
-Tt. wre
-
-«-
-
 autentyczne przeżycia i ich bezlitosne przedstawianie. Cudownie
-zwarte istnienie - którego podwajanie starcza dziś za ideologię
-- sprawia wrażenie tym potężniejsze, wspanialsze i bardziej
+zwarte istnienie — którego podwajanie starcza dziś za ideologię
+— sprawia wrażenie tym potężniejsze, wspanialsze i bardziej
 monumentalne, im gruntowniej zaprawione jest niezbędnym cier-
 pieniem. Przybiera wówczas aspekt losu. Tragizm sprowadzony
 zostaje do groźby, iż ten, kto nie współpracuje, będzie zniszczony,
@@ -1485,7 +1326,7 @@ estetyki. Moralność kultury masowej to zdegradowana moralność
 wczorajszych książeczek dla dzieci. W produkcji pierwszej klasy
 zło wciela się w postać histeryczki, która usiłuje ograbić ze
 szczęścia swoją trzymającą się rzeczywistości partnerkę i w końcu
-sama ponosi zgoła nieteatralną śmierć - wszystko przedstawione
+sama ponosi zgoła nieteatralną śmierć — wszystko przedstawione
 z nieledwie kliniczną dokładnością. Ale tyle naukowości zdarza się
 jedynie na samej górze. Na niższym poziomie koszty są niższe.
 Tragizmowi wybija się zęby bez socjopsychologii. Jak każda
@@ -1494,59 +1335,46 @@ tragiczny finał, co trzeciemu aktowi nie pozostawiało nic prócz
 sprostowania nieporozumień, tak przemysł kulturalny wyznacza
 tragizmowi stałe miejsce w rutynie. Już samo jawne istnienie
 recepty wystarcza, by uśmierzyć troskę, że tragizm jest nie do
-opanowania. Getting into trouble and out again - formula dramatu
-w wersji gospodyni domowej - obejmuje całą kulturę masową od
-najgłupszego women seria/ aż po szczytowe osiągnięcia. Nawet
+opanowania. *Getting into trouble and out again* — formula dramatu
+w wersji gospodyni domowej — obejmuje całą kulturę masową od
+najgłupszego *women serial* aż po szczytowe osiągnięcia. Nawet
 najfatalniejsze zakończenie, choćby przedtem sprawy rysowały się
-lepiej , potwierdza porządek i i korumpuje tragizm, gdy na przykład
+lepiej, potwierdza porządek i korumpuje tragizm, gdy na przykład
 nieprzepisowo zakochana kobieta okupia krótkie szczęście śmier-
-
- 
-
 cią, albo gdy smutny koniec na ekranie pozwala tym jaśniej
 
-Przemysł kultura!
-Tem} #y 173
+Przemysł kulturalny 173
 
 rozbłysnąć niezniszczalności faktycznego życia. Filmowe tragedie
 stają się istotnie zakładami poprawy moralnej. Widok nieubłagane-
-go życia i wzorowego zachowania filmowych ofiar ma przywoly-
+go życia i wzorowego zachowania filmowych ofiar ma przywoły-
 wać do porzadku masy, zdemoralizowane przez egzystencję w sys-
 temie przymusu, a ucywilizowane o tyle, że na siłę wpojono im
 pewne zachowania, przez które każdą szparą prześwieca wściek-
-
----...
-
-skramiania zarówno instynktów rewolucyjnych, jak i barbarzyris-
-
-Ann Q ,
-
- 
-
 łość i krnąbrny upór. Kultura zawsze przyczyniała sie do po-
-
+skramiania zarówno instynktów rewolucyjnych, jak i barbarzyńs-
 kich. Kultura uprzemysłowiona czyni jeszcze więcej. Wbija do
-glowy, pod jakim warunkiem można w ogóle utrzymać sig przy
+glowy, pod jakim warunkiem można w ogóle utrzymać się przy
 nieubłaganym życiu. Jednostka powinna całe swoje zniechęcenie
-1 obrzydzenie wykorzystać jako siłę napędową, wydającą ja w rece
-Kolektywnej władzy, która w niej owo zniechęcenie i obrzydzenie
-"Budzi. Rozpaczliwe sytuacje, które stale nękają widza w codzien-
+i obrzydzenie wykorzystać jako siłę napędową, wydającą ją w ręce
+kolektywnej władzy, która w niej owo zniechęcenie i obrzydzenie
+budzi. Rozpaczliwe sytuacje, które stale nękają widza w codzien-
 nym życiu, w odtworzeniu nie wiadomo jakim sposobem stają się
 obietnicą, że wolno żyć dalej. Wystarczy zdać sobie sprawę
 z własnej nicości, wystarczy podpisać kapitulację, a już tkwi się
 w społecznej sieci. Społeczeństwo jest społeczeństwem despera-
 tów, a przeto pastwą gangsterów. W kilku najznakomitszych
-powieściach niemieckich okresu przedfaszystowskiego, jak Ber/in
-Alexanderplatz i Co dalej, szary człowieku, tendencja ta ujawnia się
+powieściach niemieckich okresu przedfaszystowskiego, jak *Berlin
+Alexanderplatz* i *Co dalej, szary człowieku*, tendencja ta ujawnia się
 równie drastycznie jak w przeciętnym filmie i w metodzie jazzu.
 W gruncie rzeczy chodzi przy tym zawsze o drwinę mężczyzny
 z samego siebie. Nigdy nie stanie się ekonomicznym podmiotem,
 przedsiębiorcą, właścicielem; taka możliwość została całkowicie
 zlikwidowana. Samodzielne przedsiębiorstwo, którego prowadze-
-nie i dziedziczenie - choćby był to tylko sklepik - wyznaczało byt
+nie i dziedziczenie — choćby był to tylko sklepik — wyznaczało byt
 mieszczańskiej rodziny i pozycję ojca, popada bez ratunku w zależ-
 ność. Wszyscy stają się najemnymi pracownikami, a w cywilizacji
-najemników nie ma miejsca na - i tak wątpliwy - autorytet glowy
+najemników nie ma miejsca na — i tak wątpliwy — autorytet głowy
 rodziny. Zachowanie jednostki wobec gangu, z jakim styka się
 w interesach, w zawodzie czy w partii, niezależnie od tego, czy jest,
 czy dopiero ma zostać jego członkiem, gesty przywódcy wobec
@@ -1559,31 +1387,29 @@ swoje moralne kwalifikacje do istnienia w tym społeczeństwie,
 toteż zachowuje się tak jak owi młodzieńcy w trakcie ceremonii
 przyjmowania w poczet członków plemienia, którzy pod razami
 kapłana poruszają się w kółko ze stereotypowym uśmiechem.
-
 Egzystencja w późnym kapitalizmie jest nieustającym rytuałem
 inicjacji. Każdy musi dowieść, że bez reszty identyfikuje się
 z władzą, która go maltretuje. Zawiera się to w zasadzie synkopy
 jazzowej, gdzie potknięcia zarazem się wyszydza i podnosi do rangi
 normy. Eunuchowaty głos Croonera w radio, przystojny kocha-
-nek bogatej dziedziczki, który w smokingu wpada do basenu - oto
+nek bogatej dziedziczki, który w smokingu wpada do basenu — oto
 wzorce dla ludzi, którzy sami mają doprowadzić się do tego, do
-czego ich doprowadza - łamiąc - system. Każdy może być taki jak
+czego ich doprowadza — łamiąc — system. Każdy może być taki jak
 wszechpotężne społeczeństwo, każdy może być szczęśliwy, jeżeli
-tyli Iko podda się, położy plackiem, wyrzeknie roszczeń do szczęścia.
-
+tylko podda się, położy plackiem, wyrzeknie roszczeń do szczęścia.
 W jego słabości społeczeństwo rozpoznaje swoją siłę i coś niecoś
 mu z niej udziela. Brak oporu z jego strony kwalifikuje go jako
 partnera godnego zaufania. W ten sposób eliminuje się tragizm.
 Substancją tragizmu była kiedyś opozycja między jednostką a spo-
 łeczeństwem. Tragizm oddawał hołd „odwadze i wolności uczucia
 w stosunku do potężnego wroga, wzniosłego potwora, problemu
-wzbudzajacego groze" *. Dziś tragizm pochłonęła nicość owej
+wzbudzajacego grozę”^[F. Nietzsche: *Götzendämmerung. W: Werke*, wyd. cyt., t. 8, s. 136.]. Dziś tragizm pochłonęła nicość owej
 fałszywej tożsamości społeczeństwa i podmiotu, której groza
 uwidocznia się przelotnie najwyżej w lichym pozorze tragizmu.
 Cud integracji, permanentny akt łaski ze strony dysponentów,
 którzy gotowi są przyjąć jednostkę, jeśli ta wyrzekła się oporu, jest
 znakiem faszyzmu. Zapowiada się to już w humanitaryzmie,
-z jakim Dóblin pozwala ocaleć swemu Biberkopfowi, a podobnie
+z jakim Döblin pozwala ocaleć swemu Biberkopfowi, a podobnie
 w filmach o socjalnym zabarwieniu. Zdolność do przemknięcia się
 i wymknięcia, do przetrwania własnej klęski, owa zdolność
 przeskoczenia tragizmu, jest cechą nowej generacji; przedstawicie-
@@ -1592,11 +1418,10 @@ za jakąkolwiek pracę odpowiadali. Przypomina to smutną giętkość
 powracającego z frontu żołnierza, którego wojna nic nie ob-
 chodziła, robotnika imającego się przygodnych zajęć, który w kon-
 cu wstępuje do związków i paramilitarnych organizacji. Likwida-
-cja tragizmu potwierdza zagładę indywiduum. NOC og
-
-3 F. Nietzsche: Götzendämmerung. W: Werke, wyd. cyt., t. 8, s. 136.
+cja tragizmu potwierdza zagładę indywiduum.
 
 Przemysł kulturalny 175
+
 
 W przemyśle kulturalnym indywiduum jest złudzeniem nie
 tylko wskutek standaryzacji sposobów produkcji. Tolerowane jest
@@ -1608,11 +1433,11 @@ pseudo-indywidualność. Indywidualny charakter sprowadza się do
 tego, że to, co przypadkowe, zostaje dostatecznie nacechowane
 ogólnością, by można je było zachować. Właśnie krnąbrna skry-
 tość albo wyszukana aparycja prezentowanego indywiduum pro-
-dukowane są seryjnie jak zamki ya/e, różniące się od siebie
+dukowane są seryjnie jak zamki *yale*, różniące się od siebie
 ułamkami milimetrów. Szczególność jaźni jest społecznie uwarun-
 kowanym towarem monopolowym, udającym naturalność. Redu-
-kuje sie do wasika, francuskiego akcentu, głębokiego tonu głosu
-światowej damy, Lubifsch touch: do odcisków linii papilarnych na
+kuje sie do wąsika, francuskiego akcentu, głębokiego tonu głosu
+światowej damy, *Lubitsch touch*: do odcisków linii papilarnych na
 skądinąd identycznych legitymacjach, jakimi pod presją władzy
 ogólności stają się życiorysy i twarze wszystkich jednostek, od
 gwiazdy filmowej po aresztantów. Pseudo-indywidualność jest
@@ -1637,7 +1462,7 @@ skie rozwijało też indywiduum. Wbrew woli swych sterników
 
 176 Dialektyka oświecenia
 
-technika doprowadziła do tego, że ludzie z dzieci stali się osobami,
+technika doprowadziła do tego, że ludzie z dzieci stali się osobami.
 Każdy taki postęp indywiduacji odbywał się jednak kosztem
 indywidualności, w której imieniu go dokonywano, i z indywidu-
 um nie pozostało w rezultacie nic prócz decyzji, by w każdych
@@ -1648,7 +1473,7 @@ małżeńską i gorzką pociechę zupełnej samotności, mieszczanin
 skłócony ze sobą i ze wszystkimi wirtualnie jest już nazistą,
 porwanym entuzjazmem i zarazem narzekającym, albo dzisiejszym
 mieszkańcem wielkiego miasta, który umie sobie wyobrazić przy-
-jaźń już tylko jako socza/ contac?, jako społeczne zetknięcie wewnęt-
+jaźń już tylko jako *social contract*, jako społeczne zetknięcie wewnęt-
 rznie nietkniętych jednostek. Przemysł kulturalny potrafi tak
 skutecznie obchodzić się z indywidualnością tylko dlatego, że
 w indywidualności od początku reprodukowała się kruchość
@@ -1656,7 +1481,7 @@ społeczeństwa. Twarze bohaterów filmowych i osób prywatnych,
 przyrządzone wedle schematów z okładek pism, rozwiewają
 pozory, w które i tak już nikt nie wierzy, a miłość do owych
 modelowych bohaterów karmi się tajemnym zadowoleniem, że
-nareszcie nie trzeba się już wysilać na indywidualność - choć za to
+nareszcie nie trzeba się już wysilać na indywidualność — choć za to
 tym bardziej na imitację. Próżna jest nadzieja, że wewnętrznie
 sprzeczna, rozpadająca się osobowość nie może przetrwać poko-
 leń, że system musi się załamać na skutek takiego psychologicz-
@@ -1665,30 +1490,25 @@ indywidualności będzie dla ludzi samo z siebie nie do zniesienia.
 Jedność osobowości zdemaskowana jest jako pozór już od czasów
 Szekspirowskiego Hamleta. Dzisiaj syntetycznie produkowane
 fizjonomie nie pamiętają już, że kiedyś było w ogóle coś takiego jak
-pojęcie ludzkiego życia. Społeczeństwo od stuleci przygotowywa:-
-ło sie na Victora Mature'a* i Mickeya Rooneya. Dokonując
+pojęcie ludzkiego życia. Społeczeństwo od stuleci przygotowywa-
+ło sie na Victora Mature'a^[Popularny aktor (*przyp. tłum.*)] i Mickeya Rooneya. Dokonując
 rozbicia, postaci te przybywają, aby dać spełnienie.
 
 Heroizacja przeciętności jest elementem kultu tandety. Najlepiej
 opłacane gwiazdy przypominają reklamy anonimowych artyku-
 łów. Nie darmo rekrutują się często z gromady komercyjnych
 
-* Popularny aktor (przyp. Hum.)
-
 Przemysł kulturalny 177
 
 modelek. Panujący smak czerpie swe ideały z reklamy, z piękna
 użytkowego. Tak więc ostatecznie powiedzenie Sokratesa, że
 piękne jest to, co jest użyteczne, doczekało się ironicznego
-_spełnienia. Kino reklamuje koncern kultury jako totalność, w ra-
-
-._.
-
-diu_towary, ze € względu na które istnieją dobra kulturalne, są też
-zachwalanie « oddzielnie. Za pięćdziesiąt miedziaków ogląda się film,
+spełnienia. Kino reklamuje koncern kultury jako totalność, w ra-
+diu towary, ze względu na które istnieją dobra kulturalne, są też
+zachwalane oddzielnie. Za pięćdziesiąt miedziaków ogląda się film,
 który kosztował miliony, za dziesięć kupuje się gumę do żucia, za
 którą stoi majątek i umacnia się dzięki sprzedaży każdego kawałka.
-In absentia, choć za powszechną aprobatą identyfikuje się wybrankę
+*In absentia*, choć za powszechną aprobatą identyfikuje się wybrankę
 legionów, nie tolerując przy tym prostytucji na tyłach. Najlepsze
 orkiestry świata, które nie są najlepszymi orkiestrami świata,
 dostarczane są gratis do domu. Wszystko to przypomina szyderczo
@@ -1696,25 +1516,25 @@ krainę pieczonych gołąbków, tak jak wspólnota narodowa przypo-
 mina wspólnotę ludzką. Dla każdego coś miłego. Przemysł
 kulturalny dawno już podchwycił konstatację prowincjusza, który
 wybrał się do starego berlińskiego Metropoltheater: niesłychane,
-czego to ludzie nie potrafią zrobić za pieniądze, co więcej - ta
+czego to ludzie nie potrafią zrobić za pieniądze, co więcej — ta
 konstatacja stała się substancją produkcji. Produkcja ta nie tylko
 triumfalnie chełpi się, że jest możliwa, ale wręcz jest samym tym
-tyle że nieuleczalnie chorym na kulturę. Na jarmarku
-Rrdzić zwabieni głosem zachwalacza pokonywali rozczarowanie
+triumfem. *Show* to pokazywanie, co się ma i może. Do dziś jest
+jarmarkiem tyle że nieuleczalnie chorym na kulturę. Na jarmarku
+ludzie zwabieni głosem zachwalacza pokonywali rozczarowanie
 dzielnym uśmiechem, w końcu wiedzieli od początku, co ich czeka
--i podobnie widz wyrozumiale odnosi się do instytucji kina. Wraz
-z tandetą seryjnych produktów de /uxe i ich uzupełnieniem,
+— i podobnie widz wyrozumiale odnosi się do instytucji kina. Wraz
+z tandetą seryjnych produktów *de luxe* i ich uzupełnieniem,
 uniwersalnym oszustwem, toruje sobie drogę przemiana towaro-
 wego charakteru samej sztuki. Nowością jest nie to, że sztuka jest
 towarem, ale że sumiennie się do tego przyznaje, że odrzeka się
-Swej że z dumą staje w szeregu dóbr konsumpcyjnych
-- dopiero to ma posmak nowości. Sztuka jako wydzielona
+swej autonomii, że z dumą staje w szeregu dóbr konsumpcyjnych
+— dopiero to ma posmak nowości. Sztuka jako wydzielona
 dziedzina możliwa była tylko jako sztuka mieszczańska. Nawet jej
 wolność jako negacja społecznej celowości sprzężona jest z założe-
 niami gospodarki towarowej: stanowi atut na rynku. Czyste dzieła
 sztuki, które samą swą autonomią negują towarowy charakter
 społeczeństwa, były zawsze zarazem towarami: aż do osiemnastego
-
 wieku, póki opieka zleceniodawcy chroniła artystów przed ryn-
 
 178 Dialektyka oświecenia
@@ -1722,20 +1542,20 @@ wieku, póki opieka zleceniodawcy chroniła artystów przed ryn-
 kiem, były natomiast podporządkowane zleceniodawcy i jego
 celom. Bezcelowość wielkich dzieł sztuki nowszych czasów wyni-
 ka z anomimowości rynku. Wymogi rynku są tak wielorako
-zapośredniczone, że artysta zwolniony jest - oczywiście tylko do
-pewnego stopnia - od określonych obciążeń, ponieważ jego
+zapośredniczone, że artysta zwolniony jest — oczywiście tylko do
+pewnego stopnia — od określonych obciążeń, ponieważ jego
 autonomii, tylko tolerowanej, towarzyszył na przestrzeni całej
 mieszczańskiej historii moment nieprawdy, który w końcu przero-
 dził się w społeczną likwidację sztuki. Śmiertelnie chory Beetho-
 ven, który odrzuca powieść Waltera Scotta z okrzykiem: „Facet
-pisze dla pieniędzy!", a zarazem przy spieniężaniu ostatnich
+pisze dla pieniędzy!”, a zarazem przy spieniężaniu ostatnich
 kwartetów, skrajnie nie liczących się z rynkiem, sam okazuje się
 doświadczonym i upartym biznesmenem, stanowi najwspanialszy
 przykład jedności przeciwieństw rynku i autonomii w sztuce
 mieszczańskiej. Ofiarą ideologii padają właśnie ci, którzy za-
 krywają tę sprzeczność, miast świadomie podjąć ją we własnej
 produkcji, jak Beethoven, który improwizacją wyrażał wsciekłość
-z powodu utraconych groszy, a metafizyczne „Tak Musi Być",
+z powodu utraconych groszy, a metafizyczne „Tak Musi Być”,
 które stara się estetycznie znieść presję świata w ten sposób, że
 bierze ją na siebie, zaczerpnął od gospodyni domagającej się
 pieniędzy. Zasada idealistycznej estetyki, celowość bez celu, jest
@@ -1747,26 +1567,19 @@ totalne, zapowiada to już przesunięcie w wewnętrznej strukturze
 ekonomicznej towarów kulturalnych. Mianowicie pożytek, jaki
 ludzie w antagonistycznym społeczeństwie obiecują sobie po dziele
 sztuki, to w znacznej mierze samo istnienie czegoś bezużytecznego,
-które wszak wskutek pełnego podporządkowania zasadzie użyte
-czności ulega likwidacji. Gdy dzieło sztuki całkowicie dostosow
-
-= sani one cipo oo porem swymi p ane aw m weh : hie ooo
-
-się do zapotrzebowania, z góry dokonuje oszustwa wobec Nm
-
-ae rpm a mee 1
-
+które wszak wskutek pełnego podporządkowania zasadzie użyte-
+czności ulega likwidacji. Gdy dzieło sztuki całkowicie dostosowuje
+się do zapotrzebowania, z góry dokonuje oszustwa wobec ludzi
 którym miało ofiarować wyzwolenie od zasady użyteczności. To,
 co można by nazwać wartością użytkową w recepcji dóbr kultural-
 nych, zostaje zastąpione przez wartość wymienną, miejsce użycia
-i radości zajmuje asystowanie przy czymś i bycie poinformowa:-
-
+i radości zajmuje asystowanie przy czymś i bycie poinformowa-
 nym, przyrost prestiżu wypiera znawstwo. Konsument staje się
 
 Przemysł kulturalny 179
 
 ideologią przemysłu rozrywkowego, którego instytuacjom nie jest
-w stanie się wymknąć. T'rzeba oglądać Mrs. Miniver, tak jak trzeba
+w stanie się wymknąć. Trzeba oglądać Mrs. Miniver, tak jak trzeba
 abonować „Life" i „Time". Wszystko postrzega się tylko w aspek-
 cie przydatności do czegoś innego, jakkolwiek mgliście by się to
 coś innego rysowało. Wszystko ma wartość tylko o tyle, o ile może
@@ -1775,20 +1588,16 @@ użytkowa sztuki, jej byt, uchodzi za fetysz, a fetysz, jej społeczna
 ocena, traktowana fałszywie jako ranga dzieł sztuki, staje się jedyną
 wartością użytkową sztuki, jedyną jakością, jakiej się zażywa.
 W ten sposób towarowy charakter sztuki rozpada się właśnie
-wtedy, gdy się w pełni-realizuje. Sztuka staje się rodzajem towaru,
+wtedy, gdy się w pełni realizuje. Sztuka staje się rodzajem towaru,
 znormalizowanym, zawłaszczonym, dostosowanym do produkcji
 przemysłowej, sprzedajnym i funkcjonalnym, ale towar-sztuka,
 ktory polegal na tym, ze dawał się sprzedawać, będąc zarazem
-
-~e
-
-miesprzedajnym, staje się pozornie niesprzedajny z chwilą, gdy
-
+niesprzedajnym, staje się pozornie niesprzedajny z chwilą, gdy
 interes jest już nie tylko jego intencją, ale jego jedyną zasadą.
 Toscanini przez radio jest poniekad niesprzedajny. Słucha się go
 gratis, a zarazem do każdego dźwięku symfonii dodana jest
 wzniosła reklama, że oto symfonia nie jest przerywana reklamami
-- this concert is brought to you as a public service. Numer taki jest
+— *this concert is brought to you as a public service*. Numer taki jest
 możliwy pośrednio dzięki zyskom wszystkich zjednoczonych
 fabrykantów samochodów i mydła, z których opłat utrzymują się
 stacje, i naturalnie także dzięki zwiększonym obrotom przemysłu
@@ -1803,9 +1612,7 @@ pojedyncze koncerny. Chesterfield to tylko narodowy papieros, ale
 radio to narodowa tuba. Totalnie wciągając produkty kulturalne
 w sferę towarową radio rezygnuje z tego, by swoje produkty
 kulturalne podsuwać ludziom jako towary. Radio w Ameryce nie
-
 ściąga od publiczności żadnych opłat. Dzieki temu zyskuje złudną
-
 formę bezinteresownego, ponadpartyjnego autorytetu, jak stwo-
 
 180 Dialektyka oświecenia
@@ -1818,33 +1625,33 @@ narodowi socjaliści wiedzieli, że radio nadaje kształt ich sprawie,
 tak jak prasa drukarska nadała kształt reformacji. Wymyślona
 przez socjologów religii metafizyczna charyzma Wodza okazała się
 ostatecznie tylko wszechobecnością jego przemówień radiowych,
-demonicznie parodiującą wszechobecność boskiego ducha. Monu:-
+demonicznie parodiującą wszechobecność boskiego ducha. Monu-
 mentalny fakt, że przemówienie wszędzie dociera, zastępuje jego
 treść, podobnie jak dobrodziejstwo transmisji Toscaniniego wy-
 piera jej treść, symfonię. Prawdziwego sensu symfonii nie zdoła już
-pojąć żaden słuchacz, zaś przemówienie Wodza i tak jest klam-
+pojąć żaden słuchacz, zaś przemówienie Wodza i tak jest kłam-
 stwem. Ustanowienie ludzkiego słowa jako absolutu, fałszywe
 przykazanie, to immanetna tendencja radia. Rekomendacja staje się
 komendą. Zachwalanie identycznych towarów pod różnymi na-
 zwami firmowymi, naukowo ugruntowana pochwała środka prze-
 czyszczającego, wygłaszana tłustym głosem spikera pomiędzy
-uwerturą Traviaty i Riengi, jest nie do wytrzymania już z racji swej
+uwerturą *Traviaty* i *Rienzi*, jest nie do wytrzymania już z racji swej
 niezręczności. Przesłonięty pozorami możliwości wyboru dyktat
-produkcji - poszczególne reklamy - może oto nareszcie przejść
+produkcji — poszczególne reklamy — może oto nareszcie przejść
 w jawne komendy Wodza. W społeczeństwie faszystowskich
 gangsterów, którzy porozumieli się w kwestii, co ze społecznego
 produktu przydzielić trzeba narodom dla zaspokojenia niezbęd-
-nych potrzeb, anachronizmem wydawałoby się zachęcać do używa:
+nych potrzeb, anachronizmem wydawałoby się zachęcać do używa-
 nia określonego mydła w proszku. Wódz zarządza nowocześniej,
-bez ceremonii, zarówno losem ofiar, jak zropatrzenier ludności
-w.tandete. p
+bez ceremonii, zarówno losem ofiar, jak zaopatrzeniem ludności
+w tandetę.
 
 Juz dzisiaj przemysł kulturalny podsuwa opornej publiczności
 dzieła sztuki, podobnie jak hasła polityczne, odpowiednio przy-
 rządzone, po zaniżonych cenach, ich konsumowanie zostaje ma-
 som udostępnione jak parki publiczne. Dzieła sztuki zatraciły
 autentyczny charakter towarów, ale nie znaczy to, że w życiu
-wolnego społeczeństwa zostały zniesione, lecz - że runęła ostatnia
+wolnego społeczeństwa zostały zniesione, lecz — że runęła ostatnia
 zapora chroniąca je przed stoczeniem się do poziomu dóbr
 kulturalnych. Zniesienie przywileju wykształcenia i zastąpienie go
 
@@ -1859,7 +1666,7 @@ lub wysłuchać koncertu, okazywał imprezie co najmniej tyle samo
 szacunku, co wydanym pieniądzom. Mieszczanin, który chciał coś
 z tego mieć, starał się niekiedy jakoś ustosunkować do dzieła.
 Świadczy o tym tak zwana literatura wprowadzająca do Wag-
-nerowskich dramatów muzycznych i. komentarze do Fausta.
+nerowskich dramatów muzycznych i komentarze do *Fausta*.
 Dopiero w ten sposób dzieła sztuki nadają biografii poloru i mają
 praktyczne skutki, których się dziś od nich wymaga. Nawet
 w czasach wczesnego rozkwitu biznesu wartość użytkowa nie była
@@ -1873,29 +1680,17 @@ działanie, dopełnia procesu wyobcowania i upodobnia wzajem do
 siebie obie strony pod znakiem triumfującej przedmiotowości.
 Przemysł kulturalny powoduje zanik tak krytyki, jak respektu:
 schedę po krytyce przejmuje mechaniczna ekspertyza, schedę po
-respekcie - obdarzony krótką pamięcią kult znakomitości. Dla
-
-S
-konsumentów nic nie jest już drogie. Wyczuwają.oni jednak, że im
-
-mel, - rimeg yr
-Renee n he
-
-mniej cała rzecz : kosztuje, tym mniej zostają obdarowani. Podwój-
-fa nieufność wobec kultury tradycyjnej jako ideologii miesza się
+respekcie — obdarzony krótką pamięcią kult znakomitości. Dla
+konsumentów nic nie jest już drogie. Wyczuwają oni jednak, że im
+mniej cała rzecz kosztuje, tym mniej zostają obdarowani. Podwój-
+na nieufność wobec kultury tradycyjnej jako ideologii miesza się
 z nieufnością wobec kultury uprzemysłowionej jako oszustwa.
 Zredukowane do rangi dodatku, zdeprawowane dzieła sztuki są
 przez uszczęśliwianych nimi konsumentów potajemnie odrzucane
 razem z tandetą, z jaką zrównuje je medium. Konsumenci mogą
 cieszyć się, że jest tyle do oglądania i słuchania. Właściwie
-wszystko można mieć. Szreenos* i wodewile w kinie, konkursy dla
+wszystko można mieć. *Screenos*^[Konkursy dla widzów, organizowane w przerwach między spektaklami (*przyp. tłum.*)] i wodewile w kinie, konkursy dla
 specjalistów od zapamiętywania kawałków muzycznych, darmowe
-
--
-
-* Konkursy dla widzów, organizowane w przerwach między spektak-
-
-lami (przyp. tłum )
 
 182 Dialektyka oświecenia
 
@@ -1904,22 +1699,22 @@ słuchaczom określonych programów radiowych, to nie tylko
 akcydensy, lecz kontynuacja tego, co dzieje się z samymi produk-
 tami kulturalnymi. Symfonia staje się nagrodą za słuchanie radia,
 a gdyby technika miała swoją własną wolę, film dostarczany byłby
-do mieszkań na wzór radia. Film zmierza w kierunku commercial
-system. Telewizja wskazuje drogę ewolucji, która łatwo mogłaby
+do mieszkań na wzór radia. Film zmierza w kierunku *commercial
+system*. Telewizja wskazuje drogę ewolucji, która łatwo mogłaby
 zepchnąć Warner Brothers na niewątpliwie niemiłe im pozycje
 uprawianej kameralnie muzyki i konserwatyzmu w kulturze.
 System nagród tymczasem pozostawił trwałe ślady w zachowaniu
 konsumentów. Z chwilą, gdy kultura przedstawia się jako doda-
-tek, którego prywatna i społeczna u użyteczność co prawda nie ulega
+tek, którego prywatna i społeczna użyteczność co prawda nie ulega
 wątpliwości, jej recepcja sprowadza się do wychwytywania szans.
-Konsumenci cisną się ze strachu, żeby czegoś nie przegapić "Czego
-- nie wiadomo, ale szansę ma tylko ten, kto sam się nie wyklucza.
+Konsumenci cisną się ze strachu, żeby czegoś nie przegapić. Czego
+— nie wiadomo, ale szansę ma tylko ten, kto sam się nie wyklucza.
 Faszyzm zaś spodziewa się, że wytrenowanych przez przemysł
 kulturalny odbiorców premii przerobi na swoją regularną świtę
 przymusową.
 
 Kultura to paradoksalny towar. Podporządkowana jest do tego
-stopnia prawu wymiany, że sama już wymianie nie podlega; tak Bez
+stopnia prawu wymiany, że sama już wymianie nie podlega; tak bez
 reszty sprowadza się do użyteczności, że nie można jej już używać.
 Jakoż zlewa sie z reklamą. Im bardziej bezsensowna wydaje się
 reklama w sytuacji, gdy i tak rządzi monopol, tym bardziej staje się
@@ -1929,7 +1724,7 @@ zbyt wiele przesytu i apatii wytwarza on wśród konsumentów.
 Sam przez się niewiele może na to poradzić. Reklama jest jego
 eliksirem życia. Ponieważ jednak produkt kulturalny nieustannie
 redukuje przyjemność, jaką obiecuje jako towar, do gołej obiet-
-nicy, w końcu zbiega się z reklamą, której potrzebuje z racji szej .
+nicy, w końcu zbiega się z reklamą, której potrzebuje z racji swej
 własnej jałowości. W społeczeństwie konkurencji społeczna funk-
 cja reklamy polegała na tym, by zorientować nabywcę w ofercie
 rynku, ułatwiać wybór, a co prężniejszym nieznanym dostawcom
@@ -1938,53 +1733,48 @@ towała, ale także oszczędzała pracy. Dziś, gdy epoka wolnego
 
 Przemysł kulturalny 183
 
-rynku dobiega końca, w reklamie oszańcowuje Się panowanie
-systemu. Reklama umacnia więż, łączącą konsumentów z wielkimi
-„koncernami. Tylko ten, kto może na bieżąco płacić kolosalne
+rynku dobiega końca, w reklamie oszańcowuje się panowanie
+systemu. Reklama umacnia więź, łączącą konsumentów z wielkimi
+koncernami. Tylko ten, kto może na bieżąco płacić kolosalne
 sumy, jakie pobierają agencje reklamowe, a przede wszystkim
 samo radio, a więc ten, kto i tak już należy albo uchwałą kapitału
 bankowego i przemysłowego zostaje dokooptowany, może w ogó-
 le wystąpić na pseudo-rynku jako sprzedawca. Koszty reklamy,
 które w końcu i tak spływają na powrót do kieszeni koncernów,
-"oszczędzają kłopotliwego wyniszczania niepożądanych outside-
-fów; są gwarancją, że klika miarodajnych pozostanie w swoim
-Towarzystwie; podobnie uchwały rady gospodarczej w totalitar-
+oszczędzają kłopotliwego wyniszczania niepożądanych outside-
+rów; są gwarancją, że klika miarodajnych pozostanie w swoim
+towarzystwie; podobnie uchwały rady gospodarczej w totalitar-
 nym państwie kontrolują otwieranie i dalszą działalność zakładów
-"przemysłowych. Reklama jest dziś zasadą negatywną, szlabanem:
+przemysłowych. Reklama jest dziś zasadą negatywną, szlabanem:
 wszystko, co nie nosi jej pieczątki, jest gospodarczo podejrzane.
 Wszechogarniająca reklama nie jest bynajmniej konieczna, by
 ludzie poznali artykuły, do których i tak ogranicza się oferta.
 Reklama służy zbytowi tylko pośrednio. Zlikwidowanie bieżącej
-~prakty ki reklamowej przez poszczególną firmę oznacza utratę
+praktyki reklamowej przez poszczególną firmę oznacza utratę
 prestiżu, w istocie jest wykroczeniem przeciwko dyscyplinie, jaką
 miarodajna klika narzuca swoim członkom. W czasie wojny nadal
 reklamuje się towary, których już nie ma na rynku, wyłącznie dla
 zademonstrowania potęgi przemysłu. Bardziej niż powtarzanie
-mazw liczy się wówczas subwencjonowanie ideologicznych me-
+nazw liczy się wówczas subwencjonowanie ideologicznych me-
 diów. Gdy pod presją systemu każdy produkt posługuje się
-techniką reklamy, wkracza ona do idiomu, do „stylu" przemysłu
+techniką reklamy, wkracza ona do idiomu, do „stylu” przemysłu
 kulturalnego. Jej zwycięstwo jest tak zupełne, że w kluczowych
 miejscach nie musi już być ostentacyjne: monumentalne budowle
 największych potentatów, skamieniałe reklamy w świetle reflek-
 torów, są wolne od reklam, ewentualnie u szczytu prezentują
 spokojnie lśniące, wyższe nad samochwalstwo inicjały firmy.
 Natomiast te z dziewiętnastowiecznych budynków, którym udało
-
- 
-
 się przeżyć, a których architektura wstydliwie ujawnia swój
-konsumpcyjny charakter, cele mieszkalne - te budynki obwieszone
+konsumpcyjny charakter, cele mieszkalne — te budynki obwieszone
 są od parteru po dach plakatami i transparentami; krajobraz staje
 się już tylko tłem dla wywieszek i znaków. Reklama staje się po
-prostu sztuką, z jaką utożsamiał j ją świadomy y rzeczy: Goebbeles,
-
-Size.
+prostu sztuką, z jaką utożsamiał ją świadomy rzeczy Goebbeles,
 
 184 Dialektyka oświecenia
 
-staje się /ar/ pour lart, reklamą samą dla siebie, czystym przed-
+staje się *l’art pour l’art*, reklamą samą dla siebie, czystym przed-
 stawieniem potęgi społeczeństwa. W miarodajnych amerykańskich
-magazynach „Life" i „Fortune" pobieżne spojrzenie zaledwie
+magazynach „Life” i „Fortune” pobieżne spojrzenie zaledwie
 zdoła odróżnić obrazek i tekst reklamowy od części redakcyjnych.
 Od redakcji pochodzi entuzjastyczny i bezpłatny fotoreportaż
 o życiu prominenta i stosowanych przezeń zabiegach kosmetycz-
@@ -1999,13 +1789,13 @@ przemysłu kulturalnego charakterystyczna jest technika montażu,
 syntetyczne, sterowane wytwarzanie produktów, metoda fabrycz-
 na nie tylko w studiu filmowym, ale wirtualnie także przy
 kompilowaniu tandetnych biografii, powieści reportażowych
-i szlagierów - wszystko to z góry nadaje się do reklamy: z chwilą,
+i szlagierów — wszystko to z góry nadaje się do reklamy: z chwilą,
 gdy pojedynczy moment jest wymienny, funkcjonalny, również
 technicznie wyobcowany w stosunku do wszelkich kontekstów
 sensu, może służyć także celom zewnętrznym wobec dzieła. Efekt,
 trick, wyizolowany i powtarzalny szczegół zawsze służyły re-
 klamowaniu towarów, a dziś każde powiększone zdjęcie aktorki
-filmowej stało się reklamą jej nazwiska, każdy szlagier to juz p/ag *
+filmowej stało się reklamą jej nazwiska, każdy szlagier to juz *plug*^[Krótka pochwalna wypowiedź o książce, płycie itp. podawana przez radio dla celów reklamowych (*przyp. tłum.*)]
 własnej melodii. Reklama i przemysł filmowy zlewają się zarówno
 pod względem technicznym, jak ekonomicznym. W obu dziedzi-
 nach to samo pojawia się w niezliczonych miejscach, a mechanicz-
@@ -2016,25 +1806,20 @@ oddziaływania na ludzi. W obu dziedzinach liczą się te same
 normy: produkt ma uderzać, zaskakiwać, a zarazem sprawiać
 wrażenie swojskości, ma być lekki, ale zapadać w pamięć, ma być
 
-* Krótka pochwalna wypowiedź o książce, płycie itp. podawana przez
-radio dla celów reklamowych (przyp. Hum.)
-
- 
-
 Przemysł kulturalny 185
 
 wyrafinowany, ale prosty; chodzi o to, by zawładnąć klientem,
+uważanym za roztargnionego albo opornego.
 
-"uważanym za roztargnionego albo opornego.
-~ Sam język przyczynia się już do nadania kulturze charakteru
-„reklamy. Gdy mianowicie język roztapia się w informacji, gdy
-Słowa przestają być substancjalnymi nośnikami znaczeń, a stają się
+Sam język przyczynia się już do nadania kulturze charakteru
+reklamy. Gdy mianowicie język roztapia się w informacji, gdy
+słowa przestają być substancjalnymi nośnikami znaczeń, a stają się
 bezjakościowymi znakami, gdy coraz czyściej i przezroczyściej
-komunikują zamierzone treści, tym bardziej stają sig nieprzejrzys-
+komunikują zamierzone treści, tym bardziej stają się nieprzejrzys-
 te. Demitologizacja języka, jako element całego procesu oświece-
 nia, obraca się z powrotem w magię. Kiedyś słowo i treść łączyły
 się ze sobą jako wielkości odrębne i niewymienne. Pojęcia takie jak
-"melancholia, dzieje, a nawet życie, rozpoznawane były w słowach,
+melancholia, dzieje, a nawet życie, rozpoznawane były w słowach,
 które je wyodrębniały i przechowywały. Postać słowna kon-
 stytuowała je i zarazem odzwierciedlała. Stanowczy rozdział, który
 brzmienie słowne uznaje za przypadkowe, a przyporządkowanie
@@ -2045,34 +1830,34 @@ niejasny i skazuje na wygnanie w domenę słownej metafizyki. Tym
 samym jednak słowo, które ma już tylko oznaczać, a nie znaczyć,
 jest tak uwiązane do rzeczy, że kamienieje w formułkę. Dotyczy to
 w równej mierze języka i przedmiotu. W słowie nie dane jest już
-doświadczenie przedmiotu, oczyszczone słowo eksponuje przed- -
+doświadczenie przedmiotu, oczyszczone słowo eksponuje przed-
 miot jako przypadek abstrakcyjnego momentu, a wszystko inne,
 w imię bezwzględnej jasności odcięte od ekspresji, której odtąd już
 nie ma, zanika także w rzeczywistości. Lewy Skrzydłowy w piłce
-nożnej, Czarna Koszula, Hitlerjunge e/. to już tylko nazwy i nic
+nożnej, Czarna Koszula, Hitlerjunge *etc*. to już tylko nazwy i nic
 więcej. Jeżeli przed racjonalizacją słowo wraz z tęsknotą pobudza-
 ło też kłamstwa, to słowo zracjonalizowane stało się gorsetem
 krępującym raczej tęsknotę niż kłamstwo. Ślepota i niemota
-. danych, do jakich pozytywizm redukuje świat, przechodzą na sam
+danych, do jakich pozytywizm redukuje świat, przechodzą na sam
 język, który ogranicza się do rejestrowania danych. Same oznacze-
 nia stają się nieprzejrzyste, zyskują siłę rażenia, moc przyciągania
 i odrzucania, która upodobnia je do tego, co jest ich skrajnym
 przeciwieństwem: do czarnoksięskiej formuły. Znowu działają
-jako pewnego rodzaju praktyki magiczne - na przykład gdy
+jako pewnego rodzaju praktyki magiczne — na przykład gdy
 w studio według statystycznych doświadczeń wymyśla się nazwis-
 
 186 Dialektyka oświecenią
 
 ko divy, gdy ustroje opiekuńcze opatruje się odstraszającymi
-określeniami tabu, w rodzaju „biurokraci"' albo „intelektualiści"
+określeniami tabu, w rodzaju „biurokraci” albo „intelektualiści”
 gdy podłość chroni się pod swojskim mianem. Zresztą nazwa,
 z którą głównie wiążą się magiczne praktyki, podlega dziś swoistej
 chemicznej przemianie. Przeistacza się w arbitralne i funkcjonalne
 określenia, których działanie jest wprawdzie obliczalne, ale właśnie
 dlatego samowładne dokładnie tak samo jak działanie archaicznych
 nazw. Imiona, pozostałości czasów archaicznych, zostały zaktuali-
-zowane, gdyż albo stylizuje się je na marki reklamowe - w przypa-
-dku gwiazd filmowych również nazwiska są imionami - albo
+zowane, gdyż albo stylizuje się je na marki reklamowe — w przypa-
+dku gwiazd filmowych również nazwiska są imionami — albo
 kolektywnie standaryzuje. Mieszczańskie nazwisko, nazwisko ro-
 dowe, które nie było znakiem towaru, ale indywidualizowało
 nosiciela przez odniesienie do jego prehistorii, brzmi dziś staro-
@@ -2084,20 +1869,20 @@ między ludźmi do braterstwa publiczności sportowej, które chroni
 przed prawdziwym braterstwem. Sygnifikacja, jedyne, na co
 semantyka pozwala słowu, spełnia się w sygnalizowaniu. Słowa
 stają się tym bardziej sygnałami, im szybciej modele językowe są
-odgórnie puszczane w obieg. Ludowe pieśni nazwano - słusznie
-lub niesłusznie - upadłym tworem kultury warstw wyższych, ale
+odgórnie puszczane w obieg. Ludowe pieśni nazwano — słusznie
+lub niesłusznie — upadłym tworem kultury warstw wyższych, ale
 w każdym razie pieśni te przyjmowały swą popularną postać
-w toku długiego i wielorako zapośredniczonego procesu doświad:-
-czeń. Natomiast rozpowszechnianie songs dokonuje się
-błyskawicznie. Amerykańskie wyrażenie fad na określenie epidemi-
+w toku długiego i wielorako zapośredniczonego procesu doświad-
+czeń. Natomiast rozpowszechnianie *popular songs* dokonuje się
+błyskawicznie. Amerykańskie wyrażenie *fad* na określenie epidemi-
 cznie występujących mód, wzniecanych zresztą przez skoncen-
 trowane potęgi gospodarcze, wyodrębniło ten fenomen na długo
 nim wytyczanie aktualnych linii generalnych w kulturze dostało się
 w ręce totalitarnych szefów reklamy. Gdy niemieccy faszyści
-lansują przez megaforny wyrażenie untragbar (nie do zniesienia),
+lansują przez megaforny wyrażenie *untragbar* (nie do zniesienia),
 następnego dnia mówi tak cały naród. Wedle tego samego
-schematu narody, przeciwko którym kierował się niemiecki B/itz-
-krieg, przyjęły to słowo do swego żargonu. Powszechne po-
+schematu narody, przeciwko którym kierował się niemiecki *Blitz-
+krieg*, przyjęły to słowo do swego żargonu. Powszechne po-
 wtarzanie określeń dotyczących podejmowanych środków i decy-
 
 Przemysł kulturalny 187
@@ -2113,33 +1898,29 @@ anonsów w gazetach. Mnóstwo ludzi używa słów i zwrotów,
 których albo w ogóle już nie rozumie, albo którymi posługuje się
 tylko według ich behawiorystycznej wartości, niczym znakami
 ochronnymi, które ostatecznie tym silniej przywierają do przed-
-"miotöw, im mniej postrzegany jest ich sens językowy. Minister
-"Oświaty mówi z całkowitą ignorancją o dynamicznych siłach,
-a szlagiery śpiewają nieprzerwanie o réverte i rłapsody, i w zabiegach
+miotów, im mniej postrzegany jest ich sens językowy. Minister
+oświaty mówi z całkowitą ignorancją o dynamicznych siłach,
+a szlagiery śpiewają nieprzerwanie o *réverie* i *rhapsody*, i w zabiegach
 o popularność stawiają właśnie na magię niezrozumiałości, pod-
-niecający dreszczyk wyższych sfer. Inne stereotypy, jak zzemory, są
+niecający dreszczyk wyższych sfer. Inne stereotypy, jak *memory*, są
 jeszcze w pewnej mierze rozumiane, ale odrywają się od doświad-
 czenia, które mogłoby wypełnić je treścią. Tkwią w języku
 mówionym jak enklawy. W niemieckim radiu Flescha i Hitlera
 rozpoznać je można po afektowanej niemczyźnie spikera, który
-deklamuje narodowi „Do usłyszenia" albo „Tu mówi Hitler-
-jugend" czy zgola „Führer" w tonacji przejmowanej potem przez
+deklamuje narodowi „Do usłyszenia” albo „Tu mówi Hitler-
+jugend” czy zgoła „Führer” w tonacji przejmowanej potem przez
 miliony. W takich zwrotach przecięta zostaje ostatnia więź między
-zasiedziałym doświadczeniem a językiem, więż, która w dziewięt-
+zasiedziałym doświadczeniem a językiem, więź, która w dziewięt-
 nastym wieku działała jeszcze jednająco w dialekcie. Redaktorowi,
-który dzięki elastycznej postawie awansował na stanowisko sebrzf?-
-leitera *, niemieckie słowa kamienieją pod ręką w obce. Po każdym
+który dzięki elastycznej postawie awansował na stanowisko *schrift-
+leitera*^[Obco brzmiące slowo *Redakteur* zostało przez nazistów zastąpione słowem *Schriftleiter* (*przyp. tłum.*).], niemieckie słowa kamienieją pod ręką w obce. Po każdym
 słowie można rozpoznać, jak dalece zostało przez faszystowską
 wspólnotę narodową zepsute. Z czasem jednak język ten ogarnia
 wszystko, staje się totalitarny. W słowach nie można już dosłyszeć
 gwałtu, jaki im zadano. Spiker radiowy nie musi mówić nienatural-
-nie; więcej, nie moze być tak, by jego wymowa. różniła _ się
+nie; więcej, nie może być tak, by jego wymowa różniła się
 gatunkowo od wymowy podległej mu grupy słuchaczy. Za to
-
 język i gestykulacja słuchaczy i widzów aż po niuanse, niedostępne
-
-* Obco brzmiące slowo Redakteur zostało przez nazistów zastąpione
-słowem Szhbriftleiter (przyp. tłum.).
 
 188 Dialektyka oświecenia
 
@@ -2148,23 +1929,22 @@ mi przemysłu kulturalnego silniej niż kiedykolwiek. Przemysł
 kulturalny przejął dziś cywilizacyjną schedę po demokracji pionie-
 rów i przedsiebiorców, gdzie wyczucie duchowych odrębności też
 nie było zbyt subtelnie rozwinięte. Wszyscy mogą swobodnie
-tańczyć i oddawać się uciechom, tak jak - skoro religia uległa
-historycznej neutralizacji - mogą swobodnie przystępować do
+tańczyć i oddawać się uciechom, tak jak — skoro religia uległa
+historycznej neutralizacji — mogą swobodnie przystępować do
 niezliczonych sekt. Ale wolność w wyborze ideologii, która zawsze
 odbija przymus ekonomiczny, okazuje się we wszystkich dziedzi-
 nach wolnością do zawsze tego samego. Sposób, w jaki młoda
 dziewczyna umawia się na obowiązkową randkę, i sposób, w jaki ją
 odbywa, ton głosu w telefonie i w najbardziej intymnych sytuac-
-jach, dobór słów w rozmowie, ba - całe jej życie wewnętrzne,
+jach, dobór słów w rozmowie, ba — całe jej życie wewnętrzne,
 poszufladkowane wedle porządkujących pojęć podupadłej psycho-
 logii głębi, świadczy o usiłowaniu, by z samej siebie uczynić
 sprawny aparat, aż po instynktowne odruchy odpowiadający
 modelowi prezentowanemu przez przemysł kulturalny. Najbar-
 dziej intymne reakcje ludzi są w stosunku do samych ludzi tak
 urzeczowione, że idea czegoś charakterystycznego istnieje już
-tylko w postaci skrajnie abstrakcyjnej: persona//fy nie oznacza bodaj
+tylko w postaci skrajnie abstrakcyjnej: *personality* nie oznacza bodaj
 nic prócz olśniewających zębów i wolności od spoconych pach
 oraz emocji. Oto triumf reklamy w przemyśle kulturalnym:
 przymusowy mimetyzm konsumenta względem demaskowanych
-
 zarazem towarów kulturalnych.
