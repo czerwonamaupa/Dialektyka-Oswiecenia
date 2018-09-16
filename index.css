@@ -56,6 +56,12 @@ span.overtitle
   display: block;
   margin-bottom: 2rem; }
 
+span.section
+{ font-size: 1.5rem;
+  display: block;
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
+
 p
 { font-size: 1.2rem;
   line-height: 1.4rem;
