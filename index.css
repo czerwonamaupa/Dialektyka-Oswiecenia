@@ -56,9 +56,24 @@ span.overtitle
   display: block;
   margin-bottom: 2rem; }
 
+span.caps-subtitle
+{ text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: 200;
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
 span.section
 { font-size: 1.5rem;
   display: block;
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
+
+span.center-section
+{ font-size: 1.5rem;
+  display: block;
+  text-align: center;
   margin-top: 3rem;
   margin-bottom: 2rem; }
 

@@ -80,5 +80,5 @@
 * [Przemysł kulturalny. Oświecenie jako masowe oszustwo](#przemysł-kulturalny-oświecenie-jako-masowe-oszustwo)
 * [Żywioły antysemityzmu. Granice oświecenia](#żywioły-antysemityzmu-granice-oświecenia)
 * [Notatki i szkice](#notatki-i-szkice)
-* [*Posłowie do wydania polskiego* (Marek J. Siemek)](#posłowie-do-wydania-polskiego)
+* [*Posłowie do wydania polskiego* (Marek J. Siemek)](#posłowie-do-wydania-polskiego-rozum-między-światłem-i-cieniem-oświecenia)
 </h2>
