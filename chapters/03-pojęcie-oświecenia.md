@@ -1398,7 +1398,7 @@ przed samą sobą. Gdy oświecony umysł dokonywał pojednania z
 *mana*, w ten mianowicie sposób, że przestraszył się strachu o
 tym imieniu, była to zemsta kapłanów — a augurowie oświecenia nie
 ustępowali kapłanom w pysze. Burżuazyjne oświecenie, na długo
-przed Turgotem i d'Alembertem, zagubiło się w swym
+przed Turgotem i d’Alembertem, zagubiło się w swym
 pozytywistycznym momencie. Nic nie chroniło go przed pomyleniem
 wolności z zabiegami o samozachowanie. Zawieszenie pojęcia —
 wszystko jedno, czy w imię postępu, czy w imię kultury, postęp

@@ -692,7 +692,7 @@ projekcji. Rodzime fantazje narodowców o żydowskich zbrodniach, o
 dzieciobójstwie i sadystycznych ekscesach, o zatruwaniu narodu i
 międzynarodowym spisku — wszystko to definiuje dokładnie
 antysemickie marzenia, lecz nie osiąga stadium realizacji. Gdy
-raz do tego dojdzie, wówczas samo słowo „Żyd" wydaje się krwawym
+raz do tego dojdzie, wówczas samo słowo „Żyd” wydaje się krwawym
 grymasem, którego odzwierciedleniem jest chorągiew ze swastyką —
 trupia czaszka i krzyż z zagiętymi ramionami; nazwać kogoś Żydem
 to domagać się zmasakrowania go, by przypominał ten wizerunek.

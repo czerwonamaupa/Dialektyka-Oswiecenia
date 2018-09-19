@@ -282,7 +282,7 @@ nie zdoła domyślić się różnicy między poszczególnymi
 kombinacjami, sensu kolejnych odmian, którego miarą są
 arbitralnie ustanowione reguły. Własna architektoniczna struktura
 Kantowskiego systemu podobnie jak akrobatyczne piramidy orgii de
-Sade'a i zasadniczość pierwszych lóż mieszczańskich — ich
+Sade’a i zasadniczość pierwszych lóż mieszczańskich — ich
 cynicznym odzwierciedleniem jest surowy regulamin towarzystwa
 libertynów ze *120 dni Sodomy* — zapowiada już wyzbytą
 merytorycznego celu organizację całości życia. W organizacjach
@@ -298,7 +298,7 @@ wniknęła w niemiecką muzykę i filozofię, ustabilizowany ład
 mieszczański ostatecznie sfunkcjonalizował rozum. Rozum stał się
 bezcelową celowością, i dlatego właśnie daje się użyć do każdego
 celu. Jest planem samym w sobie. Totalitarne państwo manipuluje
-narodami. „Otóż to — powiada książę u Sade'a — rząd musi sam
+narodami. „Otóż to — powiada książę u Sade’a — rząd musi sam
 kierować ludnością, musi mieć w ręku wszystkie środki, aby ją
 wytępić, gdy się jej obawia, aby ją pomnożyć, gdy uważa to za
 niezbędne, i jedyną miarą jego sprawiedliwości musi być miara
@@ -1037,7 +1037,7 @@ w błąd — oświadcza Dolmance w godnym uwagi piątym dialogu
 Według mnie to tylko słabość ducha”^[D.A.F. de Sade, *La
 Philosophie dans le Boudoir*. Wydanie prywatne Helpeya, s. 267.].
 „Przejdźmy na chwilę, jak powiada Lukrecjusz, do ukrytych podstaw
-życia" — to jest do chłodnej analizy — „a przekonamy się, że ani
+życia” — to jest do chłodnej analizy — „a przekonamy się, że ani
 wywyższanie ukochanej, ani romantyczne uczucie nie zdoła się
 obronić. […] co kocham, to jedynie ciało, i jedynie ciała żałuję,
 choć w każdej chwili mogę je znowu odnaleźć”^[*Juliette*, wyd.
