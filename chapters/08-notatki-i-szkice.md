@@ -1,6 +1,6 @@
 # Notatki i szkice #
 
-PRZECIWKO DOBRZE ZORIENTOWANYM
+[Przeciwko dobrze zorientowanym]{.caps-section}
 
 Czasy hitlerowskie pouczyły nas między innymi o głupocie
 bystrych umysłów. Ileż to rzeczowych argumentów przytaczali
@@ -13,17 +13,17 @@ w grę. Ludzie dobrze zorientowani zawsze ułatwiają sprawę
 barbarzyńcom, ponieważ są tacy głupi. Te uwzględniające wielość
 aspektów, dalekowzroczne sądy, prognozy oparte na statystyce
 i doświadczeniu, stwierdzenia zaczynające się od słów „W końcu ja
-się na tym znam", wyczerpujące i rzetelne opinie - właśnie one są
+się na tym znam”, wyczerpujące i rzetelne opinie — właśnie one są
 nieprawdziwe.
 
-HMitler był przeciwko duchowi i przeciwko ludzkości. Ale
+Hitler był przeciwko duchowi i przeciwko ludzkości. Ale
 istnieje również pewien typ ducha, który zwraca się przeciwko
 ludzkości: jego znakiem szczególnym jest poczucie wyższości,
 oparte na rozległej orientacji.
 
-Dopisek
+[Dopisek]{.addendum}
 
-Dobra orientacja kończy się głupotą - taka jest historyczna
+Dobra orientacja kończy się głupotą — taka jest historyczna
 tendencja. Rozumność, w sensie, w jakim Chamberlain jeszcze
 podczas konferencji w Godesberg nazwał żądania Hitlera niero-
 zumnymi, znaczy tyle, że należy zachować równowagę między
@@ -36,7 +36,7 @@ i zmierza do bezpośredniego zawłaszczenia. Medium tradycyjnej
 
 Notatki i szkice 233
 
-inteligencji mieszczańskiej - dyskusja - ulega rozkładowi. Już
+inteligencji mieszczańskiej — dyskusja — ulega rozkładowi. Już
 jednostki nie mogą ze sobą rozmawiać i wiedzą o tym: dlatego
 zrobiły z gry poważną, odpowiedzialną instytucję, która pochłania
 wszystkie siły, tak że ani nie dochodzi do rozmowy, ani do
@@ -47,15 +47,15 @@ ponieważ rozum oznacza dla niego wyłącznie ustępstwa ze strony
 innych.
 
 Głupota bystrego umysłu, sprzeczna sama w sobie, jest koniecz-
-nością. Albowiem mieszczańska ra//o musi pretendować do uni-
+nością. Albowiem mieszczańska *ratio* musi pretendować do uni-
 wersalności, a zarazem ją ograniczać. W akcie wymiany każdy
 dostaje swoje, a mimo to wszelki akt wymiany produkuje społecz-
-ną niesprawiedliwość - i podobnie refleksyjna forma wymiany
-gospodarczej, rozum panujący - sprawiedliwy, ogólny, a przecież
-partykularystyczny - jest narzędziem przywileju w ramach równo-
+ną niesprawiedliwość — i podobnie refleksyjna forma wymiany
+gospodarczej, rozum panujący — sprawiedliwy, ogólny, a przecież
+partykularystyczny — jest narzędziem przywileju w ramach równo-
 ści. Temu rozumowi faszysta wystawia rachunek. Reprezentuje
 jawnie partykularność i tym samym demaskuje własne ogranicze-
-nia r7a#żo, która bezprawnie chełpi się swą ogólnością. Gdy dobrze
+nia *ratio*, która bezprawnie chełpi się swą ogólnością. Gdy dobrze
 zorientowani okazują się głupcami, rozum uzyskuje dowód włas-
 nej nierozumności.
 
@@ -65,7 +65,7 @@ także i ogólny, a jego ogólność musi doścignąć faszyzm, choć ten
 jej zaprzecza. Ci, którzy doszli do władzy w Niemczech, byli
 sprytniejsi niż liberałowie i głupsi od nich. Postępowego kroku
 wiodącego do nowego ładu dokonali w znacznej mierze ci, którzy
-nie nadążali za postępem - bankruci, sekciarze, błaźni. Są uodpor-
+nie nadążali za postępem — bankruci, sekciarze, błaźni. Są uodpor-
 nieni na błędy, dopóki mają dość władzy, by nie dopuszczać
 konkurencji. Jednak w konkurencji państw faszyści są już tak
 samo jak wszyscy narażeni na popełnianie błędów, a co więcej ich
@@ -76,47 +76,43 @@ ich do katastrofy, której w skrytości zawsze oczekiwali.
 
 234 Dialektyka oświecenia
 
-DWA SWIATY
+[Dwa światy]{.caps-section}
 
-Tu, w tym kraju, nie ma żadnej różnicy między losem ekonomi.
+Tu, w tym kraju, nie ma żadnej różnicy między losem ekonomi-
 cznym a człowiekiem. Człowiek to tyle, co jego majątek, dochody,
 stanowisko, szanse. Ekonomiczna maska charakteru i to, co tkwi
-pod spodem, pokrywają się w świadomości ludzi - łącznie
-z pokrzywdzonymi -- aż po najdrobniejsze zmarszczki. Każdy jest
+pod spodem, pokrywają się w świadomości ludzi — łącznie
+z pokrzywdzonymi — aż po najdrobniejsze zmarszczki. Każdy jest
 tyle wart, ile zarabia, każdy zarabia tyle, ile jest wart. Czym jest,
 dowiaduje się ze zmiennych kolei swej egzystencji gospodarczej,
 W innym charakterze siebie nie zna. Jeżeli kiedyś materialistyczna
 krytyka społeczna głosiła przeciwko idealizmowi, że nie świado-
-mość określa byt, ale byt - świadomość, że prawdy o społeczeńst-
+mość określa byt, ale byt — świadomość, że prawdy o społeczeńst-
 wie szukać należy nie w jego idealistycznych wyobrażeniach
 o samym sobie, lecz w jego gospodarce, to współczesna samowie-
 dza zdążyła już wyzbyć się tego idealizmu. Ludzie oceniają swoją
 jaźń wedle swej wartości rynkowej i uczą się, czym są, na
 podstawie tego, jak im się wiedzie w kapitalistycznej gospodarce.
 Ich los, choćby najsmutniejszy, nie jest dla nich czymś zewnętrz-
-nym - uznają go. Chińczyk, żegnając się,
+nym — uznają go. Chińczyk, żegnając się,
 
-Rzekł schrypniętym głosem: O przyjacielu,
+<p class="double-quote">Rzekł schrypniętym głosem: O przyjacielu,  
+Szczęście nie uśmiechnęło się do mnie na tym świecie.  
+Dokąd idę? Wędruję w góry,  
+Poszukam spokoju dla mego samotnego serca.  </p>
 
-Szczęście nie uśmiechnęło się do mnie na tym świecie.
-Dokąd idę? Wędruję w góry,
+<p class="quote">Amerykanin powiada: *I am a failure.  
+And that is that.*</p>
 
-Poszukam spokoju dla mego samotnego serca.
-
-Amerykanin powiada: 1 am a failure.
-
-And that is that.
-PRZEMIANA IDEI W PANOWANIE
+[Przemiana idei w panowanie]{.caps-section}
 
 Z najdawniejszej egzotycznej historii wyłaniają się niekiedy
 tendencje historii najnowszej i najbliższej, i wskutek oddalenia
 stają się tym wyraźniejsze.
 
-W swym komentarzu do Zra-xpaniszady Deussen ! wskazuje, że
+W swym komentarzu do *Isa-upaniszady* Deussen^[P. Deussen: *Sechzig Upanishad’s des Veda*. Lepizig 1905, s. 524.] wskazuje, że
 hinduska myśl dokonuje w tym dziele tego samego kroku naprzód,
 jakiego Jezus według Ewangelii św. Mateusza dokonał w stosunku
-
-! P. Deussen: Sechzig Upanishad's des Veda. Lepizig 1905, S. 524.
 
 Notatki i szkice 235
 
@@ -124,12 +120,12 @@ do Jana Chrzciciela, a stoicy w stosunku do cyników. Uwaga ta jest
 pod względem historycznym o tyle jednostronna, że bezkom-
 promisowe idee Jana Chrzciciela i cyników, podobnie jak poglądy,
 względem których postęp stanowić mają owe pierwsze wersy
-Isa-upaniszady?, przypominają raczej lewicowe nurty secesyjne,
+*Isa-upaniszady*^[Zwł. *Brihadaranyaka-Upanishad* 3, 5, 1 i 4, 4 22. P. Deussen, *Sechzig…* wyd. cyt., s. 436 i nast., 479 i nast.], przypominają raczej lewicowe nurty secesyjne,
 wyłamujące się z potężnych klik i partii, niż główne linie rozwoju
 historycznego, z których następnie dopiero wyodrębniła się euro-
 pejska filozofia, chrześcijaństwo i żywotna religia wedyjska.
-W zbiorach hinduskich tez, jak relacjonuje sam Deussen,
-Isa-upaniszada znajduje się na początku, a więc przed tymi, których
+W zbiorach hinduskich też, jak relacjonuje sam Deussen,
+*Isa-upaniszada* znajduje się na początku, a więc przed tymi, których
 ma jakoby być przezwyciężeniem. Niemniej przeto w tym pierw-
 szym utworze, o którym mowa, istotnie zawiera się coś ze zdrady
 młodzieńczego radykalizmu, rewolucyjnej opozycji wobec panują-
@@ -146,39 +142,29 @@ staje się religią. Gani się tych, którzy nie uznają kompromisu. Obce
 im jest „pragnienie dzieci, pragnienie majątku, pragnienie świata,
 wędrują jako żebracy. Albowiem pragnąć dzieci to pragnąć
 majątku, a pragnąć majątku to pragnąć świata; albowiem jedno
-i drugie jest pragnieniem daremnym"3. Kto tak uważa, mówi
+i drugie jest pragnieniem daremnym”^[Tamże, s. 436.]. Kto tak uważa, mówi
 może według rycerzy cywilizacji prawdę, ale nie dotrzymuje kroku
 pochodowi życia społecznego. Jakoż ludzi tych czekał los szaleń-
 ców. Faktycznie przypominali Jana Chrzciciela, który „miał na
 sobie odzienie z sierści wielbłądziej i pas skórzany wokół bioder
-swoich, i jadał szarańczę i miód leśny" *. „Cynicy - mowi Hegel *
-
-2 Zwł. Bribadaranyaka-Upanishad 3, 5, 1 i 4, 4 22. P. Deussen, Sechzig...
-wyd. cyt., s. 436 i nast., 479 i nast.
-
-3 Tamże, s. 436.
-
-4 Mk. 1, 6.
-
-5 G.W.F. Hegel, Vorlesungen über die Geschichte der Philosophie. 2. Band. W:
-Werke, wyd. cyt., t. 14, S. 159 i nast.
+swoich, i jadał szarańczę i miód leśny”^[Mk. 1, 6.]. „Cynicy - mowi Hegel^[G.W.F. Hegel, *Vorlesungen über die Geschichte der Philosophie. 2. Band*. W: *Werke*, wyd. cyt., t. 14, s. 159 i nast.]
 
 236 Dialektyka oświecenia
 
-- mają niewielkie wykształcenie filozoficzne i nigdy nie stworzyli
+— mają niewielkie wykształcenie filozoficzne i nigdy nie stworzyli
 systemu, nauki; dopiero później, dzięki stoikom, rzecz stała się
-filozoficzną dyscypliną". „Świńscy, bezwstydni żebracy" 6 - po-
+filozoficzną dyscypliną”. „Świńscy, bezwstydni żebracy”^[Tamże, s. 168.] — po-
 wiada o ich następcach.
 
 Za tymi bezkompromisowymi, o których mówi historia, musia-
 ła podążać jakaś zorganizowana grupa, w przeciwnym razie ich
 imiona nie dotrwałyby do czasów współczesnych. Stworzyli
 przynajmniej fragment systematycznej nauki albo reguł postępo-
-wania. Nawet na te atakowane przez Isa-upan;szadę, bardziej
+wania. Nawet na te atakowane przez *Isa-upaniszadę*, bardziej
 radykalne upaniszady składają się wersy i formuły ofiarne związ-
-ków kapłańskich 7, Jan nie został twórcą religii, ale założył zakon 8.
-Cynicy stworzyli szkołę filozoficzną;; jej założyciel Antystenes
-naszkicował wręcz zarys teorii państwa 9. Teoretyczne i praktyczne
+ków kapłańskich^[Por. P. Deussen, *Sechzig…* wyd. cyt., s. 373.], Jan nie został twórcą religii, ale założył zakon^[Por. E. Meyer: *Ursprung und Anfange des Christentums*. T. 1. Stuttgart—Berlin 1921, s. 90.].
+Cynicy stworzyli szkołę filozoficzną; jej założyciel Antystenes
+naszkicował wręcz zarys teorii państwa^[Diogenes Laertios, VI, 16. Przeł. W. Olszewski przy współpracy B. Kupisa, opr. I. Kronska. Warszawa 1984.]. Teoretyczne i praktyczne
 systemy takich outsiderów historii nie są jednak tak sztywne
 i scentralizowane, od systemów, które odniosły sukces, różni je
 szczypta anarchii. Idea i jednostka miały dla nich większe znaczenie
@@ -186,7 +172,7 @@ niż administracja i kolektyw. Dlatego wywoływały furię. Ideolog
 panowania Platon ma na myśli cyników, gdy występuje gwaltow-
 nie przeciwko zestawianiu urzędu króla ze stanowiskiem pastucha
 oraz przeciw luźno zorganizowanej ludności bez narodowych
-granic, co byłoby państwem świń !?. Ludzie bezkompromisowi
+granic, co byłoby państwem świń^[Por. *Państwo*, 372; *Polityk*, 267 i nast., por. też E. Zeller: *Die Philosophie der Griechen*. Leipzig 1922. Cz. 2, rozdz. 1, s. 325 i nast, przypis.]. Ludzie bezkompromisowi
 mogli być nawet gotowi do zjednoczenia i kooperacji, ale do
 solidnego budowania zamkniętej od dołu hierarchii nie nadawali
 się. Ani ich teoria, nie dość jednolita i konsekwentna, ani praktyka,
@@ -197,73 +183,47 @@ Różnica między radykalnymi a konformistycznymi nurtami
 w religii i filozofii miała charakter formalny, nie przesądzały o niej
 poszczególne treści. Idea ascezy nie stanowiła tu na przykład
 
-6 Tamże, s. 168.
-
-7 Por. P. Deussen, Sechzig... wyd. cyt., s. 373.
-
-8 Por. E. Meyer: Ursprung und Anfange des Christentums. T. 1. Stuttgart-
-Berlin 1921, s. 90.
-
-9 Diogenes Laertios, VI, 16. Przeł. W. Olszewski przy współpracy
-B. Kupisa, opr. I. Kronska. Warszawa 1984.
-
-10 Por. Państwo, 372; Polityk, 267 i nast., por. też E. Zeller: Die Philosophie
-der Griechen. Leipzig 1922. Cz. 2, rozdz. 1, s. 325 i nast, przypis.
-
 Notatki i szkice 237
 
 wyróżnika. Wszak sekta ascetycznego Buddy podbiła cały świat
 azjatycki. Sam Budda wykazywał już wielki talent organizacyjny.
 Jeżeli nawet w przeciwieństwie do reformatora Kankary nie
-pozbawiał niższych warstw dobrodziejstwa swej nauki!!, to
-
-39
-
-przeciez explicite uznawal niewolnictwo i szczycił się „synami
-szlachetnych rodów", którzy wstępowali do jego zakonu, gdzie
+pozbawiał niższych warstw dobrodziejstwa swej nauki^[Por. P. Deussen: *Das System des Vedanta*. Wyd. 2., Leipzig 1906. s. 63 i nast.], to
+przeciez *explicite* uznawal niewolnictwo i szczycił się „synami
+szlachetnych rodów”, którzy wstępowali do jego zakonu, gdzie
 pariasi „jeżeli w ogóle się zdarzali, to, jak się zdaje, tylko
-wyjątkowo" 12. Uczniowie byli zaraz na początku klasyfikowani
-według wzorów braminskich. 3 Kalekom, chorym, przestępcom
-i wielu innym odmawiano przyjęcia !*. W chwili przyjmowania
+wyjątkowo”^[H. Oldenberg: *Buddha*, Stuttgart—Berlin 1914, s. 174.]. Uczniowie byli zaraz na początku klasyfikowani
+według wzorów bramińskich.^[Por. tamże, s. 386.] Kalekom, chorym, przestępcom
+i wielu innym odmawiano przyjęcia^[Tamże, s. 393 i nast.]. W chwili przyjmowania
 zadawano pytania: Czy masz trąd, skrofuły, białą wysypkę, sucho-
 ty, padaczkę? Czy jesteś człowiekiem? Czy jesteś mężczyzną? Czy
 jesteś panem samego siebie? Czy nie masz długów? Czy nie jesteś na
 służbie u króla? itd. Zgodnie z brutalnym patriarchalizmem Indii
 do prabuddyjskich klasztorów bardzo niechętnie przyjmowano
 kobiety w charakterze uczennic. Musiały podporządkowywać się
-mężczyznom, w rzeczywistości były ubezwłasnowolnione. 15 Cały
+mężczyznom, w rzeczywistości były ubezwłasnowolnione.^[Por. tamże, s. 184 i nast., s. 424 i nast.] Cały
 zakon cieszył się względami panujących, stanowił znakomicie
 dopasowany element hinduskiego życia.
 
 Asceza i materializm, dwa przeciwieństwa, mają w jednakowej
 mierze podwójny sens. Asceza, jako odmowa udziału w istniejącej
 złej rzeczywistości, zbiega się w sytuacji ucisku z materialnymi
-roszczeniami mas, tak jak odwrotnie - asceza jako środek dyscyp-
+roszczeniami mas, tak jak odwrotnie — asceza jako środek dyscyp-
 linowania, narzucona przez kliki, ma na celu przystosowanie do
 niesprawiedliwości. Materialistyczne urządzenie się w istniejącej
 rzeczywistości, partykularny egoizm, zawsze powiązany był z wy-
 rzeczeniem, podczas gdy spojrzenie niemieszczańskiego marzycie-
 la wybiega ponad istniejącą rzeczywistością ku krainie miodem
 i mlekiem płynącej. Prawdziwy materializm zawiera w sobie
-w formie zniesionej ascezę, a prawdziwa asceza - analogicznie
-
-!! Por. P. Deussen: Das System des Vedanta. Wyd. 2., Leipzig 1906. S. 63
-i nast.
-
-12 H. Oldenberg: Buddha, Stuttgart-Berlin 1914, s. 174.
-13 Por. tamże, s. 386.
-
-14 Tamże, s. 393 i nast.
-
-15 Por. tamże, s. 184 i nast., s. 424 i nast.
+w formie zniesionej ascezę, a prawdziwa asceza — analogicznie
 
 238 Dialektyka oświecenia
 
-- materializm. Historia owych dawnych religii i szkół, jak historia
+— materializm. Historia owych dawnych religii i szkół, jak historia
 nowoczesnych partii i rewolucji poucza, że ceną przeżycia jest
 współdziałanie w praktyce, przemiana idei w panowanie.
 
-PRZYCZYNEK DO TEORII DUCHÓW
+[Przyczynek do teorii duchów]{.caps-section}
 
 Teoria Freuda, że wiara w duchy bierze się ze złych myśli
 o zmarłych, z pamięci o formułowanych kiedyś pod ich adresem
@@ -287,10 +247,10 @@ zmarłych: jedność ze zmarłymi, bo my, żyjący, na równi z nimi
 jesteśmy ofiarami tej samej ludzkiej kondycji i tej samej zawiedzio-
 nej nadziei.
 
-Dopisek
+[Dopisek]{.addendum}
 
-Zakłócony stosunek do zmarłych - zapomnienie i mumifikacja
-- to jeden z symptomów choroby, jaką dotknięte jest dziś
+Zakłócony stosunek do zmarłych — zapomnienie i mumifikacja
+— to jeden z symptomów choroby, jaką dotknięte jest dziś
 doświadczenie. Można by niemal powiedzieć, że w ten sposób
 rozpada się samo pojęcie ludzkiego życia, rozumianego jako
 jedność historii pewnego człowieka: życie jednostki definiuje się
@@ -299,19 +259,19 @@ już tylko przez swoje przeciwieństwo, unicestwienie, utraciło zaś
 Notatki i szkice 239
 
 ową harmonię, ową ciągłość świadomych wspomnień i mimowol-
-nej pamięci - utraciło sens. Jednostki zostają zredukowane do
+nej pamięci — utraciło sens. Jednostki zostają zredukowane do
 gołej sekwencji punktowych obecności, które nie pozostawiają
 śladu albo raczej: ślad ten, jako irracjonalny, zbędny, nieaktualny,
 wzbudza nienawiść. Jak każda książka, która nie ukazała się
-ostatnio, jak myśl o historii - poza dziedziną profesjonalnych
-zabiegów naukowych - przyprawia współczesne umysły o zdener-
+ostatnio, jak myśl o historii — poza dziedziną profesjonalnych
+zabiegów naukowych — przyprawia współczesne umysły o zdener-
 wowanie, tak miniona postać ludzka doprowadza je do wściekło-
 ści. To, czym człowiek kiedyś był i czego doświadczał, zostaje
 anulowane w obliczu tego, czym jest teraz i do czego ewentualnie
 może się przydać. Dobroduszno-groźna rada, jakiej często udziela
-się emigrantowi - aby zapomniał o wszystkim, co było, ponieważ
+się emigrantowi — aby zapomniał o wszystkim, co było, ponieważ
 nie nadaje się to do transferu, i spisawszy przeszłość na straty
-natychmiast rozpoczął nowe życie - jest wobec intruza, który
+natychmiast rozpoczął nowe życie — jest wobec intruza, który
 nawiedza nas jak duch, gwałtem, jaki dawno już nauczyliśmy się
 zadawać samym sobie. Tłumimy historię w sobie i w innych, ze
 strachu, że mogłaby przypomnieć o rozkładzie naszej własnej
@@ -319,41 +279,41 @@ egzystencji, o rozkładzie, którego istotnym czynnikiem jest właś-
 nie tłumienie historii. Potępienie tego, co nie ma wartości rynko-
 wej, godzi we wszystkie uczucia, a najbardziej w to, które nie
 rokuje nawet psychologiocznego odtworzenia siły roboczej
--w uczucie żałoby. Żałoba staje się raną cywilizacji, aspołecznym
+— w uczucie żałoby. Żałoba staje się raną cywilizacji, aspołecznym
 sentymentem, który zdradza, że wciąż jeszcze nie udało się zagnać
 ludzkości pod sztandary królestwa celów. Dlatego żałobą tak się
 poniewiera, dlatego świadomie robi się z niej towarzyską formal-
 ność: zresztą impreza, w której udział biorą upiększone zwłoki
-i nieczułe serca, nigdy niczym innym nie była. W funeral home
+i nieczułe serca, nigdy niczym innym nie była. W *funeral home*
 i krematorium, gdzie zmarły przerobiony zostaje w przenośną
 garstkę popiołu, kłopotliwą własność, doprawdy nie na czasie
-byłoby stracić fason - owa panienka, która z dumą opisywała
-luksusowy pogrzeb babci i dorzuciła: „„a piły that daddy lost control',
+byłoby stracić fason — owa panienka, która z dumą opisywała
+luksusowy pogrzeb babci i dorzuciła: „a pity that daddy lost control”,
 tatuś bowiem uronił parę łez, jest znakomitym przykładem.
 Zmarłym wyrządza się w rzeczywistości to, co u dawnych Żydów
 uchodziło za najgorsze przekleństwo: obyś był zapomniany.
-Ludzie zapominają siebie samych - i rozpacz z tego powodu
+Ludzie zapominają siebie samych — i rozpacz z tego powodu
 wyładowują na zmarłych.
 
 240 Dialektyka oświecenia
 
-QUAND MEME
+[Quand même]{.caps-section}
 
 Do przezwyciężenia własnego bezwładu, do produkcji dzieł
 materialnych i duchowych skłoniła ludzi presja zewnętrzna. W tej
 kwestii nie mylą się myśliciele od Demokryta po Freuda. Kon-
-tynuacją oporu zewnętrznej natury, do którego ostatecznie spowaą:-
+tynuacją oporu zewnętrznej natury, do którego ostatecznie sprowa-
 dza się ta presja, są w obrębie społeczeństwa klasy, a twardość
 innych ludzi jest tą jego formą, z jaką każda jednostka styka się od
 dzieciństwa. Ludzie są miękcy, gdy chcą czegoś od silniejszych, są
 odpychający, gdy nagabuje ich o coś słabszy. Taki jest klucz do
 istoty osoby w dotychczasowym społeczeństwie.
 
-Wniosek, jaki wyprowadzili stąd konserwatyści - że strach
-i cywilizacja są nierozłączne - nie jest bezzasadny. Cóż mogłoby
+Wniosek, jaki wyprowadzili stąd konserwatyści — że strach
+i cywilizacja są nierozłączne — nie jest bezzasadny. Cóż mogłoby
 doprowadzić ludzi do umiejętności pozytywnego radzenia sobie ze
 skomplikowanymi bodźcami, jeżeli nie własna, z wysiłkiem doko-
-nana ewolucja, pobudzona przez zewnętrzny opór? Ow pobudza-
+nana ewolucja, pobudzona przez zewnętrzny opór? Ów pobudza-
 jący opór ucieleśnia się najpierw w osobie ojca, potem wyrasta mu
 tysiąc głów: nauczyciel, zwierzchnik, klient, konkurent, przed-
 stawiciele społecznej i państwowej władzy. Ich brutalność stymu-
@@ -364,7 +324,7 @@ surowych rygorów, by krwawe kary, jakimi przez tysiąclecia
 poskramiano ludzkość, można było zastąpić zakładaniem sanato-
 riów. Udawany przymus jest bezsilny. Rozwój kultury przebiegał
 pod znakiem kata; co do tego Księga Rodzaju, opowiadająca
-o wypędzeniu z raju, i Les Sores de Petersbourg są ze sobą zgodne.
+o wypędzeniu z raju, i *Les Soirées de Petersbourg* są ze sobą zgodne.
 Znak kata przyświeca pracy i uciechom. Zaprzeczanie temu jest
 obrazą wszelkiej nauki, wszelkiej logiki. Nie można wyeliminować
 strachu i jednocześnie zachować cywilizacji. Już osłabienie strachu
@@ -374,21 +334,21 @@ stwem albo szukać schronienia w kręgach piekła. Istnieje jeszcze
 inna możliwość: drwić sobie z logiki, która zwraca się przeciw
 ludzkości.
 
-- Notatki i Szkice 241
+Notatki i Szkice 241
 
-PSYCHOLOGIA ZWIERZĄT
+[Psychologia zwierząt]{.caps-section}
 
 Na skraju autostrady stoi wielki pies. Jeżeli ufnie pójdzie dalej,
 wpadnie pod samochód. Łagodny wyraz pyska świadczy o tym, że
-zazwyczaj lepiej się nim opiekują - domowe zwierzę, któremu nikt
+zazwyczaj lepiej się nim opiekują — domowe zwierzę, któremu nikt
 nie czyni krzywdy. Ale czy mieszczańscy synkowie, którym nikt
 nie czyni krzywdy, mają łagodny wyraz twarzy? Opiekowano się
 nimi nie gorzej niż psem, który teraz wpada pod samochód.
 
-DEDYKOWANE WOLTEROWI
+[Dedykowane wolterowi]{.caps-section}
 
-Twój rozum jest jednostronny - szepcze jednostronny rozum
-- niesprawiedliwie potraktowałeś władzę. Patetycznie, płaczliwie,
+Twój rozum jest jednostronny — szepcze jednostronny rozum
+— niesprawiedliwie potraktowałeś władzę. Patetycznie, płaczliwie,
 sarkastycznie, na cały głos obwieszczasz hańbę tyranii; dobrodziej-
 stwa władzy natomiast ignorujesz. Bez bezpieczeństwa, jakie tylko
 władza może zapewnić, dobro nie mogłoby istnieć. Pod skrzydłami
@@ -398,7 +358,7 @@ natury twoje własne szczęście.
 To, co mają do powiedzenia apologeci, jest prawdziwe i fał-
 szywe zarazem. Mimo wszelkich dobrodziejstw władzy tylko
 władza może popełniać niesprawiedliwość, gdyż niesprawiedliwy
-jest tylko wyrok, który zostaje wykonany - nie mowa obrończa,
+jest tylko wyrok, który zostaje wykonany — nie mowa obrończa,
 która nie została uwzględniona. Mowa bierze udział w powszech-
 nej niesprawiedliwości tylko wówczas, gdy sama zmierza do
 ucisku i broni władzy miast bronić bezsilności.
@@ -418,9 +378,9 @@ upaść społeczeństwo, w którym już tylko łajdacy mówią prawdę,
 
 242 Dialektyka oświecenia
 
-a Goebbels podtrzymuje pamięć radośnie kontynuowanych lin.
+a Goebbels podtrzymuje pamięć radośnie kontynuowanych lin-
 czów. Przedmiotem teorii nie jest dobro, ale zło. Teoria z góry
-zakłada reprodukcję życia w każdorazowo określonych formach,
+zakłada reprodukcję życia w każdorazowo określonych formach.
 Jej żywiołem jest wolność, jej tematem ucisk. Gdy język staje się
 apologią, oznacza to, że teoria uległa korupcji, nie może już być ani
 neutralna, ani praktyczna.
@@ -432,7 +392,7 @@ Jest tylko jeden sposób wyrażania prawdy: myśl, która nie godzi
 się z niesprawiedliwością. Obstawanie przy dobrych stronach bez
 zniesienia ich w negatywnej całości uświęca to, co jest ich
 przeciwieństwem: przemoc. Słowami mogę intrygować, propago-
-wać, sugerować -- tą drogą zostają one uwikłane, jak wszelki czyn,
+wać, sugerować — tą drogą zostają one uwikłane, jak wszelki czyn,
 w rzeczywistość, i tą jedynie drogą umie poruszać się kłamstwo.
 Kłamstwo insynuuje, że nawet protest przeciwko istniejącemu
 stanowi rzeczy służy jedynie nadciągającym potęgom, konkuren-
@@ -450,7 +410,7 @@ oszczędzono. Modły do słońca są bałwochwalstwem. Dopiero
 w spojrzeniu na uschnięte drzewo żyje przeczucie majestatu,
 którego promienie rozjaśniają świat, a nie palą.
 
-KLASYFIKACJA
+[Klasyfikacja]{.caps-section}
 
 Ogólne pojęcia, ukute przez poszczególne nauki w drodze
 abstrakcji albo aksjomatycznie, są środkiem przedstawiania, tak
@@ -459,7 +419,7 @@ pojęciami jest nonsensem. Ale nie znaczy to, że ogólności przy-
 
 Notatki i szkice 243
 
-sługuje specjalne dostojeństwo. Cecha wspólna wielu pojedymn-
+sługuje specjalne dostojeństwo. Cecha wspólna wielu pojedyn-
 czym rzeczom jednostkowym albo zawsze się powtarzająca bynaj-
 mniej nie musi być bardziej stabilna, odwieczniejsza, głębsza niż
 jakaś cecha indywidualna. Skala gatunków nie pokrywa się ze skalą
@@ -472,7 +432,7 @@ na raczej daremną i kompulsywną litanię niż słowo zbawienia.
 Klasyfikacja jest warunkiem poznania, a nie poznaniem samym,
 i poznanie wciąż na nowo rozbija klasyfikację.
 
-LAWINA
+[Lawina]{.caps-section}
 
 Współcześnie nie dokonują się żadne zwroty. Zwrot oznacza
 zawsze obrót ku lepszemu. Gdy zaś w czasach takich jak dzisiejsze
@@ -482,8 +442,8 @@ tych, którzy i tak są straceni.
 Wrażenie takie wywołuje przede wszystkim to, co pospolicie
 zowie się sferą socjalną, polityczną. Strony tytułowe gazet, które
 kiedyś szczęśliwym kobietom i dzieciom wydawały się obce
-i wulgarne - dziennik przypominał knajpę i wrzaskliwe popisy
-- teraz tłustym drukiem wkroczyły do domów jako rzeczywista
+i wulgarne — dziennik przypominał knajpę i wrzaskliwe popisy
+— teraz tłustym drukiem wkroczyły do domów jako rzeczywista
 groźba. Zbrojenia, kolonie, napięcie w strefie Morza Śródziem-
 nego, nie wiedzieć jakie jeszcze rozpierające się szeroko pojęcia
 wprawiły w końcu ludzi w autentyczny strach, nim wybuchła
@@ -496,7 +456,7 @@ charakter lawiny. Wyniki wyborcze są dla tego zjawiska znamien-
 ne. Gdy wieczorem w dniu przedfaszystowskich wyborów nad-
 chodzą wyniki z poszczególnych regionów, jedna ósma, jedna
 szesnasta głosów daje już wyobrażenie o całości. Jeżeli dziesięć
-albo dwadzieścia okręgów en wasse wybrało pewien kierunek, to
+albo dwadzieścia okręgów *en masse* wybrało pewien kierunek, to
 
 244 Dialektyka oświecenia
 
@@ -504,7 +464,7 @@ sto pozostałych okręgów nie zmieni tej tendencji. Panuje już duch
 uniformizacji. Istota świata zbiega się z prawami statystyki, którę
 klasyfikują jego powierzchnię.
 
-W Niemczech faszyzm wygrał pod sztandarem jaskrawie kseno.-
+W Niemczech faszyzm wygrał pod sztandarem jaskrawie kseno-
 fobicznej, wrogiej kulturze, kolektywistycznej ideologii. Teraz,
 kiedy pustoszy ziemię, narody muszą z nim walczyć, nie ma innego
 wyjścia. Ale wcale nie jest powiedziane, że gdy wszystko się
@@ -514,19 +474,19 @@ i pseudokolektywizm, jakie cechowały faszyzm, przeciwko które-
 mu narody te zmuszone były się bronić. Klęska faszyzmu nie
 oznacza, że powstrzyma się lawinę.
 
-Zasadą filozofii liberalnej było „zarówno..., jak...". Dziś wydaje
-się obowiązywać zasada „albo..., albo...", i to tak, jak gdyby waga
+Zasadą filozofii liberalnej było „zarówno…, jak…”. Dziś wydaje
+się obowiązywać zasada „albo…, albo…”, i to tak, jak gdyby waga
 przechyliła się już na tę złą stronę.
 
-IZOLACJA PRZEZ KOMUNIKACJĘ
+[Izolacja przez komunikację]{.caps-section}
 
-Medium komunikacji izoluje - dotyczy to nie tylko dziedziny
+Medium komunikacji izoluje — dotyczy to nie tylko dziedziny
 duchowej. Załgany głos spikera w radiu utrwala się w umyśle jako
 obraz języka i przeszkadza ludziom rozmawiać ze sobą, za-
 chwalanie coca-coli zagłusza zapowiedź katastrofy całych kon-
 tynentów, model filmowych bohaterów przyświeca widmowo
 uściskowi nastolatków i zdradzie małżeńskiej. Ale na tym rzecz się
-nie kończy - postęp dosłownie rozdziela ludzi. Małe okienko na
+nie kończy — postęp dosłownie rozdziela ludzi. Małe okienko na
 dworcu albo w banku pozwalało urzędnikowi poszeptać z kolegą
 i podzielić się z nim ubogą tajemnicą; przeszklone nowoczesne
 biura, kolosalne sale, gdzie siedzą razem niezliczeni urzędnicy,
@@ -539,12 +499,10 @@ kolej. Posiadanie własnego auta redukuje znajomości zawierane
 w podróży do autostopu, czasem niebezpiecznego. Ludzie po-
 dróżują w ścisłej izolacji, na gumowych oponach. Za to w każdym
 
- 
-
 Notatki i szkice 245
 
 jednorodzinnym samochodzie mówi się o tym samym; rodzinne
-rozmowy dyktowane sq praktycznymi interesami. Każda rodzina
+rozmowy dyktowane są praktycznymi interesami. Każda rodzina
 o określonych dochodach wydaje tę samą ich część na mieszkanie,
 kino i papierosy, wedle ustaleń statystyki, i podobnie rozmowy
 uschematyzowane są według klasy samochodu. Gdy w niedzielę
@@ -554,7 +512,7 @@ mogą stwierdzić, że wraz z rosnącą izolacją upodobniają się
 wzajem do siebie. Komunikacja powoduje upodobnienie ludzi
 przez ich odosobnienie.
 
-PRZYCZYNEK DO KRYTYKI FILOZOFII DZIEJÓW
+[Przyczynek do krytyki filozofii dziejów]{.caps-section}
 
 Słyszy się, że gatunek ludzki jest wybrykiem historii naturalnej,
 ubocznym i chybionym produktem hipertrofii mózgu. Otóż nie.
@@ -563,12 +521,12 @@ okresach może całych krajów, gdzie ekonomia pozostawiła takim
 jednostkom swobodę ruchów. Mózg, ludzka inteligencja jest
 dostatecznie mocna, by wyznaczać całą epokę w dziejach ziemi.
 Gatunek ludzki wraz ze wszystkimi swymi maszynami, chemika-
-liami, siłami organizacyjnymi - dlaczegóż bowiem traktować je
+liami, siłami organizacyjnymi — dlaczegóż bowiem traktować je
 inaczej niż zęby niedźwiedzia, skoro służą temu samemu celowi,
-tyle że lepiej funkcjonują - jest w tej epoce ostatnim krzykiem
+tyle że lepiej funkcjonują — jest w tej epoce ostatnim krzykiem
 adaptacji. Ludzie nie tylko wyprzedzili swych bezpośrednich
 poprzedników, ale wytepili ich tak gruntownie, jak bodaj nie
-uczynił tego żaden z nowszych species z innym, nie wyłączając
+uczynił tego żaden z nowszych *species* z innym, nie wyłączając
 mięsożernych jaszczurów.
 
 W tej sytuacji swoistym kaprysem wydaje się konstruowanie
@@ -579,17 +537,17 @@ rozwoju całości nic nie znaczą, chyba że przejściowo pomagają
 stworzyć stosunki społeczne, gdzie produkuje się szczególnie dużo
 maszyn i chemikaliów dla wzmocnienia gatunku i ujarzmienia
 innych gatunków. W sensie tej poważnej historii wszystkie idee,
-- zakazy, religie, przekonania polityczne są interesujące tylko o tyle,
+zakazy, religie, przekonania polityczne są interesujące tylko o tyle,
 
 246 Dialektyka oświecenia
 
-o ile - niezależnie od swej genezy -- wzmacniają albo osłabiają
-naturalne szanse ludzkości na ziemi albo we wszechświecie,
-Wyzwolenie mieszczaństwa od niesprawiedliwości epok feudal.
-nych i absolutystycznych przyczyniło się za pośrednictwem libera.
+o ile — niezależnie od swej genezy — wzmacniają albo osłabiają
+naturalne szanse ludzkości na ziemi albo we wszechświecie.
+Wyzwolenie mieszczaństwa od niesprawiedliwości epok feudal-
+nych i absolutystycznych przyczyniło się za pośrednictwem libera-
 lizmu do rozkręcenia machiny, podobnie jak emancypacja kobiety
-kończy się przysposobieniem do służby wojskowej. Duch - i wszy.
-stko, co dobre w jego genezie i istnieniu - jest nieuleczalnie
+kończy się przysposobieniem do służby wojskowej. Duch — i wszy-
+stko, co dobre w jego genezie i istnieniu — jest nieuleczalnie
 uwikłany w potworność. Surowica, którą lekarz podaje choremu
 dziecku, pochodzi z zamachu na bezbronne stworzenie. W piesz-
 czotliwych słowach kochanków i w najświętszych symbolach
@@ -615,7 +573,7 @@ doprowadzaniu do tożsamości podmiotu i przedmiotu.
 Filozoficzna konstrukcja dziejów powszechnych miałaby poka-
 zać, jak mimo wszelkich manowców i przeszkód konsekwentne
 dążenie do opanowania natury coraz bardziej stanowczo toruje
-sobie drogę i integruje wszystkie wenętrzne właściwości człowie-
+sobie drogę i integruje wszystkie wewnętrzne właściwości człowie-
 cze. Stąd należałoby też wywodzić formy gospodarki, panowania,
 kultury. Idea nadczłowieka może znaleźć zastosowanie tylko
 w sensie przejścia ilości w jakość. Jeśli lotnika, który kilkoma
@@ -629,41 +587,41 @@ w końcu ludzka super-amfibia, wobec której dzisiejszy lotnik wyda
 się niewinną jaskółką. Wątpliwe, czy po człowieku w ogóle może
 powstać autentyczny, o szczebel wyższy w hierarchii gatunek
 naturalny. Bo antropomorfizm o tyle faktycznie ma słuszność, że
-historia naturalna nie liczyła się - by tak rzec - z owym fortunnym
+historia naturalna nie liczyła się — by tak rzec — z owym fortunnym
 rzutem, któremu zawdzięcza człowieka. Destrukcyjne zdolności
 człowieka zapowiadają się tak świetnie, że gdy ten gatunek raz się
-wyczerpie, pozostanie po nim /aży/a rasa. Albo poźre sam siebie,
+wyczerpie, pozostanie po nim *tabula rasa*. Albo pożre sam siebie,
 albo doprowadzi do ruiny całą faunę i florę ziemi, a jeśli ziemia
-będzie wtedy jeszcze dość młoda, będzie musiała - aby posłużyć się
-wariantem sławnego wyrażenia - zacząć na daleko niższym
+będzie wtedy jeszcze dość młoda, będzie musiała — aby posłużyć się
+wariantem sławnego wyrażenia — zacząć na daleko niższym
 szczeblu całe paskudztwo od początku.
 
 Filozofia dziejów, lokując humanistyczne idee jako czynne moce
 w historii i każąc im na końcu triumfować, zarazem pozbawiła je
-przynaleźnej im niewinności. Szydzi¢, ze idee te kompromitowaly
+przynależnej im niewinności. Szydzić, że idee te kompromitowały
 się zawsze, ilekroć nie stała za nimi ekonomia, czyli przemoc, to
 szydzić ze słabości, i w szyderstwie tym autorzy mimowolnie
 identyfikowali się z uciskiem, który chcieli zlikwidować. W filozo-
-fil dziejów powtarza się to, co zdarzyło się w chrześcijaństwie:
+fii dziejów powtarza się to, co zdarzyło się w chrześcijaństwie:
 dobro, które naprawdę wydane jest na pastwę cierpienia, prze-
 brane zostaje za siłę, która wyznacza bieg świata i na końcu
 triumfuje. Ubóstwia się dobro jako ducha dziejów lub przynaj-
 mniej ich immanentną zasadę. W ten sposób jednak nie tylko
 obraca się dzieje w ich przeciwieństwo, lecz także zniekształca się
 samą ideę, która ma przełamać konieczność, logiczny bieg wyda-
-rzen. Niebezpieczeństwo wybryku zostaje zażegnane. Uznając
+rzeń. Niebezpieczeństwo wybryku zostaje zażegnane. Uznając
 bezsilność za siłę, raz jeszcze przez ten awans się jej zapieramy,
 wyrzucamy ją z pamięci. Toteż chrześcijaństwo, idealizm i materia-
 lizm, które same w sobie zawierały też prawdę, ponoszą również
 winę za łajdactwa, jakie w ich imieniu popełniano. Jako heroldy
-siły - choćby siły dobra - same stały się dobrze zorganizowanymi
+siły — choćby siły dobra — same stały się dobrze zorganizowanymi
 siłami historii i jako takie odegrały krwawą rolę w rzeczywistych
 dziejach ludzkości: rolę narzędzi organizacji.
 
 248 Dialektyka oświecenia
 
-Ponieważ historia jako korelat jednolitej teorii, jako konstruk.
-cja, nie jest dobrem, a przeciwnie - grozą, to myślenie jest
+Ponieważ historia jako korelat jednolitej teorii, jako konstruk-
+cja, nie jest dobrem, a przeciwnie — grozą, to myślenie jest
 naprawdę elementem negatywnym. Nadzieja na lepsze stosunki,
 jeśli nie jest czystą iluzją, opiera się nie tyle na zapewnieniu, że ów
 lepszy stan niezawodnie nastąpi oraz okaże się stanem trwałym
@@ -671,14 +629,14 @@ i ostatecznym, ile właśnie na braku szacunku wobec tego, co jest
 tak mocno ugruntowane w powszechnym cierpieniu. Nieskoń-
 czona cierpliwość, ów nigdy nie wygasający czuły pociąg stworze-
 nia do ekspresji i światła, który wydaje się łagodzić i uśmierzać
-gwałtowność twórczego rozwoju, nie przedstawia - jak racjonalne
-wersje filozofii dziejów - określonej praktyki jako zbawiennej,
+gwałtowność twórczego rozwoju, nie przedstawia — jak racjonalne
+wersje filozofii dziejów — określonej praktyki jako zbawiennej,
 nawet praktyki uległości. Pierwszy przebłysk rozumu, jaki za-
 znacza się w tym popędzie i prześwieca w myślącej pamięci
 człowieka, napotyka nawet w najszczęśliwszym dniu nieusuwalną
 sprzeczność: fatum, którego rozum sam nie może odwrócić.
 
-POMNIKI HRUMANIZMU
+[Pomniki humanizmu]{.caps-section}
 
 Humanizm zawsze miał swą siedzibę raczej we Francji niż
 gdziekolwiek indziej. Ale Francuzi już o tym nie wiedzieli. To, co
@@ -690,13 +648,13 @@ Bluma wypowiedział wojnę tym przejawom szacunku dla jedno-
 stki, i nawet konserwatyści niewiele zrobili, by ocalić jego
 pomniki.
 
-Z TEORII PRZESTĘPCY
+[Z teorii przestępcy]{.caps-section}
 
 Kara pozbawienia wolności, tak jak przestępstwo, miała charak-
 ter mieszczański. W średniowieczu więziono książęce potomstwo,
 reprezentujące niewygodne roszczenia do dziedzictwa. Natomiast
 przestępcę zamęczano na śmierć, aby wpoić masom ludności
-szacumek dla porządku i prawa, ponieważ przykład surowości
+szacunek dla porządku i prawa, ponieważ przykład surowości
 i okrucieństwa wychowuje surowych i okrutnych do miłości.
 
 Notatki i szkice 249
@@ -709,9 +667,9 @@ nie mają okien, przez które by cokolwiek mogło się do nich dostać
 lub z nich wydostać. Właściwości nie mogą się oderwać ani
 przechadzać poza substancjami, jak to ongiś czyniły jakości
 zmysłowe scholastyków. Tak więc ani substancja, ani właściwość
-nie mogą się z zewnątrz dostać do monady"!6. Monady nie
+nie mogą się z zewnątrz dostać do monady”^[G.W. Leibniz: *Monadologia*. Przeł. H. Elzenberg. Toruń 1991, § 7, s. 48.]. Monady nie
 wywierają na siebie wzajemnie wpływu, ich życie regulowane jest
-i koordynowane przez Boga, względnie przez zarząd. !? Absolutna
+i koordynowane przez Boga, względnie przez zarząd.^[Por. tamże, § 51, s. 58.] Absolutna
 samotność, przemocą narzucony zwrot ku własnej jaźni, której
 cały byt polega na pokonywaniu materiału, w monotonnym rytmie
 pracy, określają w charakterze upiorów egzystencję człowieka
@@ -733,19 +691,16 @@ waniu przestępstwa chodziło przede wszystkim o samozachowa-
 nie, jest naprawdę jaźnią słabszą, bardziej chwiejną; recydywista
 jest osobnikiem debilnym.
 
-Więźniowie to jednostki chore. Słabość doprowadził ich do
+Więźniowie to jednostki chore. Słabość doprowadziła ich do
 sytuacji, która już zaatakowała ciała i dusze i atakuje dalej.
-
-16 GW. Leibniz: Monado/ogia. Przeł. H. Elzenberg. Toruń 1991, $ 7, s. 48.
-17 Por. tamże, $ 51, s. 58.
 
 250 Dialektyka oświecenia
 
 Większość z nich była już chora przed popełnieniem czynu, który
-zawiódł ich do więzienia: chora wskutek własnej konstytucji, chorą
+zawiódł ich do więzienia: chora wskutek własnej konstytucji, chora
 wskutek panujących stosunków. Inni postąpili tak, jak postąpiłby
 przy podobnym układzie bodźców i motywów każdy zdrowy
-- tyle że mieli pecha. Reszta to ludzie gorsi i okrutniejsi niż
+— tyle że mieli pecha. Reszta to ludzie gorsi i okrutniejsi niż
 większość poruszających się na wolności, ludzie osobiście tak źli
 i okrutni, jak źli i okrutni są faszystowscy panowie przez swoją
 pozycję. Czyn pospolitego przestępcy jest ograniczony, osobisty,
@@ -762,39 +717,35 @@ choroba. Świadczą o tym twarze więźniów, ich ostrożny krok,
 mozolny sposób myślenia. Jako chorzy umieją mówić już tylko
 o swej chorobie.
 
-Gdy - jak dzisiaj - granice między rozbojem zażywającym
+Gdy — jak dzisiaj — granice między rozbojem zażywającym
 szacunku a rozbojem nielegalnym stały się obiektywnie płynne,
 zacierają się także granice psychologiczne. Dopóki przestępcy byli
 jednak chorymi, jak w XIX w., więzienie było zniekształconym
 obrazem ich słabości. Zdolność wyodrębniania się spośród otocze-
 nia jako indywiduum i zarazem komunikowania się z otoczeniem
-w koncesjonowanych formach, aby się w mim utrzymać - ta
+w koncesjonowanych formach, aby się w nim utrzymać — ta
 zdolność ulegała u przestępcy nadwątleniu. Przestępca reprezen-
 tował tę tendencję, głęboko nurtującą żywe istoty, której prze-
 zwyciezenie jest znakiem rozwoju: tendencję, by zatracić sie
 w otaczającym świecie, zamiast dzień w dzień się z nim borykać,
 skłonność, by dać sobie spokój, zatonąć w naturze. Freud nazywa
-to popędem ku śmierci, Caillois mimetyzmem !. Tendencja ta
+to popędem ku śmierci, Caillois mimetyzmem^[Por. R. Caillois: *Le Mythe et l’Homme*. Paris 1938, s. 125 i nast.]. Tendencja ta
 przenika wszystko, co sprzeciwia się nieuchronnemu postępowi,
-
-18 Por. R. Caillois: Le Mythe et "Homme. Paris 1938, s. 125 i nast.
-
- 
 
 Notatki i szkice 25 1
 
-od przestepstwa, ktöre odmawia podążania okrężną drogą aktual-
+od przestepstwa, które odmawia podążania okrężną drogą aktual-
 nych form pracy, aż po wzniosłe dzieła sztuki. Miękkość wobec
 rzeczy, bez czego nie istnieje sztuka, niewiele odbiega od zde-
 sperowanego gwałtu, jakim jest przestępstwo. Niemożność powie-
-dzenia „nie", która nieletnią popycha do prostytucji, warunkuje
+dzenia „nie”, która nieletnią popycha do prostytucji, warunkuje
 też kariery przestępcze. W przypadku przestępcy chodzi o to, że
 negacja nie zawiera w sobie oporu. Tej płynności, która bez
-określonej świadomości, nieśmiało i bezsilnie - nawet w swych
-najbardziej brutalnych formach - zarazem imituje i niszczy bez-
-litosną cywilizację, cywilizacja przeciwstawia mocne mury wiezień
+określonej świadomości, nieśmiało i bezsilnie — nawet w swych
+najbardziej brutalnych formach — zarazem imituje i niszczy bez-
+litosną cywilizację, cywilizacja przeciwstawia mocne mury więzień
 i zakładów pracy, swój własny kamienny ideał. Według Tocquevil-
-le'a republiki mieszczańskie w przeciwieństwie do monarchii nie
+le’a republiki mieszczańskie w przeciwieństwie do monarchii nie
 dokonują gwałtu na ciele, ale godzą bezpośrednio w dusze, i tak też
 przeciw duszom wymierzony jest mieszczański system karny.
 Męczennicy ustroju burżuazyjnego nie umierają przez długie dni
@@ -816,8 +767,8 @@ które nadal funkcjonowało dla regulowania spraw spornych
 między przedsiębiorcami przetrwałymi w cieniu wielkiego prze-
 mysłu, przedsiębiorcami, stało się czymś w rodzaju sądu rozjem-
 czego, wymiarem sprawiedliwości wobec słabszych, nie broniącym
-już, choćby kiepsko, interesów pokrzywdzonych - stało się
-narzędziem terroru. Ochrona prawna - dziś zanikająca - definio-
+już, choćby kiepsko, interesów pokrzywdzonych — stało się
+narzędziem terroru. Ochrona prawna — dziś zanikająca — definio-
 wała własność. Monopol, jako doskonała forma własności prywat-
 nej, niszczy pojęcie własności. Z kontraktu państwowego i społe-
 
@@ -833,9 +784,9 @@ w całej Europie. Więzienie w porównaniu z obozem koncentracyj-
 nym wydaje się pamiątką dawnych dobrych czasów, jak niegdysiej-
 sza gazeta dla oświeconych, która oczywiście też dopuszczała się
 odstępstw od prawdy, w porównaniu z magazynem na lśniącym
-papierze, którego zawartość literacka - choćby szło o Michała
-Anioła - jeszcze bardziej niż ogłoszenia spełnia funkcję raportu
-o stanie interesów, zmaku panowania i reklamy. Izolacja, którą
+papierze, którego zawartość literacka — choćby szło o Michała
+Anioła — jeszcze bardziej niż ogłoszenia spełnia funkcję raportu
+o stanie interesów, znaku panowania i reklamy. Izolacja, którą
 więźniom kiedyś narzucano z zewnątrz, wniknęła tymczasem
 w ciało i krew jednostek. Ich wyćwiczone dusze i ich szczęście są
 puste jak więzienna cela, bez której możnowładcy mogą się juz
@@ -843,9 +794,9 @@ obejść, ponieważ przypadła im w udziale cała siła robocza naro-
 dów. Kara pozbawienia wolności blednie w obliczu społecznej
 rzeczywistości.
 
-LE PRIX DU PROGRES
+[Le prix du progrès]{.caps-section}
 
-Niedawno odnaleziony list francuskiego f1zjologa Pierre'a Flou-
+Niedawno odnaleziony list francuskiego fizjologa Pierre’a Flou-
 rens, który niegdyś zaznał smutnej sławy zwycięskiego rywala
 Victora Hugo w wyborach do Akademii Francuskiej, zawiera
 niezwykły fragment: „Nadal mam wątpliwości, czy należy udzielić
@@ -853,7 +804,7 @@ zgody na stosowanie chloroformu w powszechnej praktyce opera-
 cyjnej. Jak zapewne Panom wiadomo, poświęciłem temu środkowi
 rozległe studia i na podstawie doświadczeń ze zwierzętami jako
 pierwszy opisałem jego swoiste właściwości. Skrupuły moje
-Opierają się na prostym fakcie, że operacja pod chloroformem,
+opierają się na prostym fakcie, że operacja pod chloroformem,
 prawdopodobnie tak samo jak inne znane formy narkozy, stanowi
 oszustwo. Specyfiki te działają jedynie na pewne ośrodki moto-
 ryczne i koordynacyjne, jak również na szczątkową sprawność
@@ -863,7 +814,7 @@ zatraca w znacznej mierze zdolność rejestrowania śladów wrażeń,
 Notatki i szkice 233
 
 ale bynajmniej nie wrażliwość jako taką. Moje obserwacje
-wskazują - odwrotnie - że w połączeniu z ogólnym paraliżem
+wskazują — odwrotnie — że w połączeniu z ogólnym paraliżem
 systemu nerwowego bóle odczuwane są jeszcze gwałtowniej niż
 w stanie normalnym. Złudzenie publiczności wynika stąd, że
 pacjent po przeprowadzonej operacji niezdolny jest przypomnieć
@@ -880,20 +831,20 @@ cenia akademickiego naszych lekarzy medycyna mogłaby przez
 nieograniczone stosowanie tego środka ulec pokusie niefrasob-
 liwego podejmowania coraz bardziej skomplikowanych i trudnych
 interwencji chirurgicznych. Dziś w służbie badań przeprowadza
-się doświadczenia na zwierzętach -- kiedyś nasi pacjenci mogą stać
+się doświadczenia na zwierzętach — kiedyś nasi pacjenci mogą stać
 się bezwiednie osobnikami doświadczalnymi. Jest do pomyślenia,
 że bolesne bodźce, które wskutek swej swoistej natury mogą
 przewyższać wszystkie znane uczucia tego rodzaju, wywołują
 trwałe szkody psychiczne w chorym albo wręcz już w trakcie
 narkozy powodują śmierć wśród nieopisanych męczarni, o czym
 krewni i świat nigdy się nie dowiedzą. Czy to nie nazbyt wysoka
-cena za postęp?"
+cena za postęp?”
 
 Gdyby Flourens miał w tym liście rację, mroczne drogi boskiej
 opatrzności doczekałyby się raz przynajmniej usprawiedliwienia.
 Zwierzę pomściłoby swoje cierpienia na oprawcy: każda operacja
 byłaby wiwisekcją. Zachodziłoby podejrzenie, że zachowujemy
-się wobec ludzi, ba - wobec stworzeń w ogóle -- nie inaczej niż
+się wobec ludzi, ba — wobec stworzeń w ogóle — nie inaczej niż
 wobec samych siebie po przeżytej operacji, ślepi ma mękę.
 Przestrzeń, która dzieli nas od innych, dla poznania jest tym
 samym, co czas upływający między nami a cierpieniem naszej
@@ -906,7 +857,7 @@ technika czerpie siły z tego zaślepienia, jej szansą jest zapomina-
 nie. Utrata pamięci jako transcendentalny warunek nauki. Wszel-
 kie urzeczowienie jest zapomnieniem.
 
-CZYSTE PRZERAZENIE
+[Czyste przerażenie]{.caps-section}
 
 Gapienie się na nieszczęście ma w sobie coś z fascynacji. Ale
 zarazem coś z potajemnej zgody. Nieczyste sumienie społeczne,
@@ -916,18 +867,18 @@ obracają się przeciwko własnym interesom, jako immanentna
 zemsta. Francuskie mieszczaństwo miało w sobie fatalną deter-
 minację, przypominającą, o ironio, heroiczny ideał faszystów:
 cieszyło się triumfem swych pobratymców, którego wyrazem była
-kariera Hitlera, choć triumf ten im samym zagrażał katastrofą - ba,
+kariera Hitlera, choć triumf ten im samym zagrażał katastrofą — ba,
 własną katastrofę uważali za dowód słuszności porządku, jaki
 reprezentowali. Rudymentarną formą takiego zachowania jest
 stosunek wielu bogaczy do zbiednienia, którego wizję przywołują
 w racjonalizacjach oszczędności, ukryta skłonność do tego, by
-- walcząc zajadle o każdy grosz - w danej sytuacji bez walki
+— walcząc zajadle o każdy grosz — w danej sytuacji bez walki
 zrezygnować z całego majątku albo nieodpowiedzialnie nim
 ryzykować. Faszyzm daje im syntezę żądzy panowania i nienawiści
 do samych siebie, a przerażeniu w czystej postaci towarzyszy
 nieodmiennie gest: zawsze tak to sobie wyobrażałem.
 
-ZAINTERESOWANIE CIAŁEM
+[Zainteresowanie ciałem]{.caps-section}
 
 Pod znaną historią Europy przebiega historia podziemna.
 Składa się na nią los stłumionych i wypaczonych instynktow
@@ -941,12 +892,10 @@ Kalectwem dotknięty jest przede wszystkim stosunek do ciała.
 Podział pracy, który po jednej stronie umieścił korzyści, a po
 drugiej pracę, rzucił odium na siłę fizyczną. Im bardziej panującym
 
- 
-
 Notatki i szkice 255
 
-niezbędna była praca innych, tym niżej ją ceniono. Praca - jak
-niewolnik - została naznaczona piętnem. Chrześcijaństwo wy-
+niezbędna była praca innych, tym niżej ją ceniono. Praca — jak
+niewolnik — została naznaczona piętnem. Chrześcijaństwo wy-
 sławiało pracę, za to degradowało ciało jako źródło wszelkiego zła.
 Podczas gdy w Starym Testamencie praca uchodziła za przekleń-
 stwo, sprzymierzone z poganinen Machiavellim chrześcijaństwo
@@ -970,7 +919,7 @@ Los starożytnych niewolników był udziałem wszystkich uciemię-
 istniały dwie rasy, zwierzchników i podwładnych. Emancypacja
 europejskiego indywiduum związana była z ogólną przemianą
 w kulturze: rozdarcie tym silniej zaznaczało się w psychice
-wyemancypowanych, im bardziej słabła presja zewnętrzna. Wyżys-
+wyemancypowanych, im bardziej słabła presja zewnętrzna. Wyzys-
 kiwane ciało miało uchodzić dla podwładnych za zło, a sprawy
 ducha, na które inni mieli czas, za najwyższe dobro. W ten sposób
 Europa uzdolniona została do najwyższych osiągnięć kultural-
@@ -986,19 +935,20 @@ od wolności. Doniosłość tego rozpoznał Nietzsche w swej teorii
 
 256 Dialektyka oswierenig
 
-okrucieństwa, a jeszcze lepiej de Sade; Freudowska teoria narcyz.
+okrucieństwa, a jeszcze lepiej de Sade; Freudowska teoria narcyz-
 mu i popędu śmierci przynosi interpretację psychologiczną.
-Zaprawiona nienawiścią miłość do ciała zaznacza się we wszyst.
+
+Zaprawiona nienawiścią miłość do ciała zaznacza się we wszyst-
 kich nowożytnych kulturach. Ciało, jako podrzędne, zniewolone,
 zostaje raz jeszcze wyszydzone i odepchnięte, a zarazem jako to, co
-zakazane, urzeczowione, wyobcowane - jest obiektem pożądania,
-Dopiero kultura zma ciało jako rzecz, którą można posiadać,
-dopiero w kulturze ciało odróżnia się od ducha - kwintesencji
-mocy i władzy - jako przedmiot, martwa rzecz, corpus. W autode-
+zakazane, urzeczowione, wyobcowane — jest obiektem pożądania,
+Dopiero kultura zna ciało jako rzecz, którą można posiadać,
+dopiero w kulturze ciało odróżnia się od ducha — kwintesencji
+mocy i władzy — jako przedmiot, martwa rzecz, corpus. W autode-
 gradacji człowieka do ciała natura mści się za to, że człowiek
 zdegradował ją do przedmiotu panowania, do surowca. Przymus
 okrucieństwa i destrukcji wyrasta z organicznego stłumienia
-intymnego stosunku do ciała - tak jak zgodnie z genialną intuicją
+intymnego stosunku do ciała — tak jak zgodnie z genialną intuicją
 Freuda wstręt rodzi się wówczas, gdy wraz z postawą wypros-
 towaną, oddaleniem od ziemi, organicznemu stłumieniu ulega
 zmysł powonienia, który przyciągał samca do menstruującej
@@ -1006,8 +956,8 @@ samicy. W cywilizacji zachodniej, a zapewne w ogóle w każdej,
 cielesność staje się tabu, przedmiotem przyciągania i niechęci.
 W Grecji i w czasach feudalnych wśród panów stosunek do ciała
 warunkowało jeszcze to, że osobista sprawność fizyczna była
-jednym z warunków panowania. Dbałość o ciało miała - naiwnie
-- swój społeczny cel. Formuła kalos kagathos była tylko w części
+jednym z warunków panowania. Dbałość o ciało miała — naiwnie
+— swój społeczny cel. Formuła *kalos kagathos* była tylko w części
 pozorem, gdyż w części gimnazjum było elementem podtrzymy-
 wania władzy, przynajmniej jako trening władczej postawy. Gdy
 panowanie w całości przybiera formę burżuazyjną, zapośred-
@@ -1026,10 +976,8 @@ dawną. Odwrót od mechanizacji stał się ozdóbką przemysłowej
 Notatki i szkice 257
 
 kultury masowej, która nie może obejść się bez szlachetnych
-
 gestów. Artyści wbrew woli przyrządzili utracony obraz jedności
 duszy i ciała dla potrzeb reklamy. Pochwała przejawów witalności,
-
 od blond bestii do wyspiarzy z południowych mórz, prowadzi
 nieuchronnie do filmów o egzotycznym wystroju, plakatów
 reklamujących witaminy i kremy do pielęgnacji skóry, w których
@@ -1038,8 +986,8 @@ szlachetny typ człowieka, Wódz i jego drużyna. Faszystowscy
 wodzowie znowu sami biorą do ręki narzędzia mordu, zabijają
 więźniów strzałem z rewolweru i razami pejcza, ale nie dzięki swej
 fizycznej przewadze, tylko dlatego, że owa gigantyczna aparatura
-i jej prawdziwi panowie - którzy ciągle jeszcze sami tego nie robią
-- dostarczają im ofiary racji stanu do piwnic kwatery głównej.
+i jej prawdziwi panowie — którzy ciągle jeszcze sami tego nie robią
+— dostarczają im ofiary racji stanu do piwnic kwatery głównej.
 Korpusu nie da się z powrotem przemienić w ciało. Korpus,
 choćby najbardziej sprawny i wyćwiczony, pozostaje zwłokami.
 Transformacja w martwotę, zapisana w nazwie, była częścią
@@ -1058,7 +1006,7 @@ których pastwę wydany jest każdy, kto nie czuje nad sobą
 ochronnych skrzydeł władzy, kto traci pieniądze i stanowisko,
 wszelkiego rodzaju wilkołaki, wiodące żywot w mroku historii
 i podtrzymujące strach, bez którego niemożliwe byłoby panowanie
-- to ci, u których nienawistna miłość do ciała manifestuje się jawnie
+— to ci, u których nienawistna miłość do ciała manifestuje się jawnie
 i bezpośrednio, którym uraz urzeczowienia każe bezcześcić wszyst-
 ko, czego dotkną, niszczyć wszystko, co zobaczą, w ślepej furii
 powtarzać na żywym obiekcie proces, którego nie mogą cofnąć:
@@ -1066,11 +1014,11 @@ rozdarcie życia na ducha i jego przedmiot. Człowiek nieodparcie
 
 258 Dialektyka oswiecenig
 
-ich pociąga, mordercy chcą zredukować człowieka do cials,
-nikomu i niczemu nie wolno żyć. Taka, niegdyś starannie hodową.:
+ich pociąga, mordercy chcą zredukować człowieka do ciała,
+nikomu i niczemu nie wolno żyć. Taka, niegdyś starannie hodowa-
 na i pielęgnowana przez zwierzchników świeckich i duchowych
 wrogość podwładnych wobec życia, które im zniszczono, życia,
-z którym dziś homoseksualnie i paranoicznie obcują przez morder.-
+z którym dziś homoseksualnie i paranoicznie obcują przez morder-
 czy cios, zawsze była niezbędnym instrumentem sztuki rządzenia.
 Wrogi stosunek zniewolonych do życia jest niewyczerpaną histo-
 ryczną siłą mrocznej strony dziejów. Nawet purytański eksces,
@@ -1080,7 +1028,7 @@ Umiłowanie natury i przeznaczenia w totalitarnej propagandzie
 to jedynie wątła reakcja upozorowana na uwięzienie w ciele, na
 nieudaną cywilizację. Od ciała nie można się uwolnić, więc się je
 wysławia, gdy nie ma się swobody, by je maltretować. „Tragi-
-czny" światopogląd faszystów to ideologiczny wieczór kawalerski
+czny” światopogląd faszystów to ideologiczny wieczór kawalerski
 przed krwawymi godami. Ci, którzy wysławiają ciało, gimnastycy
 i skauci, zawsze mieli pociąg do zabijania, jak miłośnicy przyrody
 do myślistwa. Widzą w ciele jedynie ruchomy mechanizm, części
@@ -1088,14 +1036,14 @@ zginające się w stawach, mięśnie jako wymoszczenie szkieletu.
 Manipulują ciałem, obchodzą się z jego członkami tak, jak gdyby
 były już oddzielone. Żydowska tradycja przechowuje strach przed
 mierzeniem człowieka metrową miarką, ponieważ mierzy sie
-zmarłych - do trumny. W tym właśnie lubują się manipulatorzy
+zmarłych — do trumny. W tym właśnie lubują się manipulatorzy
 ciała. Mierzą innych nieświadomie spojrzeniem fabrykanta tru-
 mien. Zdradzają się dopiero, podając wyniki: mówią o człowieku,
 że jest długi, krótki, tłusty, ciężki. Interesuje ich choroba, przy
 jedzeniu wyglądają już śmierci współbiesiadnika, a przejmowanie
 się zdrowiem bliźnich to jedynie wątła racjonalizacja tego zaintere-
 sowania. Język dotrzymuje im kroku. Zamienia spacer w ruch,
-a potrawy w kalorie - podobnie jak w potocznej angielszczyźnie
+a potrawy w kalorie — podobnie jak w potocznej angielszczyźnie
 i francuszczyźnie to samo słowo oznacza żywy las i drewno.
 Cyframi śmiertelności społeczeństwo degraduje życie do procesu
 chemicznego.
@@ -1115,10 +1063,10 @@ niość, pierwotna jedność, w której nie umie już żyć. Jedność ta jest
 martwa, a przecież wstaje i ożywa. Morderca zatem sprowadza
 wszystko do jednego, sprowadzając wszystko do nicości, ponie-
 waż musi zdławić jedność w samym sobie. Ofiara reprezentuje dlań
-życie, które przetrwało rozdział - to życie zatem ma zostać
+życie, które przetrwało rozdział — to życie zatem ma zostać
 złamane, a uniwersum niechaj wypełni kurz i abstrakcyjna władza.
 
-SPOŁECZENSTWO MASOWE
+[Społeczenstwo masowe]{.caps-section}
 
 Uzupełnieniem kultury gwiazd jest społeczny mechanizm, który
 zrównuje wszystko, co się wyróżnia, gwiazdy są tylko wzorami dla
@@ -1126,7 +1074,7 @@ ogarniającej cały świat konfekcji oraz dla nożyc prawniczej
 i ekonomicznej sprawiedliwości, obcinających ostatnie zwisające
 niteczki.
 
-Dopisek
+[Dopisek]{.addendum}
 
 Pogląd, że niwelacji i standaryzacji ludzi odpowiada z drugiej
 strony spotęgowanie indywidualności w tak zwanych osobowos-
@@ -1146,23 +1094,23 @@ na które akurat padła władza. Nie stanowią bynajmniej wyjątku od
 
 260 Dialektyka oświecenia
 
-zasady rozkładu indywidualności, przeciwnie, dotknięta rozkłą.
+zasady rozkładu indywidualności, przeciwnie, dotknięta rozkła-
 dem indywidualność triumfuje w nich i poniekąd odbiera nagrodę
 za rozkład. Wodzowie stali się dokładnie tym, czym po trosze
-zawsze byli w ciągu całej epoki mieszczańskiej - aktorami
+zawsze byli w ciągu całej epoki mieszczańskiej — aktorami
 grającymi rolę wodzów. Między indywidualnością Bismarcka
 a indywidualnością Hitlera dystans jest nie mniejszy niż między
-prozą Mysli i wspomnień a żargonem Mein Kampf. W walce
-z faszyzmem sprawą nie najmniej ważną jest sprowadzenie napu.
+prozą *Myśli i wspomnień* a żargonem *Mein Kampf*. W walce
+z faszyzmem sprawą nie najmniej ważną jest sprowadzenie napu-
 szonych wizerunków Wodza do rozmiarów ich nicości. Film
 Chaplina utrafił w sedno przynajmniej jeśli chodzi o podobieństwo
 między golarzem z getta a dyktatorem.
 
-SPRZECZNOŚCI
+[Sprzeczności]{.caps-section}
 
 Moralność jako system, z twierdzeniami podstawowymi i wy-
 wiedzionymi, niezłomnie logiczny, niezawodny w zastosowaniu
-do każdego dylematu moralnego - oto czego żąda się od filozofów.
+do każdego dylematu moralnego — oto czego żąda się od filozofów.
 Filozofowie z reguły spełniali te oczekiwania. Nawet jeśli nie
 dostarczali systemu praktycznego, rozbudowanej kazuistyki, to
 z systemu teoretycznego umieli zawsze wywieść posłuszeństwo
@@ -1170,7 +1118,7 @@ wobec zwierzchności. Na ogół, z całym luksusem argumentów
 zróżnicowanej logiki, oglądu i oczywistości, raz jeszcze uzasadniali
 całą skalę wartości, które publiczna praktyka już była usankc-
 jonowała. „Oddawajcie cześć bogom w tradycyjnej rodzimej
-religii" - powiada Epikur !?, a jeszcze Hegel mu wtóruje. Od tych,
+religii” — powiada Epikur^[*Die Nachsokratiker* T. 1. 722 (Opr. Wilhelm Nestle). Jena 1923, s. 195.], a jeszcze Hegel mu wtóruje. Od tych,
 którzy wzdragają się przed takim wyznaniem wiary, tym natar-
 czywiej żąda się podania gotowej zasady ogólnej. Jeśli myślenie nie
 zadowala się prostym usankcjonowaniem panujących reguł, musi
@@ -1181,16 +1129,15 @@ wolisz może, żeby zamiast władzy panował chaos? Krytykujesz
 uniformizację życia i postęp? Mamy wieczorem zapalać świece,
 a nasze miasta wypełniać smród odpadów, jak w średniowieczu?
 
-19 Die Nachsokratiker T. 1. 722 (Opr. Wilhelm Nestle). Jena 1923, s. 195.
-
 Notatki i szkice 261
-Nie podobają ci się rzeźnie - czy społeczeństwo ma odtąd żywić się
+
+Nie podobają ci się rzeźnie — czy społeczeństwo ma odtąd żywić się
 surowymi warzywami? Pozytywna odpowiedź na takie pytania,
 jakkolwiek absurdalna, znajduje posłuch. Polityczny anarchizm,
 rękodzielnicza reakcja kulturalna, radykalny wegetarianizm, niedo-
 rzeczne sekty i partie mają tak zwaną siłę atrakcji. Doktryna musi
 tylko być ogólna, pewna siebie, uniwersalna i imperatywistyczna.
-Nie do zniesienia są próby wyminięcia alternatywy „albo albo",
+Nie do zniesienia są próby wyminięcia alternatywy „albo—albo”,
 nieufność wobec abstrakcyjnej zasady, nieomylność bez doktryny.
 
 Rozmawiają dwaj młodzi ludzie:
@@ -1203,7 +1150,7 @@ lekarz reprezentuje wobec chorego zakład i jego hierarchię. Często
 kusi go, by występować jako administrator śmierci. Staje się
 agentem wielkiego przemysłu wobec konsumentów. Gdy chodzi
 o samochody, to jeszcze pół biedy, ale gdy dobrem, którym się
-zarządza, jest życie, a użytkownicy - pacjentami, nie chciałbym
+zarządza, jest życie, a użytkownicy — pacjentami, nie chciałbym
 znaleźć się w takiej sytuacji. Zawód lekarza domowego był może
 bezpieczniejszy, ale teraz upada.
 
@@ -1221,18 +1168,18 @@ więzienia. Sprawiedliwość jest racjonalna. Nie jestem przeciwko
 racjonalności, chcę tylko rozpoznać, w jakiej postaci występuje.
 
 A: Popadasz w sprzeczność. Sam nieustannie czerpiesz korzyści
-- z istnienia lekarzy i sędziów. Jesteś tak samo winny jak oni. Tyle że
+z istnienia lekarzy i sędziów. Jesteś tak samo winny jak oni. Tyle że
 nie chcesz obarczać się pracą, którą inni wykonują za ciebie. Twoja
 własna egzystencja zakłada zasadę, której chciałbyś się wymknąć.
 
 B: Tego się nie wypieram, ale sprzecznośćć jest tu konieczna.
-. Jest odpowiedzią na obiektywne sprzeczności społeczeństwa. Przy
+Jest odpowiedzią na obiektywne sprzeczności społeczeństwa. Przy
 
 262 Dialektyka oświecenia
 
 tak zróżnicowanym podziale pracy jak dzisiejszy w jakimś miejscu
 może dojść do potworności, za którą winę ponoszą wszyscy. Jeśli
-się rozpowszechni, ba - jeśli choćby drobna część ludzi sobie to
+się rozpowszechni, ba — jeśli choćby drobna część ludzi sobie to
 uświadomi, domy wariatów i zakłady karne mogłyby może stać się
 bardziej ludzkie, a sądy na koniec w ogóle niepotrzebne. Ale nie
 dlatego chcę zostać pisarzem. Chciałbym po prostu jaśniej uprzyto-
@@ -1281,7 +1228,7 @@ i reakcji, w każdym razie rzeczywistości. Ale w dobie radykalnie
 realistycznego wychowania rozmowy stały się rzadsze, a neuro-
 tycznemu B trzeba będzie nadludzkich sił, by nie ozdrowieć.
 
-NOTATKA
+[Notatka]{.caps-section}
 
 Między czterdziestką a pięćdziesiątką ludzie czynią zazwyczaj
 pewne zdumiewające doświadczenie. Odkrywają, że większość
@@ -1291,7 +1238,7 @@ w pracy do tego stopnia, że interes podupada, inny rozbija swoje
 małżeństwo i winy za to bynajmniej nie ponosi żona, trzeci
 dopuszcza się malwersacji. Ale nawet ci, u których nie zachodzą
 tak radykalne wydarzenia, zdradzają oznaki degrengolady. Roz-
-mowa z mimi staje się jałowa, hałaśliwa, bełkotliwa. Przedtem
+mowa z nimi staje się jałowa, hałaśliwa, bełkotliwa. Przedtem
 człowiek znajdował także w innych źródło duchowej inspiracji,
 starzejąc się odnosi wrażenie, że bodaj już tylko on żywi jakieś
 szersze zainteresowania.
@@ -1304,7 +1251,7 @@ tywy młodego człowieka, który styka się z dorosłymi. Czy nie był
 wówczas przekonany, że z tym czy owym nauczycielem, wujami
 i ciotkami, przyjaciółmi rodziców, potem z profesorami na uniwer-
 sytecie albo z szefem coś mie gra? Objawiali jakieś śmieszne,
-zwariowane cechy, albo też przestawanie z mimi było jałowe,
+zwariowane cechy, albo też przestawanie z nimi było jałowe,
 uciążliwe, rozczarowujące.
 
 Wtedy nie zastanawiał się nad tym, traktował niższość dorosłych
@@ -1318,7 +1265,7 @@ męskim prowadzi do kretynizmu. Światowcy nie stanowią tu
 wyjątku. Jak gdyby ludzi za karę, że zdradzili nadzieje młodości
 i dostosowali się do świata, porażała przedwczesna ruina.
 
-Dopisek
+[Dopisek]{.addendum}
 
 Dzisiejszy rozkład indywidualności każe nie tylko traktować tę
 kategorię jako historyczną, ale wzbudza wątpliwości co do jej
@@ -1338,12 +1285,12 @@ staje w złym, nieprzejrzystym związku z istniejącym stanem rzeczy.
 Na najbardziej indywidualne, integralne cechy danego człowieka
 składa się zarazem to, co nie zostało zawłaszczone przez panujący
 system, co szczęśliwie przetrwało, oraz to, co jest znamieniem
-okaleczen, o jakie system przyprawia swoich członków. Po-
+okaleczeń, o jakie system przyprawia swoich członków. Po-
 wtarzają się w nich hipertroficznie zasadnicze cechy systemu:
-w chciwości - trwała własność, w hipochondrii - bezrefleksyjne
+w chciwości — trwała własność, w hipochondrii — bezrefleksyjne
 samozachowanie. Za pomocą tych cech indywiduum stara się
 kurczowo bronić przed przymusami natury i społeczeństwa, przed
-chorobą i bankructwem - ale zarazem cechy te siłą rzeczy
+chorobą i bankructwem — ale zarazem cechy te siłą rzeczy
 przybierają charakter przymusów. W najskrytszych zakamarkach
 swego wnętrza indywiduum styka się z tą samą władzą, przed którą
 ucieka w siebie. Ucieczka staje się tedy beznadziejną chimerą.
@@ -1354,7 +1301,8 @@ i mianują Spitzwega swym klasycznym malarzem.
 
 Notatki i szkice 265
 
-Zatwardziale indywiduum reprezentuje lepszą cząstkę tylko
+
+Zatwardziałe indywiduum reprezentuje lepszą cząstkę tylko
 w stosunku do zatwardziałego społeczeństwa, nie w sensie absolut-
 nym. Indywiduum ucieleśnia hańbę, jaką jest to, co kolektyw
 wciąż wyrządza jednostce, i to, co się stanie, gdy jednostek już nie
@@ -1362,7 +1310,7 @@ będzie. Wyzbyci jaźni entuzjaści nowego porządku są w prostej
 linii następcami melancholijnego aptekarza, namiętnego hodowcy
 róż i politycznego inwalidy z zamierzchłej przeszłości.
 
-FILOZOFIA I PODZIAŁ PRACY
+[Filozofia i podział pracy]{.caps-section}
 
 Miejsce nauki w społecznym podziale pracy łatwo jest rozpo-
 znać. Zadaniem jej jest gromadzić możliwie najwiękesze ilości
@@ -1374,14 +1322,14 @@ w znacznej mierze pod kątem określonych zleceń przemysłowych.
 
 Również historyczne dzieła mają dostarczać materiału. Moż-
 liwości jego wykorzystania szukać należy nie bezpośrednio w prze-
-myśle, ale - pośrednio - w administracji. Już Machiavelli pisał na
+myśle, ale — pośrednio — w administracji. Już Machiavelli pisał na
 użytek książąt i republik, i podobnie dziś pracuje się dla gospodar-
 czych i politycznych komitetów. Historyczna forma stała się przy
 tym przeszkodą, lepiej układać historyczny materiał od razu
 według określonych zadań administracyjnych: manipulacji cenami
 towarów albo nastrojami mas. Prócz administracji i przemys-
 łowych konsorcjów chętnymi klientami są związki zawodowe
-1 partie.
+i partie.
 
 Tak funkcjonującej nauce służy oficjalna filozofia. Jako swego
 rodzaju tayloryzm ducha ma pomagać w udoskonalaniu jego
@@ -1400,7 +1348,7 @@ przestarzali. Tu i ówdzie dołączy do nich jakiś weteran sensualiz-
 mu albo zaprzysięgły personalista. Trzebią z poletka nauki dialek-
 tyczne chwasty, by nie wystrzeliły zanadto w górę.
 
-W przeciwieństwie do swych administratorów filozofia oznaczą
+W przeciwieństwie do swych administratorów filozofia oznacza
 między innymi myślenie, o ile nie kapituluje ono przed panującym
 podziałem pracy i nie pozwala mu narzucać sobie zadań. Istniejący
 stan rzeczy wywiera na człowieka presję nie tylko za posrednict-
@@ -1414,19 +1362,19 @@ jego postaci, do jakiej doprowadziło panowanie. Filozofia umie
 tylko dosłuchać się w nim kłamstwa, tego mianowicie, iż jest on
 nieunikniony. Filozofia, nie ulegając hipnozie przemożnej siły,
 śledzi zasadę podziału pracy we wszystkich zakątkach społecznej
-machiny, której a przeor nie należy ani burzyć, ani pchać na nowe
-tory - należy natomiast jej pojęcie uwolnić od magicznego
+machiny, której *a priori* nie należy ani burzyć, ani pchać na nowe
+tory — należy natomiast jej pojęcie uwolnić od magicznego
 działania, jakie machina ta wywiera. Gdy urzędnicy, których
-przemysł utrzymuje w swych intelektualnych resortach - uniwer-
-sytetach, kościołach i gazetach - domagają się od filozofii de-
+przemysł utrzymuje w swych intelektualnych resortach — uniwer-
+sytetach, kościołach i gazetach — domagają się od filozofii de-
 klaracji zasad, które uprawniałyby ją do przeprowadzania śledzt-
 wa, filozofia popada w śmiertelne zakłopotanie. Nie uznaje
 żadnych abstrakcyjnych norm ani celów, które w przeciwieństwie
 do norm i celów obowiązujących nadawałyby się do zastosowania
-w praktyce. Jej wolność od sugestywnej siły słałws quo polega
+w praktyce. Jej wolność od sugestywnej siły *status quo* polega
 właśnie na tym, że akceptuje mieszczańskie ideały, nie mając dla
-nich zrozumienia - ideały, które głoszone są, choćby w zniekształ-
-conej postaci, przez reprezentantów status gmo, albo które mimo
+nich zrozumienia — ideały, które głoszone są, choćby w zniekształ-
+conej postaci, przez reprezentantów *status quo*, albo które mimo
 wszelkiej manipulacji nadal rozpoznać można jako obiektywny cel
 instytucji technicznych lub kulturalnych. Filozofia wierzy, że
 podział pracy służyć ma ludziom, a postęp prowadzi do wolności.
@@ -1448,7 +1396,7 @@ Oddaje głos przedmiotowi, ale wbrew jego woli; filozofia jest
 głosem sprzeczności, która bez niej nigdy nie stanie się głośna
 i może w milczeniu triumfować.
 
-MYŚL
+[Myśl]{.caps-section}
 
 Owszem, pogląd, że prawda danej teorii to tyle, co jej owoc-
 ność, jest błędny. Niektórzy jednak, jak się zdaje, przyjmują pogląd
@@ -1476,19 +1424,19 @@ zawsze tylko cząstkowa. Najbardziej żałosnym usprawiedliwie-
 
 268 Dialektyka oświecenia
 
-niem, jakie intelektualiści wynaleźli dla oprawców - a pod tym
+niem, jakie intelektualiści wynaleźli dla oprawców — a pod tym
 względem w ostatnim dziesięcioleciu nie można im zarzucić
-opieszałości - jest to, że myśl ofiary, ta myśl, za którą ją
+opieszałości — jest to, że myśl ofiary, ta myśl, za którą ją
 zamordowano, była błędna.
 
-CZŁOWIEK I ZWIERZE
+[Człowiek i zwierze]{.caps-section}
 
 Idea człowieka w dziejach Europy wyraża się w różnicy między
 człowiekiem a zwierzęciem. Bezrozumne zwierzęta są dowodem
-godności człowieka. Opozycję ta wyznawali tak uporczywie
+godności człowieka. Opozycję tę wyznawali tak uporczywie
 i zgodnie wszyscy prekursorzy myśli burżuazyjnej, starożytni
 Żydzi, stoicy i Ojcowie Kościoła, a następnie średniowiecze i czasy
-nowożytne, że - jak skądinąd niewiele idei - weszła ona na trwałe
+nowożytne, że — jak skądinąd niewiele idei — weszła ona na trwałe
 do inwentarza zachodniej antropologii. Uznawana jest i dzisiaj.
 Behawioryści tylko pozornie o niej zapomnieli. Fakt, że stosują do
 ludzi te same formuły i rezultaty, jakie bez żadnych zahamowań
@@ -1511,7 +1459,7 @@ panujące nad jawną stroną historii. Cała ziemia przyświadcza
 chwale człowieka. W czasie wojny i pokoju, na arenie i w rzeźni, od
 powolnej śmierci słonia, którego prymitywne hordy ludzkie
 powalały w ramach pierwotnej gospodarki planowej, aż do
-sprawnego wykorzystywania zwierząt dzisiaj - bezrozumne stwo-
+sprawnego wykorzystywania zwierząt dzisiaj — bezrozumne stwo-
 rzenia zawsze stykały się z rozumem. Ten widoczny proces
 
 Notatki i szkice 269
@@ -1535,7 +1483,7 @@ i rozpłodzie niż o właściwej egzystencji zwierzęcia.
 
 Świat zwierzęcia jest pozbawiony pojęć. Nie ma słowa, które
 w strumieniu zjawisk uchwyciłoby to, co identyczne, w przemianie
-egzemplarzy - ten sam rodzaj, w zmiennych sytuacjach - tę samą
+egzemplarzy — ten sam rodzaj, w zmiennych sytuacjach — tę samą
 rzecz. Jakkolwiek nie brak możliwości rozpoznawania tego, co
 identyczne, identyfikacja ogranicza się do tego, co zostało wy-
 znaczone przez życie. W strumieniu nie ma nic, co byłoby
@@ -1549,7 +1497,7 @@ strachu, niedostatku świadomości szczęścia nie rekompensuje
 nieobecność smutku i bólu. Aby szczęście stało się czymś substan-
 cjalnym, dodając do istnienia śmierć, potrzeba identyfikującej
 pamięci, uśmierzającego poznania, idei religijnej albo filozoficznej,
-krótko mówiąc - pojęcia. Istnieją szczęśliwe zwierzęta, ale jakże
+krótko mówiąc — pojęcia. Istnieją szczęśliwe zwierzęta, ale jakże
 krótki oddech ma to szczęście! Trwanie zwierzęcia, nie przerwane
 wyzwalającą myślą, jest smętne i depresyjne. Aby ujść czczości
 istnienia, niezbędny jest opór, którego kręgosłupem jest język.
@@ -1562,7 +1510,7 @@ bólem a nudą, między odosobnionymi momentami zaspokojonego
 popędu i nieskończonego pożądania, stosuje się dokładnie do
 zwierzęcia, które nie może poznaniem wstrzymać przeznaczenia.
 W duszy zwierzęcia założone są poszczególne uczucia i potrzeby
-człowieka, ba - elementy ducha, ale bez oparcia, jakie daje tylko
+człowieka, ba — elementy ducha, ale bez oparcia, jakie daje tylko
 organizujący rozum. Najlepsze dni upływają w skrzetnej ruchliwo-
 ści jak sen, który zwierzę i tak zaledwie umie odróżnić od jawy. Nie
 zna wyraźnej granicy między zabawą a powagą; szczęśliwego
@@ -1588,20 +1536,17 @@ Ale dla istoty rozumnej troska o nierozumne zwierzę jest
 próżnym zajęciem. Zachodnia cywilizacja pozostawia je kobietom.
 Kobiety nie mają samodzielnego udziału w cnotach, z jakich
 wyrosła ta cywilizacja. Mężczyźnie iść w świat i z życiem się
-zmagać, budować i działać2?, Kobieta nie jest podmiotem. Nie
-produkuje sama, a opiekuje się produkującymi - żywy pomnik
+zmagać, budować i działać^[Por. F. Schiller: *Pieśń o dzwonie* (*przyp. tłum.*).], Kobieta nie jest podmiotem. Nie
+produkuje sama, a opiekuje się produkującymi — żywy pomnik
 dawno minionych czasów zamkniętej gospodarki domowej. Wy-
 muszony przez mężczyznę podział pracy nie był dla niej korzystny.
 
-20 Por. F. Schiller: Pieśń o dzwonie (przyp. tłum ).
-
-Notatki i szkice 27 I
+Notatki i szkice 271
 
 Stała się ucieleśnieniem funkcji biologicznych, wizerunkiem natu-
 ry, której tłamszenie było tytułem do chwały cywilizacji. Bez-
 graniczne panowanie nad naturą, przemienianie kosmosu w nie-
 skończony rewir łowiecki było marzeniem tysiącleci. Do tej miary
-
 przykrojona była idea człowieka w społeczeństwie mężczyzn. Na
 tym polegał sens rozumu, którym człowiek się szczycił. Kobieta
 była mniejsza i słabsza, między nią a mężczyzną zachodziła różnica,
@@ -1612,37 +1557,34 @@ natury, biologiczna niższość pozostaje stygmatem, naturalna sła-
 bość pozostaje piętnem prowokującym do użycia przemocy.
 Kościół, który w toku historii nie pominął bodaj żadnej okazji, by
 wypowiedzieć się miarodajnie w kwestii popularnych instytucji
-- jak niewolnictwo, krucjaty czy zwykłe pogromy - mimo Ave
+— jak niewolnictwo, krucjaty czy zwykłe pogromy — mimo *Ave*
 przyłączył się przecież do Platońskiej oceny kobiety. Obraz
 bolesnej Matki Bożej był koncesją na rzecz pozostałości matriar-
 chatu. Obraz ten, który miał wyzwolić kobietę ze stanu niższości,
 służył zresztą kościołowi również do usankcjonowania tejże niż-
-szości. „Wystarczy - woła prawowity syn kościoła, de Maistre
-- w pewnej mierze zlikwidować wpływ boskiego prawa w chrześ-
-cijańskim kraju, ba - wystarczy wpływ ten osłabić, utrzymując
+szości. „Wystarczy — woła prawowity syn kościoła, de Maistre
+— w pewnej mierze zlikwidować wpływ boskiego prawa w chrześ-
+cijańskim kraju, ba — wystarczy wpływ ten osłabić, utrzymując
 swobodę, jaka wynika zeń dla kobiety, a ujrzymy wkrótce jak
 swoboda ta, sama w sobie szlachetna i wzruszająca, rychło wyradza
 się w bezwstyd. Stałyby się posępnymi narzędziami powszechnego
 upadku, który w krótkim czasie poraziłby żywotne części państwa.
 Upadek przerodziłby się w zgniliznę i gwałtownym rozkładem
-szerzyłby hańbę i zgrozę"2!. Terror procesów czarownic, jaki
+szerzyłby hańbę i zgrozę”^[J.M. de Maistre, *Eclaircissement sur les Sacrifices*. *Oeuvres*. T. V. Lyon 1892. s. 322 i nast.]. Terror procesów czarownic, jaki
 sprzymierzone gangi feudalne w obliczu niebezpieczeństwa za-
 stosowały wobec ludności, był zarazem triumfem i potwier-
 dzeniem władzy mężczyzn, która zwyciężyła prehistoryczną wła-
 dzę matriarchatu i stadium mimetyczne. Płonące stosy były
 pogańskimi fajerwerkami kościoła, natura w formie rozumu
 
-21 J.M. de Maistre, Eclaircissement sur les Sacrifices. Oenxvres. T. V. Lyon
-1892. S. 322 i nast.
-
 272 Dialektyka oświecenia
 
 służącego samozachowaniu świętowała ku chwale panowania nad
 naturą.
 
-Burżuazja zbierała źniwo kobiecej cnoty i obyczajności: reakcje
-upozorowane matriarchalnego buntu. Sama kobieta - i spośród
-całej wyzyskiwanej natury tylko ona - dopuszczona została do
+Burżuazja zbierała żniwo kobiecej cnoty i obyczajności: reakcje
+upozorowane matriarchalnego buntu. Sama kobieta — i spośród
+całej wyzyskiwanej natury tylko ona — dopuszczona została do
 świata panowania, ale w ułomnej postaci. Kobieta, ujarzmiona,
 przez spontaniczne podporządkowanie się podsuwa zwycięzcy
 obraz jego zwycięstwa: porażkę przedstawia jako oddanie, rozpacz
@@ -1672,8 +1614,8 @@ heterycznego rodowodu, stały się środkami pielęgnacji skóry,
 a kostium kąpielowy atrybutem higieny. Nie ma ucieczki. Miłość
 dostaje stempel znaku fabrycznego, już z tej prostej racji, że
 realizuje się w szczelnie zorganizowanym systemie panowania.
-W Niemczech nawet promiskuityzm - jak kiedyś surowe obyczaje
-- jest dowodem posłuszeństwa wobec istniejącego stanu rzeczy,
+W Niemczech nawet promiskuityzm — jak kiedyś surowe obyczaje
+— jest dowodem posłuszeństwa wobec istniejącego stanu rzeczy,
 
 Notatki i szkice 273
 
@@ -1696,9 +1638,9 @@ w zuniformizowanej buzi. Na tle masowej produkcji złorzeczenia
 megiery, która w każdym razie zachowała swą odrębną twarz, stają
 się znakiem człowieczeństwa, brzydota staje się śladem ducha. Jeśli
 w minionych stuleciach dziewczyna wyrażała swoje podporzad-
-kowanie melancholijnymi rysami i miłosnym oddaniem - jako
+kowanie melancholijnymi rysami i miłosnym oddaniem — jako
 wyobcowany obraz natury, jako estetyczny przedmiot kulturalny
-- to wszak megiera na koniec odkryła nowe powołanie kobiety.
+— to wszak megiera na koniec odkryła nowe powołanie kobiety.
 Niczym społeczna hiena aktywnie krąży wokół kulturalnych
 celów. Jej ambicja dąży do odznaczeń i rozgłosu, ale ponieważ nie
 orientuje się jeszcze dostatecznie w męskiej kulturze, przy cier-
@@ -1708,59 +1650,57 @@ samotna szuka schronienia w konglomeratach nauki i magii,
 poronionych płodach ideałów tajnego radcy i skandynawskiej
 wieszczki. Czuje fatalną siłę, ciągnącą ją ku nieszczęściu. Resztki
 kobiecej opozycji wobec ducha męskiego społeczeństwa marnieją
-w bagnie drobnych gangsterów, konwentykli i hobbies, przybierają
+w bagnie drobnych gangsterów, konwentykli i *hobbies*, przybierają
 perwersyjnie agresywną formę w działalności społecznej i w teozo-
 ficznych bredniach, dają upust drobnym urazom w dobroczynno-
 ści i Christian Science. W owym bagienku wyrazem solidarności ze
 stworzeniem jest nie tyle liga ochrony zwierząt, ile neobuddyzm
-1 pekińczyki, których zniekształcone pyszczki dziś, tak jak na
+i pekińczyki, których zniekształcone pyszczki dziś, tak jak na
 
 274 Dialektyka oświeceni,
 
 dawnych obrazach, ewokują oblicze wyrugowanego przez postęp
-błazna. Psie mordki, tak jak niezdarne skoki garbusa, nadaj
+błazna. Psie mordki, tak jak niezdarne skoki garbusa, nadal
 reprezentują okaleczoną naturę, podczas gdy masowy przemysł
 i masowa kultura nauczyły się już przyrządzać ciała zwierząt
-hodowlanych i ludzi zgodnie z naukowymi metodami. Zgłajch.
-szaltowane masy, zaciekle współdziałając przy własnej transfor.
+hodowlanych i ludzi zgodnie z naukowymi metodami. Zglajch-
+szaltowane masy, zaciekle współdziałając przy własnej transfor-
 macji, zarazem nie zdają sobie z niej sprawy, i to do tego stopnia, że
 już nie potrzebują jej symbolicznego obrazu. Wśród drobnych
-wiadomości na drugiej i trzeciej stronie gazet - których pierwszą
+wiadomości na drugiej i trzeciej stronie gazet — których pierwszą
 stronę zapełniają straszliwe doniesienia o głośnych wyczynach
-ludzi - można niekiedy przeczytać o pożarze w cyrku albo
+ludzi — można niekiedy przeczytać o pożarze w cyrku albo
 o przypadkach zatrucia zwierząt. Przypomina się o zwierzętach,
 gdy ostatnie ich egzemplarze, towarzysze średniowiecznych błaz-
 nów, giną w okropnych męczarniach, i traktuje się to jako stratę
 dla właściciela, który w dobie budowli z betonu nie umiał
 zapewnić wiernym sługom ochrony przed ogniem. Wielka żyrafa
-i biały słoń to „dziwolągi", po których nawet jako tako rozgar-
+i biały słoń to „dziwolągi”, po których nawet jako tako rozgar-
 nięty uczniak nie będzie płakał. W Afryce, na ostatnim kontynen.-
 cie, który daremnie chciał chronić nieszczęsne stada przed cywiliza-
 cją, stanowią w czasie ostatniej wojny przeszkodę przy lądowaniu
 bombowców. Ulegają likwidacji. Na zracjonalizowanej ziemi
 estetyczne odzwierciedlenie nie jest już konieczne. Eliminacja
 demonów odbywa się przez bezpośrednie formowanie człowieka.
-Panowanie nie potrzebuje już numinozalnych wizerunków, produ:-
+Panowanie nie potrzebuje już numinozalnych wizerunków, produ-
 kuje je przemysłowo i poprzez nie tym niezawodniej wnika
 w ludzi.
 
 Zniekształcenie, które należy do istoty każdego dzieła sztuki,
 tak jak do kobiecej piękności należy okaleczenie, wystawiana na
-pokaz rana, w której rozpoznaje się ujarzmiona natura - owo
+pokaz rana, w której rozpoznaje się ujarzmiona natura — owo
 zniekształcenie praktykowane jest też przez faszyzm, i to nie
 w sferze pozoru. Zostaje skazańcom bezpośrednio zadane. W tym
 społeczeństwie nie ma już dziedziny, gdzie panowanie deklarowa-
-łoby się jako sprzeczność - tak jak w sztuce; żadne podwojenie nie
+łoby się jako sprzeczność — tak jak w sztuce; żadne podwojenie nie
 wyraża już wypaczenia. Ekspresja taka była kiedyś nie tylko
 piękna, była także myślą, duchem i językiem. Dzisiaj język oblicza,
-oznacza, zdradza, popycha do morderstwa - ale nie wyraża.
+oznacza, zdradza, popycha do morderstwa — ale nie wyraża.
 
-tatki i szki
 Notatki i szkice 275
 
 Przemysł kulturalny szuka sobie miar i wzorców poza sobą, tak jak
 nauka: w faktach. Gwiazdy filmowe to eksperci, ich osiągnięcia są
-
 protokołem naturalnego zachowania, klasyfikacją odruchów; reży-
 serzy i pisarczykowie tworzą modele zachowań adaptacyjnych.
 Precyzyjna robota przemysłu kulturalnego wyklucza zniekszał-
@@ -1768,9 +1708,9 @@ cenie jako błąd, przypadek, niepożądany wtręt subiektywności
 i naturalności. Każde odstępstwo musi się wylegitymować prak-
 tycznym powodem, który włącza je w system rozumu. Dopiero
 wtedy będzie mu wybaczone. Natura nie odzwierciedla już pano-
-wania - tym samym zanika zarówno tragizm, jak komizm, władcy
+wania — tym samym zanika zarówno tragizm, jak komizm, władcy
 wykazują powagę dopóty, dopóki muszą przezwyciężać opór,
-a humor - dopóki widzą rozpacz. Duchowa przyjemność sprzężo-
+a humor — dopóki widzą rozpacz. Duchowa przyjemność sprzężo-
 na była z cierpieniem, przedstawionym symbolicznie, tymczasem
 dzisiaj władcy bawią się grozą jako taką. Wzniosła miłość wiązała
 się z siłą, przejawiającą się w słabości, z pięknością kobiety, dziś
@@ -1781,13 +1721,13 @@ swego męża. Nie porywa go do ekscesów. Adoracja potęguje
 jedynie jego miłość własną. Świat i jego cele potrzebują mężczyzny
 w całości. Nie wolno mu sobą nikogo obdarzać, cały ma tkwić
 wewnątrz systemu. Natura zaś jest wobec praktyki tym, co
-znajduje się na zewnątrz i pod spodem, jest obiektem - jak określa
+znajduje się na zewnątrz i pod spodem, jest obiektem — jak określa
 kobietę żołnierska gwara. Dziś uczucie pozostaje przy władzy
 odnoszącej się do siebie jako władza. Mężczyzna składa broń przed
 mężczyzną, chłodnym i niewzruszonym, tak jak przedtem czyniła
 to kobieta. W obliczu panowania mężczyzna staje się kobietą.
 W faszystowskim kolektywie, w drużynach i na obozach pracy
-każdy od okresu najwraźliwszej młodości jest więźniem pojedyn-
+każdy od okresu najwrażliwszej młodości jest więźniem pojedyn-
 czej celi, są to hodowle homoseksualizmu. Zwierzę może jeszcze
 mieć rysy szlachetne. Wyrazista twarz ludzka, która zawstydzająco
 przypomina, że wywodzimy się z natury i jej ostatecznie pod-
@@ -1798,21 +1738,21 @@ nizmu. Jeśli królowie przemysłu i faszystowscy wodzowie mają
 
 276 Dialektyka oświecenia
 
-wokół siebie zwierzęta, nie są to pinczery, ale dogi i Iwiątka. Mają
-zaprawiać władzę postrachem, jaki wzbudzają. Faszystowski rzeź.
+wokół siebie zwierzęta, nie są to pinczery, ale dogi i lwiątka. Mają
+zaprawiać władzę postrachem, jaki wzbudzają. Faszystowski rzeź-
 nik jest tak ślepy wobec natury, że zwierzę stanowi w jego oczach
 tylko środek poniżania ludzi. Na nim dopiero sprawdza się to, co
-Nietzsche niesłusznie zarzucał Schopenhauerowi i Wolterowi - że
+Nietzsche niesłusznie zarzucał Schopenhauerowi i Wolterowi — że
 umieli „nienawiść swą do pewnych rzeczy i ludzi przebierać
-w płaszczyk miłosierdzia dla zwierząt" 22. Przesłanką faszystow-
+w płaszczyk miłosierdzia dla zwierząt”^[*Wiedza radosna*. wyd. cyt., s. 136.]. Przesłanką faszystow-
 skiego kultu zwierząt, natury i dzieci jest wola prześladowania.
 Niedbałe głaskanie dzieci po główkach i zwierząt po grzbiecie
 znaczy: ta ręka może zniszczyć. Pieści czule jedną ofiarę, zanim
-powali inną, a wybór nie ma nic wspólnego z przewinami ofiary,
+powali inną, a wybór nie ma nic wspólnego z przewinami ofiary.
 Pieszczota pokazuje, że wobec władzy wszyscy są równi, że nie
 mają żadnej własnej istoty. Dla krwawych celów władzy stworze-
 nie jest tylko materiałem. Tak postępuje Wódz z niewinnymi
-- wyróżnia bez zasług i niezasłużenie zabija. Natura to gówno.
+— wyróżnia bez zasług i niezasłużenie zabija. Natura to gówno.
 Jedynie perfidna siła, która zdoła przeżyć, ma rację. Siła ta jest
 znowu wyłącznie naturą, cała wymyślna machina nowoczesnego
 społeczeństwa przemysłowego jest tylko naturą, która sama się
@@ -1829,29 +1769,26 @@ szy refleksję znowu stali się najprzebieglejszymi zwierzętami, które
 ujarzmiają resztę uniwersum, jeżeli akurat sami nie niszczą się
 wzajemnie, zwracanie uwagi na zwierzęta uchodzi już nie za czysty
 sentymentalizm, lecz za zdradę sprawy postępu. W duchu dobrej
-reakcyjnej tradycji Góring połączył ochronę zwierząt z nienawiścią
+reakcyjnej tradycji Göring połączył ochronę zwierząt z nienawiścią
 rasową, luterańsko-niemieckie upodobanie do radosnych mordów
 z obejściem arystokratycznego myśliwego. Fronty są jasno zakreś-
-lone; kto walczy z Hearstem i Góringiem, trzyma z Pawłowem
-
-22. Wiedza radosna. wyd. cyt., s. 136.
+lone; kto walczy z Hearstem i Göringiem, trzyma z Pawłowem
 
 Notatki i szkice 277
 
 i wiwisekcją, kto się waha, jest pod obstrzałem obu stron.
 Powinien nabrać rozumu. Wybór jest wyznaczony i nieuchronny.
-
 Kto chce zmienić świat, nie może w żadnym wypadku wylądować
 w owym bagienku drobnych gangsterów, gdzie obok wieszczków
 taplają się polityczni sekciarze, utopiści i anarchiści. Intelektualista,
 którego myśl nie sprzymierzy się z żadną historycznie skuteczną
 siłą, nie poszybuje ku żadnej ze skrajności, do których zdąża
 społeczeństwo przemysłowe, utraci substancję, jego myśl po-
-zbawiona zostanie podłoża*. Rzeczywistość jest rozumna. Kto
-w niej nie uczestniczy - powiadają nawet postępowcy - nie zdoła
+zbawiona zostanie podłoża^[W wersji z 1944: „… podłoża, co do tego zgadzają się ze sobą Heidegger i Lukács” (*przyp. tłum.*).]. Rzeczywistość jest rozumna. Kto
+w niej nie uczestniczy — powiadają nawet postępowcy — nie zdoła
 nikomu pomóc. Wszystko zależy od społeczeństwa, nawet najściś-
 lejsze myślenie musi zaciągnąć się pod sztandar potężnych tenden-
-cji społecznych - bez tego pozostanie kapryśną zachcianką. To
+cji społecznych — bez tego pozostanie kapryśną zachcianką. To
 przeświadczenie łączy wszystkich bohaterów rzeczywistości; uzna-
 je społeczeństwo ludzkie jako masowy gang w obrębie natury.
 Słowo, które nie służy celom którejś z jego branż, wzbudza
@@ -1862,25 +1799,21 @@ Gdy słowo to na chwilę zagłuszy ich tuby, rozbrzmiewa stłumiona
 przez nie zgroza, która żyje w każdym zwierzęciu tak jak w ich
 własnych, zracjonalizowanych i kalekich sercach. Tendencje, które
 słowo to ujawnia, są wszechobecne i ślepe. Natura sama w sobie
-nie jest ani dobra - jak chcieli dawni romantycy, ani szlachetna
-- jak chcą nowi. Jako wzór i cel natura jest przeciwieństwem
+nie jest ani dobra — jak chcieli dawni romantycy, ani szlachetna
+— jak chcą nowi. Jako wzór i cel natura jest przeciwieństwem
 ducha, kłamstwem i bestialstwem, dopiero gdy zostanie rozpo-
 znana jako natura, staje się dążeniem istnienia do pokoju, staje się
 świadomością, która od początku inspirowała nieomylny opór
 wobec Wodza i kolektywu. Dla panującej praktyki i jej nieuchron-
 nych alternatyw nie natura jest niebezpieczna, praktyka ta bowiem
-
-pokrywa się z naturą - niebezpieczna jest uwewnętrzniona pamięć
+pokrywa się z naturą — niebezpieczna jest uwewnętrzniona pamięć
 natury.
-
-* W wersji z 1944: „... podłoża, co do tego zgadzają się ze sobą
-Heidegger i Lukacs" (przyp. Hum).
 
 278 Dialektyka oświecenia
 
-PROPAGANDA
+[Propaganda]{.caps-section}
 
-Propaganda służyć ma zmienianiu świata - co za nonsens!
+Propaganda służyć ma zmienianiu świata — co za nonsens!
 Propaganda czyni z języka instrument, dźwignię, maszynę. Propa-
 ganda utrzymuje ustrój człowieka w tym stanie, do jakiego
 doprowadziła go społeczna niesprawiedliwość, ponieważ wprawia
@@ -1898,7 +1831,7 @@ wiodącym do celu, jakim jest pozyskanie zwolenników, mówiąc
 prawdę, propaganda ją fałszuje. Toteż prawdziwy opór nie zna
 propagandy. Propaganda jest wrogiem ludzi. Wedle jej założeń
 zasada, iż polityka wyrastać ma ze wspólnych przekonań, to
-jedynie faron de parler.
+jedynie *façon de parler*.
 
 W społeczeństwie, które przezornie zakreśla granice grożącemu
 nadmiarowi, wszystko, co polecane jest przez innych, zasługuje na
@@ -1916,12 +1849,11 @@ czech przywódców robotniczych faszyzm ograbił nawet z prawdy
 ich działań, ponieważ faszyzm przez selektywną zemstę zadaje
 kłam solidarności. Gdy w obozie zamęczony zostaje intelektualis-
 
-Notatki i szkice
+Notatki i szkice 279
 
-279
-ta, robotnicy na zewnatrz nmie muszą z tej racji mieć się gorzej.
-Faszyzm nie był tym samym dla Ossietzky'ego i dla proletariatu.
-Propaganda oszukała i Ossietzky ego, i proletariat.
+ta, robotnicy na zewnatrz nie muszą z tej racji mieć się gorzej.
+Faszyzm nie był tym samym dla Ossietzky’ego i dla proletariatu.
+Propaganda oszukała i Ossietzky’ego, i proletariat.
 
 Podkreślmy: podejrzane jest nie przedstawianie rzeczywistości
 jako piekła, ale rutynowe wezwania do wyłamania się z rzeczywis-
@@ -1930,17 +1862,17 @@ do tak zwanych mas, ani do jednostki, która jest bezsilna, ale raczej
 do urojonego świadka, któremu pozostawiamy przesłanie, by nie
 przepadło wraz z nami.
 
-PRZYCZYNEK DO GENEZY GLUPOTY
+[Przyczynek do genezy głupoty]{.caps-section}
 
 Znakiem firmowym inteligencji jest czułek ślimaka, który
-„widzi macając", a - jeśli wierzyć Mefistofelesowi2 - służy też
+„widzi macając”, a — jeśli wierzyć Mefistofelesowi^[J.W. Goethe, *Faust. Część pierwsza*. 4068.] - służy też
 jako organ powonienia. Przy napotkaniu przeszkody czułek
 zostaje natychmiast wciągnięty ochronnie do wewnątrz, na powrót
 jednoczy się z całością i dopiero po jakimś czasie odważa się
 ostrożnie znowu wychynąć jako samoistny element. Gdy niebez-
 pieczeństwo nadal istnieje, znowu się chowa, a odstęp czasu, po
 jakim ponowi próbę, rośnie. Życie duchowe w swych początkach
-jest nieskończenie delikatne. Zmysł ślimaka uzałeżniony jest od
+jest nieskończenie delikatne. Zmysł ślimaka uzależniony jest od
 mięśnia, a mięśnie słabną, gdy zakłócona zostaje ich gra. Fizyczna
 kontuzja paraliżuje ciało, strach paraliżuje ducha. U początków nie
 można jeszcze oddzielić jednego od drugiego.
@@ -1955,8 +1887,6 @@ Zdławienie możliwości przez bezpośredni opór otaczającej natury
 odbywa się dalej wewnątrz, organy porażone strachem marnieją.
 W każdym ciekawym spojrzeniu zwierzęcia świta nowa postać
 życia, jaka mogłaby się wyłonić z ukształtowanego już gatunku, do
-
-3 JW. Goethe, Faust. Część pierwsza. 4068.
 
 280 Dialektyka oświecenia
 
@@ -1978,7 +1908,7 @@ zahamowania miast wzmocnienia. Wraz z zahamowaniem rozpo-
 czyna się daremne powtarzanie niezorganizowanych i nieudolnych
 prób. Nie kończące się pytania dziecka są już znakiem tajemnego
 bólu, pierwszego pytania, na które dziecko nie znalazło od-
-powiedzi i którego nie umie zadać we właściwej formie.24
+powiedzi i którego nie umie zadać we właściwej formie.^[Por. K. Landauer: *Intelligenz und Dummheit*. W: *Das Psychoanalytische Volksbuch*. Bern 1939, s. 172.]
 Powtarzanie przypomina chęć zabawy, tak jak gdy pies w nieskoń-
 czoność skacze na drzwi, których nie umie otworzyć, a wreszcie
 rezygnuje, jeśli klamka jest zbyt wysoko, poniekąd idzie za głosem
@@ -1986,24 +1916,20 @@ beznadziejnego przymusu; tak jak gdy lew w nieskończoność
 przemierza klatkę, a neurotyk powtarza reakcję obronną, która raz
 już okazała się daremna. Jeżeli powtórzenia u dziecka zostają
 sparaliżowane albo jeżeli hamulec zadziałał zbyt brutalnie, uwaga
-może zwrócić się w innym kierunku, dziecko jest - jak to się mówi
-- bogatsze w doświadczenie, ale w miejscu, gdzie pragnienie
+może zwrócić się w innym kierunku, dziecko jest — jak to się mówi
+— bogatsze w doświadczenie, ale w miejscu, gdzie pragnienie
 zostało porażone, pozostaje niedostrzegalna blizna, zgrubienie,
 plamka, która nie odbiera bodźców. Takie blizny powodują
 deformacje. Mogą kreować charaktery, twarde i niezłomne, mogą
-ogłupiać - w sensie patologicznego defektu, ślepoty i bezsilności,
+ogłupiać — w sensie patologicznego defektu, ślepoty i bezsilności,
 gdy utrzymują się w stanie stagnacji, w sensie złości, uporu
 i fanatyzmu, gdy tworzą wewnątrz rakowaty guz. Dobra wola staje
-
-24 Por. K. Landauer: Intelligenz und Dummheit. W: Das Psychoanalytische
-Volksbuch. Bern 1939, s. 172.
 
 Notatki i szkice 281
 
 się wskutek zadanego gwałtu złą wołą. I nie tylko zakazane
 pytanie, także ukarane naśladownictwo, wzbroniony płacz, wzbro-
-
-niona ryzykowna zabawa mogą poodować takie blizny. Podobnie
+niona ryzykowna zabawa mogą powodować takie blizny. Podobnie
 jak gatunki zwierząt, tak też duchowe stadia w obrębie gatunku
 ludzkiego, a nawet ślepe miejsca u pojedynczego indywiduum
 oznaczają stacje, gdzie zgaszono nadzieję, stacje skamienienia,
