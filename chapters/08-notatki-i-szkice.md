@@ -144,7 +144,7 @@ dotrzymuje kroku pochodowi życia społecznego. Jakoż ludzi tych
 czekał los szaleńców. Faktycznie przypominali Jana Chrzciciela,
 który „miał na sobie odzienie z sierści wielbłądziej i pas
 skórzany wokół bioder swoich, i jadał szarańczę i miód
-leśny”^[Mk. 1, 6.]. „Cynicy - mówi Hegel^[G.W.F. Hegel,
+leśny”^[Mk. 1, 6.]. „Cynicy — mówi Hegel^[G.W.F. Hegel,
 *Vorlesungen über die Geschichte der Philosophie. 2. Band*. W:
 *Werke*, wyd. cyt., t. 14, s. 159 i nast.] — mają niewielkie
 wykształcenie filozoficzne i nigdy nie stworzyli systemu, nauki;
@@ -1762,7 +1762,7 @@ by nie przepadło wraz z nami.
 
 Znakiem firmowym inteligencji jest czułek ślimaka, który „widzi
 macając”, a — jeśli wierzyć Mefistofelesowi^[J.W. Goethe, *Faust.
-Część pierwsza*. 4068.] - służy też jako organ powonienia. Przy
+Część pierwsza*. 4068.] — służy też jako organ powonienia. Przy
 napotkaniu przeszkody czułek zostaje natychmiast wciągnięty
 ochronnie do wewnątrz, na powrót jednoczy się z całością i
 dopiero po jakimś czasie odważa się ostrożnie znowu wychynąć jako
