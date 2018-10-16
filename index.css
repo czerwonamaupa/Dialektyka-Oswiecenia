@@ -205,3 +205,6 @@ span.normal
 
 li > p
 { text-indent: 0; }
+
+sup
+{ line-height: 0; }
