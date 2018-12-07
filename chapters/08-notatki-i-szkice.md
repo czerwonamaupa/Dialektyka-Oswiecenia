@@ -1,6 +1,6 @@
 # Notatki i szkice #
 
-[Przeciwko dobrze zorientowanym]{.caps-section}
+## Przeciwko dobrze zorientowanym ##{.caps-section}
 
 Czasy hitlerowskie pouczyły nas między innymi o głupocie bystrych
 umysłów. Ileż to rzeczowych argumentów przytaczali Żydzi,
@@ -71,7 +71,7 @@ zwłaszcza niezdolność dostrzegania stron negatywnych i
 uwzględniania ich w ocenie sytuacji, także subiektywnie popycha
 ich do katastrofy, której w skrytości zawsze oczekiwali.
 
-[Dwa światy]{.caps-section}
+## Dwa światy ##{.caps-section}
 
 Tu, w tym kraju, nie ma żadnej różnicy między losem ekonomicznym
 a człowiekiem. Człowiek to tyle, co jego majątek, dochody,
@@ -92,15 +92,19 @@ kapitalistycznej gospodarce. Ich los, choćby najsmutniejszy, nie
 jest dla nich czymś zewnętrznym — uznają go. Chińczyk, żegnając
 się,
 
-<p class="double-quote">Rzekł schrypniętym głosem: O przyjacielu,  
+:::{.double-quote}
+Rzekł schrypniętym głosem: O przyjacielu,  
 Szczęście nie uśmiechnęło się do mnie na tym świecie.  
 Dokąd idę? Wędruję w góry,  
-Poszukam spokoju dla mego samotnego serca. </p>
+Poszukam spokoju dla mego samotnego serca.
+:::
 
-<p class="quote">Amerykanin powiada: *I am a failure.  
-And that is that.*</p>
+:::{.quote}
+Amerykanin powiada: *I am a failure.  
+And that is that.*
+:::
 
-[Przemiana idei w panowanie]{.caps-section}
+## Przemiana idei w panowanie ##{.caps-section}
 
 Z najdawniejszej egzotycznej historii wyłaniają się niekiedy
 tendencje historii najnowszej i najbliższej, i wskutek oddalenia
@@ -224,7 +228,7 @@ materializm. Historia owych dawnych religii i szkół, jak historia
 nowoczesnych partii i rewolucji poucza, że ceną przeżycia jest
 współdziałanie w praktyce, przemiana idei w panowanie.
 
-[Przyczynek do teorii duchów]{.caps-section}
+## Przyczynek do teorii duchów ##{.caps-section}
 
 Teoria Freuda, że wiara w duchy bierze się ze złych myśli o
 zmarłych, z pamięci o formułowanych kiedyś pod ich adresem życzeń
@@ -293,7 +297,7 @@ dawnych Żydów uchodziło za najgorsze przekleństwo: obyś był
 zapomniany. Ludzie zapominają siebie samych — i rozpacz z tego
 powodu wyładowują na zmarłych.
 
-[Quand même]{.caps-section}
+## Quand même ##{.caps-section}
 
 Do przezwyciężenia własnego bezwładu, do produkcji dzieł
 materialnych i duchowych skłoniła ludzi presja zewnętrzna. W tej
@@ -330,7 +334,7 @@ barbarzyństwem albo szukać schronienia w kręgach piekła. Istnieje
 jeszcze inna możliwość: drwić sobie z logiki, która zwraca się
 przeciw ludzkości.
 
-[Psychologia zwierząt]{.caps-section}
+## Psychologia zwierząt ##{.caps-section}
 
 Na skraju autostrady stoi wielki pies. Jeżeli ufnie pójdzie
 dalej, wpadnie pod samochód. Łagodny wyraz pyska świadczy o tym,
@@ -339,7 +343,7 @@ nikt nie czyni krzywdy. Ale czy mieszczańscy synkowie, którym
 nikt nie czyni krzywdy, mają łagodny wyraz twarzy? Opiekowano się
 nimi nie gorzej niż psem, który teraz wpada pod samochód.
 
-[Dedykowane Wolterowi]{.caps-section}
+## Dedykowane Wolterowi ##{.caps-section}
 
 Twój rozum jest jednostronny — szepcze jednostronny rozum —
 niesprawiedliwie potraktowałeś władzę. Patetycznie, płaczliwie,
@@ -401,7 +405,7 @@ Modły do słońca są bałwochwalstwem. Dopiero w spojrzeniu na
 uschnięte drzewo żyje przeczucie majestatu, którego promienie
 rozjaśniają świat, a nie palą.
 
-[Klasyfikacja]{.caps-section}
+## Klasyfikacja ##{.caps-section}
 
 Ogólne pojęcia, ukute przez poszczególne nauki w drodze
 abstrakcji albo aksjomatycznie, są środkiem przedstawiania, tak
@@ -420,7 +424,7 @@ daremną i kompulsywną litanię niż słowo zbawienia. Klasyfikacja
 jest warunkiem poznania, a nie poznaniem samym, i poznanie wciąż
 na nowo rozbija klasyfikację.
 
-[Lawina]{.caps-section}
+## Lawina ##{.caps-section}
 
 Współcześnie nie dokonują się żadne zwroty. Zwrot oznacza zawsze
 obrót ku lepszemu. Gdy zaś w czasach takich jak dzisiejsze
@@ -463,7 +467,7 @@ Zasadą filozofii liberalnej było „zarówno…, jak…”. Dziś wydaje
 się obowiązywać zasada „albo…, albo…”, i to tak, jak gdyby waga
 przechyliła się już na tę złą stronę.
 
-[Izolacja przez komunikację]{.caps-section}
+## Izolacja przez komunikację ##{.caps-section}
 
 Medium komunikacji izoluje — dotyczy to nie tylko dziedziny
 duchowej. Załgany głos spikera w radiu utrwala się w umyśle jako
@@ -493,7 +497,7 @@ kategorii cen, mogą stwierdzić, że wraz z rosnącą izolacją
 upodobniają się wzajem do siebie. Komunikacja powoduje
 upodobnienie ludzi przez ich odosobnienie.
 
-[Przyczynek do krytyki filozofii dziejów]{.caps-section}
+## Przyczynek do krytyki filozofii dziejów ##{.caps-section}
 
 Słyszy się, że gatunek ludzki jest wybrykiem historii naturalnej,
 ubocznym i chybionym produktem hipertrofii mózgu. Otóż nie.
@@ -612,7 +616,7 @@ jaki zaznacza się w tym popędzie i prześwieca w myślącej pamięci
 człowieka, napotyka nawet w najszczęśliwszym dniu nieusuwalną
 sprzeczność: fatum, którego rozum sam nie może odwrócić.
 
-[Pomniki humanizmu]{.caps-section}
+## Pomniki humanizmu ##{.caps-section}
 
 Humanizm zawsze miał swą siedzibę raczej we Francji niż
 gdziekolwiek indziej. Ale Francuzi już o tym nie wiedzieli. To,
@@ -624,7 +628,7 @@ już rząd Bluma wypowiedział wojnę tym przejawom szacunku dla
 jednostki, i nawet konserwatyści niewiele zrobili, by ocalić jego
 pomniki.
 
-[Z teorii przestępcy]{.caps-section}
+## Z teorii przestępcy ##{.caps-section}
 
 Kara pozbawienia wolności, tak jak przestępstwo, miała charakter
 mieszczański. W średniowieczu więziono książęce potomstwo,
@@ -759,7 +763,7 @@ możnowładcy mogą się już obejść, ponieważ przypadła im w udziale
 cała siła robocza narodów. Kara pozbawienia wolności blednie w
 obliczu społecznej rzeczywistości.
 
-[Le prix du progrès]{.caps-section}
+## Le prix du progrès ##{.caps-section}
 
 Niedawno odnaleziony list francuskiego fizjologa Pierre’a
 Flourens, który niegdyś zaznał smutnej sławy zwycięskiego rywala
@@ -815,7 +819,7 @@ zaślepienia, jej szansą jest zapominanie. Utrata pamięci jako
 transcendentalny warunek nauki. Wszelkie urzeczowienie jest
 zapomnieniem.
 
-[Czyste przerażenie]{.caps-section}
+## Czyste przerażenie ##{.caps-section}
 
 Gapienie się na nieszczęście ma w sobie coś z fascynacji. Ale
 zarazem coś z potajemnej zgody. Nieczyste sumienie społeczne,
@@ -836,7 +840,7 @@ ryzykować. Faszyzm daje im syntezę żądzy panowania i nienawiści
 do samych siebie, a przerażeniu w czystej postaci towarzyszy
 nieodmiennie gest: zawsze tak to sobie wyobrażałem.
 
-[Zainteresowanie ciałem]{.caps-section}
+## Zainteresowanie ciałem ##{.caps-section}
 
 Pod znaną historią Europy przebiega historia podziemna. Składa
 się na nią los stłumionych i wypaczonych instynktów i namiętności
@@ -1009,7 +1013,7 @@ ponieważ musi zdławić jedność w samym sobie. Ofiara reprezentuje
 dlań życie, które przetrwało rozdział — to życie zatem ma zostać
 złamane, a uniwersum niechaj wypełni kurz i abstrakcyjna władza.
 
-[Społeczeństwo masowe]{.caps-section}
+## Społeczeństwo masowe ##{.caps-section}
 
 Uzupełnieniem kultury gwiazd jest społeczny mechanizm, który
 zrównuje wszystko, co się wyróżnia, gwiazdy są tylko wzorami dla
@@ -1046,7 +1050,7 @@ sprowadzenie napuszonych wizerunków Wodza do rozmiarów ich
 nicości. Film Chaplina utrafił w sedno przynajmniej jeśli chodzi
 o podobieństwo między golarzem z getta a dyktatorem.
 
-[Sprzeczności]{.caps-section}
+## Sprzeczności ##{.caps-section}
 
 Moralność jako system, z twierdzeniami podstawowymi i
 wywiedzionymi, niezłomnie logiczny, niezawodny w zastosowaniu do
@@ -1163,7 +1167,7 @@ reakcji, w każdym razie rzeczywistości. Ale w dobie radykalnie
 realistycznego wychowania rozmowy stały się rzadsze, a
 neurotycznemu B trzeba będzie nadludzkich sił, by nie ozdrowieć.
 
-[Notatka]{.caps-section}
+## Notatka ##{.caps-section}
 
 Między czterdziestką a pięćdziesiątką ludzie czynią zazwyczaj
 pewne zdumiewające doświadczenie. Odkrywają, że większość tych, z
@@ -1240,7 +1244,7 @@ porządku są w prostej linii następcami melancholijnego aptekarza,
 namiętnego hodowcy róż i politycznego inwalidy z zamierzchłej
 przeszłości.
 
-[Filozofia i podział pracy]{.caps-section}
+## Filozofia i podział pracy ##{.caps-section}
 
 Miejsce nauki w społecznym podziale pracy łatwo jest rozpoznać.
 Zadaniem jej jest gromadzić możliwie największe ilości faktów i
@@ -1321,7 +1325,7 @@ Oddaje głos przedmiotowi, ale wbrew jego woli; filozofia jest
 głosem sprzeczności, która bez niej nigdy nie stanie się głośna i
 może w milczeniu triumfować.
 
-[Myśl]{.caps-section}
+## Myśl ##{.caps-section}
 
 Owszem, pogląd, że prawda danej teorii to tyle, co jej owocność,
 jest błędny. Niektórzy jednak, jak się zdaje, przyjmują pogląd
@@ -1350,7 +1354,7 @@ wynaleźli dla oprawców — a pod tym względem w ostatnim
 dziesięcioleciu nie można im zarzucić opieszałości — jest to, że
 myśl ofiary, ta myśl, za którą ją zamordowano, była błędna.
 
-[Człowiek i zwierze]{.caps-section}
+## Człowiek i zwierze ##{.caps-section}
 
 Idea człowieka w dziejach Europy wyraża się w różnicy między
 człowiekiem a zwierzęciem. Bezrozumne zwierzęta są dowodem
@@ -1710,7 +1714,7 @@ alternatyw nie natura jest niebezpieczna, praktyka ta bowiem
 pokrywa się z naturą — niebezpieczna jest uwewnętrzniona pamięć
 natury.
 
-[Propaganda]{.caps-section}
+## Propaganda ##{.caps-section}
 
 Propaganda służyć ma zmienianiu świata — co za nonsens!
 Propaganda czyni z języka instrument, dźwignię, maszynę.
@@ -1758,7 +1762,7 @@ to nie do tak zwanych mas, ani do jednostki, która jest bezsilna,
 ale raczej do urojonego świadka, któremu pozostawiamy przesłanie,
 by nie przepadło wraz z nami.
 
-[Przyczynek do genezy głupoty]{.caps-section}
+## Przyczynek do genezy głupoty ##{.caps-section}
 
 Znakiem firmowym inteligencji jest czułek ślimaka, który „widzi
 macając”, a — jeśli wierzyć Mefistofelesowi^[J.W. Goethe, *Faust.

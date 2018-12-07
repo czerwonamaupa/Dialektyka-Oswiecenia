@@ -237,18 +237,18 @@ należące do kręgu zagadnień poprzednich rozpraw, choć nie wchodzą
 w ich skład, po części zarysowujące problematykę przyszłej pracy.
 Większość dotyczy dialektycznej antropologii.
 
-<p class="date">
+:::{.date}
   Los Angeles, California, maj 1944
-</p>
+:::
 
 Książka ta prezentuje tekst w postaci, w jakiej został on
 opracowany jeszcze podczas wojny, bez istotnych zmian. Jedynie
 ostatnia teza „Żywiołów antysemityzmu” została dodana później.
 
-<p class="date">
+:::{.date}
   Czerwiec 1947
-</p>
+:::
 
-<p class="signature">
+:::{.signature}
   [Max Horkheimer]{.signature} [Theodor W. Adorno]{.signature}
-</p>
+:::

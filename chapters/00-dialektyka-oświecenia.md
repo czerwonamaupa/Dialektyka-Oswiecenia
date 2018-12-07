@@ -2,76 +2,63 @@
 % Max Horkheimer, Theodor W. Adorno
 % 1969
 
-# #
-<h2 class="authors">
-  Max Horkheimer  
-  Theodor W. Adorno
-</h2>
+# [Max Horkheimer Theodor W. Adorno]{.authors} Dialektyka Oświecenia #{#Dialektyka-Oświecenia .title}
 
-<h1 class="title">
-  Dialektyka  
-  Oświecenia
-</h1>
 
-<p class="translation">
+:::{.translation}
   Przełożyła  
   *Małgorzata Łukasiewicz*
-</p>
+:::
 
-<p class="translation">
+:::{.translation}
   Przekład przejrzał i posłowiem opatrzył  
   *Marek J. Siemek*
-</p>
+:::
 
-# #
-<p class="original-title">
+:::{.original-title}
   Tytuł oryginału  
   *Dialektik der Aufklärung. Philosophische Fragmente*
-</p>
+:::
 
-<p class="redaction">
+:::{.redaction}
   Redaktor  
   *Elżbieta Morawska*
-</p>
+:::
 
-<p class="cover">
+:::{.cover}
   Projekt okładki  
   *Andrzej Łubniewski*
-</p>
+:::
 
-<p class="digitised">
+:::{.digitised}
   Cyfryzacja  
   *Czerwonamaupa*
-</p>
+:::
 
-<p class="copyright">
+:::{.copyright}
   © 1994 by Social Studies Association Inc., New York.  
   Für die Neuausgabe:  
   © S. Fischer Verlag GmbH, Frankfurt am Main, 1969  
   © by Polish Edition Wydawnictwo IFiS PAN, 1994  
   © for the Polish Translation by Malgorzata Łukasiewicz
-</p>
+:::
 
-<p class="credits">
+:::{.credits}
   Książka powstała przy współudziale  
   Goethe Institut Warschau i Inter Nationes e.V.
-</p>
+:::
 
-<p class="isbn">
+:::{.isbn}
   ISBN 83-86166-12-6
-</p>
+:::
 
-# #
-<h2 class="dedication">
+:::{.dedication}
   Friedrichowi Pollockowi
-</h2>
+:::
 
-# #
-<h2 class="contents-title">
-  Spis treści
-</h2>
+# Spis treści #{.contents-title}
 
-<h2>
+:::{.contents}
 * [*Do nowego wydania*](#do-nowego-wydania)
 * [Przedmowa](#przedmowa)
 * [Pojęcie oświecenia](#pojęcie-oświecenia)
@@ -81,4 +68,4 @@
 * [Żywioły antysemityzmu. Granice oświecenia](#żywioły-antysemityzmu-granice-oświecenia)
 * [Notatki i szkice](#notatki-i-szkice)
 * [*Posłowie do wydania polskiego* (Marek J. Siemek)](#posłowie-do-wydania-polskiego-rozum-między-światłem-i-cieniem-oświecenia)
-</h2>
+:::

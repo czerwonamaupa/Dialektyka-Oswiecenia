@@ -511,8 +511,7 @@ Przepaska na oczach bogini sprawiedliwości oznacza nie tylko, że
 w prawo nie wolno ingerować, ale ponadto — że nie wyrasta ono z
 wolności.
 
-</br>
-
+:::{.subsection}
 Nauka kapłanów była symboliczna w tym sensie, że stapiały się w
 niej ze sobą znak i obraz. Jak zaświadczają hieroglify, słowo
 spełniało pierwotnie także funkcję obrazu. Funkcja ta przeszła na
@@ -559,6 +558,7 @@ pozytywistycznej nauki. Sztuka ta w istocie staje się raz jeszcze
 znaku i obrazu jest nieodwołalny. Ale gdy nieświadomie raz
 jeszcze zostaje w najlepsze zhipostazowany, wówczas każda z dwóch
 wyizolowanych zasad prze do zniszczenia prawdy.
+:::
 
 Przepaść, jaką otwiera ów rozdział, filozofia upatrywała w
 stosunku oglądu i pojęcia, zawsze też daremnie próbowała zewrzeć
@@ -961,8 +961,7 @@ wybuchnąć: ludzie oczekują, że świat, taki jaki jest, bez
 wyjścia, zostanie strawiony ogniem za sprawą wszechpotęgi, którą
 są oni sami i nad którą nie mają żadnej władzy.
 
-</br>
-
+:::{.subsection}
 Mityczną zgrozę oświecenia budzi mit. Oświecenie dopatruje się
 mitu nie tylko w nie objaśnionych pojęciach i słowach, jak każe
 maniacka semantyczna krytyka języka, ale w każdej ludzkiej
@@ -1081,6 +1080,7 @@ słońcem kalkulującego rozumu, w którego lodowatych promieniach
 dojrzewa nowe barbarzyństwo. Pod presją panowania praca ludzka
 zawsze się od mitu oddalała, i pod presją panowania wciąż na nowo
 popadała w zaklęty krąg mitu.
+:::
 
 Splot mitu, panowania i pracy przekazuje jedna z homeryckich
 opowieści. Dwunasta pieśń *Odysei* mówi o spotkaniu z syrenami.

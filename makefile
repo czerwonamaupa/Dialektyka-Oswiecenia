@@ -1,26 +1,30 @@
-default : index.html dialektyka-oswiecenia.epub dialektyka-oswiecenia.mobi
+default : index.html ebooks/dialektyka-oswiecenia.mobi
 
-index.html : chapters/* index.css html.css template.t
+index.html : chapters/* styles/index.css styles/html.css template.t
 	pandoc \
 			-s \
 			--section-divs \
 			-o index.html \
-			-c index.css \
-			-c html.css \
+			-c styles/index.css \
+			-c styles/html.css \
 			--template template.t \
 			chapters/*
 
-dialektyka-oswiecenia.epub : chapters/* index.css epub.css template.t cover.jpg
+styles/ebook.css : styles/index.css styles/epub.css
+	cat styles/index.css > styles/ebook.css && cat styles/epub.css >> styles/ebook.css
+
+ebooks/dialektyka-oswiecenia.epub : chapters/* styles/ebook.css template.t cover.jpg
 	pandoc \
 			-s \
 			--section-divs \
-			--toc-depth=1 \
+			--toc-depth=2 \
 			--epub-cover-image cover.jpg \
-			-o dialektyka-oswiecenia.epub \
-			-c index.css \
-			-c epub.css \
+			-o ebooks/dialektyka-oswiecenia.epub \
+			-c styles/ebook.css \
+			--epub-embed-font 'fonts/*' \
 			--template template.t \
+			-t epub3 \
 			chapters/*
 
-dialektyka-oswiecenia.mobi : dialektyka-oswiecenia.epub cover.jpg
-	ebook-convert dialektyka-oswiecenia.{epub,mobi} --cover cover.jpg
+ebooks/dialektyka-oswiecenia.mobi : ebooks/dialektyka-oswiecenia.epub
+	kindlegen ebooks/dialektyka-oswiecenia.epub

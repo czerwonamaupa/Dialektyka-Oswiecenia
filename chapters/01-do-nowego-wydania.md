@@ -66,10 +66,10 @@ skorygowaniu błędów drukarskich i tym podobnych. Wskutek tej
 powściągliwości książka staje się dokumentem; mamy nadzieję, że
 jest zarazem czymś więcej.
 
-<p class="signature">
+:::{.signature}
   [Max Horkheimer]{.signature} [Theodor W. Adorno]{.signature}
-<p>
+:::
 
-<p class="date">
+:::{.date}
   Frankfurt nad Menem, kwiecień 1969
-</p>
+:::

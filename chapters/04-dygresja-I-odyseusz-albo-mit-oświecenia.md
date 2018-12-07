@@ -1367,16 +1367,13 @@ kultura splatają się ze sobą, ale Homer podsuwa na pociechę
 przypomnienie: BYŁ SOBIE RAZ… Dopiero jako powieść epopeja staje
 się bajką.
 
-[^59]:
-  <p>
-   *Odyseja*, XXII, 473 (s. 352; w przekładzie Lucjana
-   Siemieńskiego fragment ten brzmi:
-  </p>
-  <blockquote class="footnote-quote">
-    Takie i z onych niewiast było widowisko,  
-    Kiedy jedna przy drugiej i głowa przy głowie  
-    Wisiały tam linie jak owi ptaszkowie,  
-    Każda z sznurkiem na szyi, zduszona cichutko,  
-    Coś nogami zadrgawszy w powietrzu, lecz krótko…
-  </blockquote>
-  Biblioteka Narodowa, Wrocław—Kraków 1959)
+[^59]: *Odyseja*, XXII, 473 (s. 352; w przekładzie Lucjana
+    Siemieńskiego fragment ten brzmi:
+
+    > Takie i z onych niewiast było widowisko,  
+    > Kiedy jedna przy drugiej i głowa przy głowie  
+    > Wisiały tam linie jak owi ptaszkowie,  
+    > Każda z sznurkiem na szyi, zduszona cichutko,  
+    > Coś nogami zadrgawszy w powietrzu, lecz krótko…
+
+    Biblioteka Narodowa, Wrocław—Kraków 1959)

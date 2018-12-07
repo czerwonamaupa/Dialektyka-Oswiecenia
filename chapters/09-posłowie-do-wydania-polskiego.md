@@ -581,4 +581,6 @@ hiperkrytycznym nadoświeceniem, które, chcąc żyć tylko swym
 swej własnej „dialektyki” tak gruntownie, że nagle znajduje
 najbliższego partnera i sojusznika w notorycznym kontroświeceniu.
 
-<p class="signature">MAREK J. SIEMEK</p>
+:::{.signature}
+MAREK J. SIEMEK
+:::
