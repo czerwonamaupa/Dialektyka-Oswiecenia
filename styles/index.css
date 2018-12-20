@@ -4,7 +4,8 @@ html
 { font-size: 0.7rem; }
 
 body
-{ padding: 1rem; }
+{ padding: 1rem;
+  hyphens: none; }
 
 h1
 { font-weight: bold;
