@@ -29,3 +29,6 @@ ebooks/dialektyka-oswiecenia.epub : chapters/* styles/ebook.css template.t filte
 
 ebooks/dialektyka-oswiecenia.mobi : ebooks/dialektyka-oswiecenia.epub
 	kindlegen ebooks/dialektyka-oswiecenia.epub
+
+clean :
+	$(RM) ebooks/* index.html styles/ebook.css
