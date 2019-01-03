@@ -202,5 +202,8 @@ span.normal
 li > p
 { text-indent: 0; }
 
+.footnotes ol
+{ list-style: none; }
+
 sup
 { line-height: 0; }

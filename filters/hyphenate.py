@@ -2,7 +2,7 @@ import re
 from pandocfilters import Para, Str, toJSONFilter, walk
 from pyphen import Pyphen
 
-dic = Pyphen(lang='en_US', left=3, right=3)
+dic = Pyphen(lang='pl_PL', left=3, right=3)
 
 word_detection_pattern = re.compile(r'\w{7,}', re.UNICODE)
 
