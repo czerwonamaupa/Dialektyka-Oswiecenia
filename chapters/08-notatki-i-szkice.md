@@ -328,7 +328,7 @@ wypędzeniu z raju, i *Les Soirées de Petersbourg* są ze sobą
 zgodne. Znak kata przyświeca pracy i uciechom. Zaprzeczanie temu
 jest obrazą wszelkiej nauki, wszelkiej logiki. Nie można
 wyeliminować strachu i jednocześnie zachować cywilizacji. Już
-osłabienie strachu Oznacza początek rozkładu. Można stąd wyciągać
+osłabienie strachu oznacza początek rozkładu. Można stąd wyciągać
 najrozmaitsze konsekwencje: padać na kolana przed faszystowskim
 barbarzyństwem albo szukać schronienia w kręgach piekła. Istnieje
 jeszcze inna możliwość: drwić sobie z logiki, która zwraca się
@@ -410,13 +410,13 @@ rozjaśniają świat, a nie palą.
 Ogólne pojęcia, ukute przez poszczególne nauki w drodze
 abstrakcji albo aksjomatycznie, są środkiem przedstawiania, tak
 jak nazwy w stosunku do pojedynczych rzeczy. Walka z ogólnymi
-pojęciami jest nonsensem. Ale nie znaczy to, że ogólności przy
-sługuje specjalne dostojeństwo. Cecha wspólna wielu pojedynczym
-rzeczom jednostkowym albo zawsze się powtarzająca bynajmniej nie
-musi być bardziej stabilna, odwieczniejsza, głębsza niż jakaś
-cecha indywidualna. Skala gatunków nie pokrywa się ze skalą
-ważności. Na tym właśnie polegał błąd eleatów i wszystkich ich
-następców, z Platonem i Arystotelesem na czele.
+pojęciami jest nonsensem. Ale nie znaczy to, że ogólności
+przysługuje specjalne dostojeństwo. Cecha wspólna wielu
+pojedynczym rzeczom jednostkowym albo zawsze się powtarzająca
+bynajmniej nie musi być bardziej stabilna, odwieczniejsza,
+głębsza niż jakaś cecha indywidualna. Skala gatunków nie pokrywa
+się ze skalą ważności. Na tym właśnie polegał błąd eleatów i
+wszystkich ich następców, z Platonem i Arystotelesem na czele.
 
 Świat jest wydarzeniem jednorazowym. Proste powtarzanie momentów,
 które nawracają wciąż w tej samej postaci, przypomina raczej
