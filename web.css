@@ -1,0 +1,242 @@
+@charset "UTF-8";
+
+html
+{ font-size: 0.7rem; }
+
+body
+{ padding: 1rem;
+  hyphens: none; }
+
+h1
+{ font-weight: bold;
+  text-align: left;
+  margin-top: 3rem;
+  margin-bottom: 8rem;
+  font-size: 2rem;
+  line-height: 1; }
+
+.title h1
+{ text-transform: uppercase;
+  text-align: center;
+  font-size: 3rem;
+  width: 22rem;
+  margin: 0 auto 10rem auto; }
+
+h1 span.authors
+{ font-variant: small-caps;
+  font-weight: bold;
+  font-style: italic;
+  margin: 3rem auto;
+  font-size: 1.5rem;
+  line-height: 1;
+  display: block;
+  width: 18rem;
+  text-align: center;
+  text-indent: 0; }
+
+.contents-title h1
+{ font-style: italic;
+  font-weight: normal;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 3rem; }
+
+.contents ul
+{ padding-left: 2rem;
+  list-style: none; }
+
+.contents li
+{ margin: 1rem 0;
+  font-size: 1.4rem;
+  text-align: left; }
+
+
+span.subtitle
+{ font-size: 1.2rem;
+  font-weight: lighter;
+  display: block;
+  margin-top: 2rem; }
+
+span.overtitle
+{ text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 2rem; }
+
+span.caps-subtitle
+{ text-transform: uppercase;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  display: block;
+  margin-top: 2rem;
+  margin-bottom: 2rem; }
+
+span.section
+{ font-size: 1.5rem;
+  display: block;
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
+
+span.center-section
+{ font-size: 1.5rem;
+  display: block;
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
+
+.caps-section h2
+{ font-size: 1.2rem;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
+
+span.addendum
+{ font-size: 1.2rem;
+  display: block;
+  font-style: italic;
+  text-indent: 0;
+  margin-top: 3rem;
+  margin-bottom: 2rem; }
+
+p
+{ font-size: 1.2rem;
+  line-height: 1.4rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: justify;
+  hyphens: manual;
+  text-indent: 1rem; }
+
+.translation p, .original-title p, .copyright p, .redaction p,
+.digitised p, .cover p, .credits p, .isbn p, .dedication p
+{ font-weight: 400;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  line-height: 1;
+  text-align: center;
+  text-indent: 0; }
+
+.digitised p { margin-bottom: 10rem; }
+
+.dedication p
+{ text-align: right;
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+  margin: 30rem 0; }
+
+.double-quote p
+{ margin-top: 0.5rem;
+  padding-left: 3rem;
+  line-height: 1.4rem;
+  font-size: 1.2rem;
+  text-indent: 0; }
+
+.quote p
+{ margin-top: 0.5rem;
+  padding-left: 1.5rem;
+  line-height: 1.4rem;
+  font-size: 1.2rem;
+  text-indent: 0; }
+
+blockquote p
+{ text-indent: 0; }
+
+.subsection p
+{ margin-top: 1.4rem; }
+
+.footer p
+{ margin-top: 32rem;
+  line-height: 1.4rem;
+  font-size: 1.2rem;
+  text-indent: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 28rem; }
+
+ol, ul
+{ padding-left: 1rem;
+  text-align: left; }
+
+ul
+{ list-style: none; }
+
+li
+{ margin: 1rem 0; }
+
+a:link, a:visited
+{ color: inherit; }
+
+a:link
+{ text-decoration: none; }
+
+img
+{ margin: 2rem auto;
+  display: block; }
+
+.signature p
+{ text-align: right;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  margin: 2rem 0; }
+
+span.signature
+{ display: inline-block;
+  padding-left: 1rem; }
+
+.date p
+{ text-indent: 0;
+  font-style: italic;
+  margin: 2rem 0; }
+
+span.smallcaps
+{ font-weight: 600; }
+
+span.normal
+{ text-transform: none; }
+
+li > p
+{ text-indent: 0; }
+
+.footnotes ol
+{ list-style: none; }
+
+sup
+{ line-height: 0; }
+@font-face
+{ font-family: libertine;
+  src: url(../fonts/LinLibertine_R.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-style: italic;
+  src: url(../fonts/LinLibertine_RI.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-weight: bold;
+  src: url(../fonts/LinLibertine_RB.woff); }
+
+@font-face
+{ font-family: libertine;
+  font-weight: bold;
+  font-style: italic;
+  src: url(../fonts/LinLibertine_RBI.woff); }
+
+body
+{ font-family: libertine, serif; }
+
+@media (min-width: 34rem)
+{ html
+    { font-size: 1rem; }
+
+  body
+  { width: 34rem;
+    margin: 0 auto; } }
+
+section.level1
+{ margin-bottom: 20rem; }
